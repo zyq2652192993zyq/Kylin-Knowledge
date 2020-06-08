@@ -16,11 +16,12 @@ int main()
 		seq.push_back(line);
 	}
 
-	sort(seq.begin(), seq.end());
+	//sort(seq.begin(), seq.end());
 	int n = seq.size();
 	for (int i = 0; i < n; ++i) {
 		int len = seq[i].size();
 		
+		cout << "- ";
 		cout << seq[i].substr(0, len - 3) << ": ";
 		cout << "Algorithm/LeetCode/" << seq[i] << endl;
 	}
