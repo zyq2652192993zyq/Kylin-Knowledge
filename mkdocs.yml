@@ -60,6 +60,333 @@ nav:
 
     - 数据结构和算法: 
         # - 算法分析: Algorithm/cc.md
+        - Problem-Solution:
+            - ALGOSPOT-ASYMILING（动态规划-非对称铺设）. : Algorithm/Problem-Solution/ALGOSPOT-ASYMILING（动态规划-非对称铺设）.md
+            - ALGOSPOT-PACKING(01背包，输出路径). : Algorithm/Problem-Solution/ALGOSPOT-PACKING(01背包，输出路径).md
+            - ALGOSPOT-PICNIC(递归). : Algorithm/Problem-Solution/ALGOSPOT-PICNIC(递归).md
+            - ALGOSPOT-TILING2（动态规划-斐波那契数列）. : Algorithm/Problem-Solution/ALGOSPOT-TILING2（动态规划-斐波那契数列）.md
+            - AOJ-0033 Ball(DFS + 贪心). : Algorithm/Problem-Solution/AOJ-0033 Ball(DFS + 贪心).md
+            - AOJ-0118 Property Distribution(DFS, lake counting类问题). : Algorithm/Problem-Solution/AOJ-0118 Property Distribution(DFS, lake counting类问题).md
+            - AOJ-0121 Seven Puzzle（BFS，八数码类型问题）. : Algorithm/Problem-Solution/AOJ-0121 Seven Puzzle（BFS，八数码类型问题）.md
+            - AOJ-0525 Osenbei（经典暴力DFS，剪枝加速）. : Algorithm/Problem-Solution/AOJ-0525 Osenbei（经典暴力DFS，剪枝加速）.md
+            - AOJ-0558 Chess(BFS最短路). : Algorithm/Problem-Solution/AOJ-0558 Chess(BFS最短路).md
+            - Aizu - ALDS1_1_C Prime Numbers(数论-质数检验). : Algorithm/Problem-Solution/Aizu - ALDS1_1_C Prime Numbers(数论-质数检验).md
+            - Aizu - ALDS1_6_B Partition （快排）. : Algorithm/Problem-Solution/Aizu - ALDS1_6_B Partition （快排）.md
+            - Aizu - CGL_1_A Projection（计算几何，投影）. : Algorithm/Problem-Solution/Aizu - CGL_1_A Projection（计算几何，投影）.md
+            - Aizu - CGL_1_B Reflection（计算几何，映像）. : Algorithm/Problem-Solution/Aizu - CGL_1_B Reflection（计算几何，映像）.md
+            - Aizu - CGL_2_A ParallelOrthogonal（计算几何-直线正交，平行判定）. : Algorithm/Problem-Solution/Aizu - CGL_2_A ParallelOrthogonal（计算几何-直线正交，平行判定）.md
+            - Aizu - CGL_2_B Intersection (计算几何，判断直线相交). : Algorithm/Problem-Solution/Aizu - CGL_2_B Intersection (计算几何，判断直线相交).md
+            - Aizu - CGL_2_C Cross Point(计算几何，线段交点). : Algorithm/Problem-Solution/Aizu - CGL_2_C Cross Point(计算几何，线段交点).md
+            - Aizu - CGL_2_D Distance（计算几何，逆时针）. : Algorithm/Problem-Solution/Aizu - CGL_2_D Distance（计算几何，逆时针）.md
+            - Aizu - DPL_3_A Largest Square(基础DP，最大正方形). : Algorithm/Problem-Solution/Aizu - DPL_3_A Largest Square(基础DP，最大正方形).md
+            - Aizu-ALDS1_6_A Counting Sort. : Algorithm/Problem-Solution/Aizu-ALDS1_6_A Counting Sort.md
+            - CODE[VS] - 1116 四色问题（DFS）. : Algorithm/Problem-Solution/CODE[VS] - 1116 四色问题（DFS）.md
+            - CODE[VS] - 1295 N皇后问题（DFS）. : Algorithm/Problem-Solution/CODE[VS] - 1295 N皇后问题（DFS）.md
+            - CODE[VS] 线段覆盖（最长上升子序列LIS）. : Algorithm/Problem-Solution/CODE[VS] 线段覆盖（最长上升子序列LIS）.md
+            - CodeForces-510C Fox and Names（拓扑排序）. : Algorithm/Problem-Solution/CodeForces-510C Fox and Names（拓扑排序）.md
+            - CodeForces-1008A Romaji（基础字符串）. : Algorithm/Problem-Solution/CodeForces-1008A Romaji（基础字符串）.md
+            - CodeForces-1350A Orac and Factors(数学规律). : Algorithm/Problem-Solution/CodeForces-1350A Orac and Factors(数学规律).md
+            - HDU-1002 A + B Problem 2(高精度加法). : Algorithm/Problem-Solution/HDU-1002 A + B Problem 2(高精度加法).md
+            - HDU-1003 Max Sum(动态规划 最大连续子序列和). : Algorithm/Problem-Solution/HDU-1003 Max Sum(动态规划 最大连续子序列和).md
+            - HDU-1009 FatMouse' Trade（贪心，部分背包）. : Algorithm/Problem-Solution/HDU-1009 FatMouse' Trade（贪心，部分背包）.md
+            - HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和). : Algorithm/Problem-Solution/HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和).md
+            - HDU-1052 Tian Ji -- The Horse Racing（基础贪心）. : Algorithm/Problem-Solution/HDU-1052 Tian Ji -- The Horse Racing（基础贪心）.md
+            - HDU-1062 Text Reverse（split函数）. : Algorithm/Problem-Solution/HDU-1062 Text Reverse（split函数）.md
+            - HDU-1080 Human Gene Functions(动态规划 最长公共子序列). : Algorithm/Problem-Solution/HDU-1080 Human Gene Functions(动态规划 最长公共子序列).md
+            - HDU-1114 Piggy-Bank(动态规划 完全背包). : Algorithm/Problem-Solution/HDU-1114 Piggy-Bank(动态规划 完全背包).md
+            - HDU-1171 Big Event in HDU（单调队列优化背包DP）. : Algorithm/Problem-Solution/HDU-1171 Big Event in HDU（单调队列优化背包DP）.md
+            - HDU-1197 Specialized Four-Digit Numbers（枚举、进制转换）. : Algorithm/Problem-Solution/HDU-1197 Specialized Four-Digit Numbers（枚举、进制转换）.md
+            - HDU-1213 How Many Tables（基础并查集）. : Algorithm/Problem-Solution/HDU-1213 How Many Tables（基础并查集）.md
+            - HDU-1247 Hat’s Words(单词查找树). : Algorithm/Problem-Solution/HDU-1247 Hat’s Words(单词查找树).md
+            - HDU-1248 寒冰王座（完全背包）. : Algorithm/Problem-Solution/HDU-1248 寒冰王座（完全背包）.md
+            - HDU-1249 三角形（递推）. : Algorithm/Problem-Solution/HDU-1249 三角形（递推）.md
+            - HDU-1251 统计难题（单词查找树）. : Algorithm/Problem-Solution/HDU-1251 统计难题（单词查找树）.md
+            - HDU-1257 最少拦截系统（动态规划 最长上升子序列(LIS)）. : Algorithm/Problem-Solution/HDU-1257 最少拦截系统（动态规划 最长上升子序列(LIS)）.md
+            - HDU-1503 Advanced Fruits(动态规划 最长公共子序列). : Algorithm/Problem-Solution/HDU-1503 Advanced Fruits(动态规划 最长公共子序列).md
+            - HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）. : Algorithm/Problem-Solution/HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）.md
+            - HDU-1517 A Multiplication Game（找规律，类似巴什博弈）. : Algorithm/Problem-Solution/HDU-1517 A Multiplication Game（找规律，类似巴什博弈）.md
+            - HDU-1525 Euclid's Game（基础博弈）. : Algorithm/Problem-Solution/HDU-1525 Euclid's Game（基础博弈）.md
+            - HDU-1564 Play a game（找规律，基础博弈论）. : Algorithm/Problem-Solution/HDU-1564 Play a game（找规律，基础博弈论）.md
+            - HDU-1671 Phone List（单词查找树）. : Algorithm/Problem-Solution/HDU-1671 Phone List（单词查找树）.md
+            - HDU-1711 Number Sequence（KMP算法）. : Algorithm/Problem-Solution/HDU-1711 Number Sequence（KMP算法）.md
+            - HDU-1864 Brave Game（巴什博弈板子题）. : Algorithm/Problem-Solution/HDU-1864 Brave Game（巴什博弈板子题）.md
+            - HDU-1878 欧拉回路（连通性+偶数度数检验）. : Algorithm/Problem-Solution/HDU-1878 欧拉回路（连通性+偶数度数检验）.md
+            - HDU-2050 折线分割平面(递推). : Algorithm/Problem-Solution/HDU-2050 折线分割平面(递推).md
+            - HDU-2181 哈密顿绕行世界问题(哈密顿路径). : Algorithm/Problem-Solution/HDU-2181 哈密顿绕行世界问题(哈密顿路径).md
+            - HDU-2188 选拔志愿者（巴什博弈）. : Algorithm/Problem-Solution/HDU-2188 选拔志愿者（巴什博弈）.md
+            - HDU-2191 买大米（动态规划 多重背包）. : Algorithm/Problem-Solution/HDU-2191 买大米（动态规划 多重背包）.md
+            - HDU-2222 Keywords Search (AC自动机). : Algorithm/Problem-Solution/HDU-2222 Keywords Search (AC自动机).md
+            - HDU-2399 GPA（格式化输出）. : Algorithm/Problem-Solution/HDU-2399 GPA（格式化输出）.md
+            - HDU-2602 Bone Collector（动态规划 01背包）. : Algorithm/Problem-Solution/HDU-2602 Bone Collector（动态规划 01背包）.md
+            - HDU-2844 Coins（多重背包可过）. : Algorithm/Problem-Solution/HDU-2844 Coins（多重背包可过）.md
+            - HDU-2896 病毒侵袭（AC自动机）. : Algorithm/Problem-Solution/HDU-2896 病毒侵袭（AC自动机）.md
+            - HDU-3089 Josephus again（约瑟夫问题-优化）. : Algorithm/Problem-Solution/HDU-3089 Josephus again（约瑟夫问题-优化）.md
+            - HDU-3496 Watch The Movie（二维01背包）. : Algorithm/Problem-Solution/HDU-3496 Watch The Movie（二维01背包）.md
+            - HDU-3732 Ahui Writes Word(01背包转型多重背包). : Algorithm/Problem-Solution/HDU-3732 Ahui Writes Word(01背包转型多重背包).md
+            - HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法). : Algorithm/Problem-Solution/HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法).md
+            - LOJ-6277 数列分块入门1. : Algorithm/Problem-Solution/LOJ-6277 数列分块入门1.md
+            - NYOJ-16 嵌套矩形（最长上升子序列LIS）. : Algorithm/Problem-Solution/NYOJ-16 嵌套矩形（最长上升子序列LIS）.md
+            - OpenJudge-162 Post Office（区间DP）. : Algorithm/Problem-Solution/OpenJudge-162 Post Office（区间DP）.md
+            - POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）. : Algorithm/Problem-Solution/POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）.md
+            - POJ-1017 Packets（贪心+细节模拟，完美正方形）. : Algorithm/Problem-Solution/POJ-1017 Packets（贪心+细节模拟，完美正方形）.md
+            - POJ-1041 John's trip(欧拉回路). : Algorithm/Problem-Solution/POJ-1041 John's trip(欧拉回路).md
+            - POJ-1050 To the Max(二维矩阵的最大部分和). : Algorithm/Problem-Solution/POJ-1050 To the Max(二维矩阵的最大部分和).md
+            - POJ-1065 Wooden Sticks（贪心-区间划分）. : Algorithm/Problem-Solution/POJ-1065 Wooden Sticks（贪心-区间划分）.md
+            - POJ-1129 Channel Allocation(四色问题的DFS). : Algorithm/Problem-Solution/POJ-1129 Channel Allocation(四色问题的DFS).md
+            - POJ-1164 The Castle（稍加思考的DFS泛洪）. : Algorithm/Problem-Solution/POJ-1164 The Castle（稍加思考的DFS泛洪）.md
+            - POJ-1182 食物链（带权并查集或基础并查集空间倍增）. : Algorithm/Problem-Solution/POJ-1182 食物链（带权并查集或基础并查集空间倍增）.md
+            - POJ-1186 方程的解数（DFS + 暴力枚举 + 哈希优化）. : Algorithm/Problem-Solution/POJ-1186 方程的解数（DFS + 暴力枚举 + 哈希优化）.md
+            - POJ-1220 NUMBER BASE CONVERSION（大整数进制转换）. : Algorithm/Problem-Solution/POJ-1220 NUMBER BASE CONVERSION（大整数进制转换）.md
+            - POJ-1276 Cash Machine(多重背包). : Algorithm/Problem-Solution/POJ-1276 Cash Machine(多重背包).md
+            - POJ-1321 棋盘问题（DFS）. : Algorithm/Problem-Solution/POJ-1321 棋盘问题（DFS）.md
+            - POJ-1328 Radar Installation(贪心，区间选点). : Algorithm/Problem-Solution/POJ-1328 Radar Installation(贪心，区间选点).md
+            - POJ-1331 Multiply(进制转换). : Algorithm/Problem-Solution/POJ-1331 Multiply(进制转换).md
+            - POJ-1458 Common Subsequence（动态规划 最长公共子序列）. : Algorithm/Problem-Solution/POJ-1458 Common Subsequence（动态规划 最长公共子序列）.md
+            - POJ-1580 String Matching（分数化简+字符串基础）. : Algorithm/Problem-Solution/POJ-1580 String Matching（分数化简+字符串基础）.md
+            - POJ-1631 Bridging signals（最长上升子序列(LIS)+二分优化）. : Algorithm/Problem-Solution/POJ-1631 Bridging signals（最长上升子序列(LIS)+二分优化）.md
+            - POJ-1651 Multiplication Puzzle（基础区间DP）. : Algorithm/Problem-Solution/POJ-1651 Multiplication Puzzle（基础区间DP）.md
+            - POJ-1664 放苹果（划分数模板题）. : Algorithm/Problem-Solution/POJ-1664 放苹果（划分数模板题）.md
+            - POJ-1703 Find them, Catch them（基础并查集开双倍空间）. : Algorithm/Problem-Solution/POJ-1703 Find them, Catch them（基础并查集开双倍空间）.md
+            - POJ-1742 Coins（多重背包存在性）. : Algorithm/Problem-Solution/POJ-1742 Coins（多重背包存在性）.md
+            - POJ-1753 Flip Game（反转，开关问题+位运算）. : Algorithm/Problem-Solution/POJ-1753 Flip Game（反转，开关问题+位运算）.md
+            - POJ-1852 Ants（思维题目）. : Algorithm/Problem-Solution/POJ-1852 Ants（思维题目）.md
+            - POJ-1862 Stripies(优先级队列，Huffman编码思想). : Algorithm/Problem-Solution/POJ-1862 Stripies(优先级队列，Huffman编码思想).md
+            - POJ-1915 Knight Moves（迷宫型BFS）. : Algorithm/Problem-Solution/POJ-1915 Knight Moves（迷宫型BFS）.md
+            - POJ-1979 Red and Black(DFS 最大连通区域类问题). : Algorithm/Problem-Solution/POJ-1979 Red and Black(DFS 最大连通区域类问题).md
+            - POJ-2010 Moo University - Financial Aid（优先级队列）. : Algorithm/Problem-Solution/POJ-2010 Moo University - Financial Aid（优先级队列）.md
+            - POJ-2049 Finding Nemo(BFS). : Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS).md
+            - POJ-2049 Finding Nemo(BFS最短路径). : Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS最短路径).md
+            - POJ-2063 Investment(动态规划 完全背包). : Algorithm/Problem-Solution/POJ-2063 Investment(动态规划 完全背包).md
+            - POJ-2184 Cow Exhibition（带负数的01背包）. : Algorithm/Problem-Solution/POJ-2184 Cow Exhibition（带负数的01背包）.md
+            - POJ-2229 Sumsets(完全背包变形). : Algorithm/Problem-Solution/POJ-2229 Sumsets(完全背包变形).md
+            - POJ-2236 Wireless Network（基础并查集）. : Algorithm/Problem-Solution/POJ-2236 Wireless Network（基础并查集）.md
+            - POJ-2251 Dungeon Master（三维迷宫BFS）. : Algorithm/Problem-Solution/POJ-2251 Dungeon Master（三维迷宫BFS）.md
+            - POJ-2376 Cleaning Shifts（贪心，最少区间覆盖）. : Algorithm/Problem-Solution/POJ-2376 Cleaning Shifts（贪心，最少区间覆盖）.md
+            - POJ-2385 Apple Catching（动态规划）. : Algorithm/Problem-Solution/POJ-2385 Apple Catching（动态规划）.md
+            - POJ-2386 Lake Counting(DFS搜索). : Algorithm/Problem-Solution/POJ-2386 Lake Counting(DFS搜索).md
+            - POJ-2392 Space Elevator（多重背包存在性）. : Algorithm/Problem-Solution/POJ-2392 Space Elevator（多重背包存在性）.md
+            - POJ-2393 Yogurt factory（贪心）. : Algorithm/Problem-Solution/POJ-2393 Yogurt factory（贪心）.md
+            - POJ-2406 Power Strings(KMP算法). : Algorithm/Problem-Solution/POJ-2406 Power Strings(KMP算法).md
+            - POJ-2431 Expedition（优先级队列）. : Algorithm/Problem-Solution/POJ-2431 Expedition（优先级队列）.md
+            - POJ-2453 An Easy Problem（位运算，集合的整数表示）. : Algorithm/Problem-Solution/POJ-2453 An Easy Problem（位运算，集合的整数表示）.md
+            - POJ-2456 Aggressive cows（二分，最大化最小值）. : Algorithm/Problem-Solution/POJ-2456 Aggressive cows（二分，最大化最小值）.md
+            - POJ-2533 Longest Ordered Subsequence(最长上升子序列 LIS). : Algorithm/Problem-Solution/POJ-2533 Longest Ordered Subsequence(最长上升子序列 LIS).md
+            - POJ-2559 Largest Rectangle in a Histogram（单调栈模板）. : Algorithm/Problem-Solution/POJ-2559 Largest Rectangle in a Histogram（单调栈模板）.md
+            - POJ-2718 Smallest Difference（全排列，搜索或STL）. : Algorithm/Problem-Solution/POJ-2718 Smallest Difference（全排列，搜索或STL）.md
+            - POJ-2773 Happy 2006（GCD技巧）. : Algorithm/Problem-Solution/POJ-2773 Happy 2006（GCD技巧）.md
+            - POJ-2785 4 Values whose Sum is 0（折半枚举）. : Algorithm/Problem-Solution/POJ-2785 4 Values whose Sum is 0（折半枚举）.md
+            - POJ-2823 Sliding Window（单调队列模板）. : Algorithm/Problem-Solution/POJ-2823 Sliding Window（单调队列模板）.md
+            - POJ-2955 Brackets(区间DP). : Algorithm/Problem-Solution/POJ-2955 Brackets(区间DP).md
+            - POJ-2976 Dropping tests（01分数规划==最大化平均值）. : Algorithm/Problem-Solution/POJ-2976 Dropping tests（01分数规划==最大化平均值）.md
+            - POJ-3009 Curling 2.0(DFS搜索所有路径). : Algorithm/Problem-Solution/POJ-3009 Curling 2.0(DFS搜索所有路径).md
+            - POJ-3040 Allowance（贪心，思路清奇）. : Algorithm/Problem-Solution/POJ-3040 Allowance（贪心，思路清奇）.md
+            - POJ-3045 Cow Acrobats（贪心好题）. : Algorithm/Problem-Solution/POJ-3045 Cow Acrobats（贪心好题）.md
+            - POJ-3046 Ant Counting（多重集合组合数，计数类DP）. : Algorithm/Problem-Solution/POJ-3046 Ant Counting（多重集合组合数，计数类DP）.md
+            - POJ-3050 Hopscotch(DFS暴力搜索). : Algorithm/Problem-Solution/POJ-3050 Hopscotch(DFS暴力搜索).md
+            - POJ-3061 Subsequence（前缀和+二分搜索+尺取法）. : Algorithm/Problem-Solution/POJ-3061 Subsequence（前缀和+二分搜索+尺取法）.md
+            - POJ-3069 Saruman's Army（区间贪心）. : Algorithm/Problem-Solution/POJ-3069 Saruman's Army（区间贪心）.md
+            - POJ-3104 Drying（二分法，思维）. : Algorithm/Problem-Solution/POJ-3104 Drying（二分法，思维）.md
+            - POJ-3111 K Best（01分数规划==最大化平均值）. : Algorithm/Problem-Solution/POJ-3111 K Best（01分数规划==最大化平均值）.md
+            - POJ-3176 Cow Bowling(DP，数字三角形). : Algorithm/Problem-Solution/POJ-3176 Cow Bowling(DP，数字三角形).md
+            - POJ-3181 Dollar Dayz（划分数+高精度）. : Algorithm/Problem-Solution/POJ-3181 Dollar Dayz（划分数+高精度）.md
+            - POJ-3187 Backward Digit Sums（排列组合，Pascal三角形）. : Algorithm/Problem-Solution/POJ-3187 Backward Digit Sums（排列组合，Pascal三角形）.md
+            - POJ-3190 Stall Reservations（贪心，区间划分+路径输出）. : Algorithm/Problem-Solution/POJ-3190 Stall Reservations（贪心，区间划分+路径输出）.md
+            - POJ-3253 Fence Repair(贪心或优先级队列). : Algorithm/Problem-Solution/POJ-3253 Fence Repair(贪心或优先级队列).md
+            - POJ-3258 River Hopscotch（二分，最大化最小值）. : Algorithm/Problem-Solution/POJ-3258 River Hopscotch（二分，最大化最小值）.md
+            - POJ-3262 Protecting the Flowers(贪心). : Algorithm/Problem-Solution/POJ-3262 Protecting the Flowers(贪心).md
+            - POJ-3264 Balanced Lineup(线段树). : Algorithm/Problem-Solution/POJ-3264 Balanced Lineup(线段树).md
+            - POJ-3273 Monthly Expense（二分，最小化最大值）. : Algorithm/Problem-Solution/POJ-3273 Monthly Expense（二分，最小化最大值）.md
+            - POJ-3276 Face The Right Way（开关问题）. : Algorithm/Problem-Solution/POJ-3276 Face The Right Way（开关问题）.md
+            - POJ-3279 Fliptile（反转，开关问题+位运算）. : Algorithm/Problem-Solution/POJ-3279 Fliptile（反转，开关问题+位运算）.md
+            - POJ-3280 Cheapest Palindrome（动态规划，回文字符串）. : Algorithm/Problem-Solution/POJ-3280 Cheapest Palindrome（动态规划，回文字符串）.md
+            - POJ-3320 Jessica's Reading Problem（尺取法）. : Algorithm/Problem-Solution/POJ-3320 Jessica's Reading Problem（尺取法）.md
+            - POJ-3461 Oulipo(KMP算法). : Algorithm/Problem-Solution/POJ-3461 Oulipo(KMP算法).md
+            - POJ-3579 Median（二分查找中位数）. : Algorithm/Problem-Solution/POJ-3579 Median（二分查找中位数）.md
+            - POJ-3614 Sunscreen（优先级队列）. : Algorithm/Problem-Solution/POJ-3614 Sunscreen（优先级队列）.md
+            - POJ-3616 Milking Time（基础动态规划）. : Algorithm/Problem-Solution/POJ-3616 Milking Time（基础动态规划）.md
+            - POJ-3617 Best Cow Line（贪心）. : Algorithm/Problem-Solution/POJ-3617 Best Cow Line（贪心）.md
+            - POJ-3624 Charm Bracelet(01背包). : Algorithm/Problem-Solution/POJ-3624 Charm Bracelet(01背包).md
+            - POJ-3669 Meteor Shower（BFS，限制条件多）. : Algorithm/Problem-Solution/POJ-3669 Meteor Shower（BFS，限制条件多）.md
+            - POJ-3984 迷宫问题（BFS最短路径）. : Algorithm/Problem-Solution/POJ-3984 迷宫问题（BFS最短路径）.md
+            - SPOJ CCOMPS - Count Components(无向图的连通性). : Algorithm/Problem-Solution/SPOJ CCOMPS - Count Components(无向图的连通性).md
+            - SPOJ SUBMERGE - Submerging Islands（连通图的割点）. : Algorithm/Problem-Solution/SPOJ SUBMERGE - Submerging Islands（连通图的割点）.md
+            - SPOJ TOPOSORT - Topological Sorting(拓扑排序). : Algorithm/Problem-Solution/SPOJ TOPOSORT - Topological Sorting(拓扑排序).md
+            - SWUST-1065 无向图的连通分量计算(等价于检验图的连通性）. : Algorithm/Problem-Solution/SWUST-1065 无向图的连通分量计算(等价于检验图的连通性）.md
+            - UVA-147 Dollars（完全背包变形）. : Algorithm/Problem-Solution/UVA-147 Dollars（完全背包变形）.md
+            - UVA-272 TEX Quotes（基础字符串）. : Algorithm/Problem-Solution/UVA-272 TEX Quotes（基础字符串）.md
+            - UVA-348 Optimal Array Multiplication Sequence(区间DP). : Algorithm/Problem-Solution/UVA-348 Optimal Array Multiplication Sequence(区间DP).md
+            - UVA-389 & POJ-1546 & HDU-1335 & ZOJ-1334 Basically Speaking（大整数进制转换）. : Algorithm/Problem-Solution/UVA-389 & POJ-1546 & HDU-1335 & ZOJ-1334 Basically Speaking（大整数进制转换）.md
+            - UVA-524 Prime Ring Problem（回溯-暴力搜索）. : Algorithm/Problem-Solution/UVA-524 Prime Ring Problem（回溯-暴力搜索）.md
+            - UVA-725 Division（递归组合型枚举）. : Algorithm/Problem-Solution/UVA-725 Division（递归组合型枚举）.md
+            - UVA-796 Critical Links(桥 - Tarjan算法). : Algorithm/Problem-Solution/UVA-796 Critical Links(桥 - Tarjan算法).md
+            - UVA-10004 Bicoloring（二部图着色）. : Algorithm/Problem-Solution/UVA-10004 Bicoloring（二部图着色）.md
+            - UVA-10054 The Necklace(欧拉回路). : Algorithm/Problem-Solution/UVA-10054 The Necklace(欧拉回路).md
+            - tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）. : Algorithm/Problem-Solution/tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）.md
+            - 一本通-1000：入门测试题目. : Algorithm/Problem-Solution/一本通-1000：入门测试题目.md
+            - 一本通-1001：Hello,World!. : Algorithm/Problem-Solution/一本通-1001：Hello,World!.md
+            - 一本通-1002：输出第二个整数. : Algorithm/Problem-Solution/一本通-1002：输出第二个整数.md
+            - 一本通-1003：对齐输出. : Algorithm/Problem-Solution/一本通-1003：对齐输出.md
+            - 一本通-1004：字符三角形. : Algorithm/Problem-Solution/一本通-1004：字符三角形.md
+            - 一本通-1005：地球人口承载力估计（C++语言入门）. : Algorithm/Problem-Solution/一本通-1005：地球人口承载力估计（C++语言入门）.md
+            - 一本通-1006：A+B问题. : Algorithm/Problem-Solution/一本通-1006：A+B问题.md
+            - 一本通-1007：计算(a+b)×c的值. : Algorithm/Problem-Solution/一本通-1007：计算(a+b)×c的值.md
+            - 一本通-1008：计算(a+b)c的值. : Algorithm/Problem-Solution/一本通-1008：计算(a+b)c的值.md
+            - 一本通-1009：带余除法. : Algorithm/Problem-Solution/一本通-1009：带余除法.md
+            - 一本通-1010：计算分数的浮点数值. : Algorithm/Problem-Solution/一本通-1010：计算分数的浮点数值.md
+            - 一本通-1011：甲流疫情死亡率. : Algorithm/Problem-Solution/一本通-1011：甲流疫情死亡率.md
+            - 一本通-1012：计算多项式的值. : Algorithm/Problem-Solution/一本通-1012：计算多项式的值.md
+            - 一本通-1013：温度表达转化. : Algorithm/Problem-Solution/一本通-1013：温度表达转化.md
+            - 一本通-1014：与圆相关的计算. : Algorithm/Problem-Solution/一本通-1014：与圆相关的计算.md
+            - 一本通-1015：计算并联电阻的阻值. : Algorithm/Problem-Solution/一本通-1015：计算并联电阻的阻值.md
+            - 一本通-1016：整型数据类型存储空间大小. : Algorithm/Problem-Solution/一本通-1016：整型数据类型存储空间大小.md
+            - 一本通-1017：浮点型数据类型存储空间大小. : Algorithm/Problem-Solution/一本通-1017：浮点型数据类型存储空间大小.md
+            - 一本通-1018：其他数据类型存储空间大小. : Algorithm/Problem-Solution/一本通-1018：其他数据类型存储空间大小.md
+            - 一本通-1019：浮点数向零舍入. : Algorithm/Problem-Solution/一本通-1019：浮点数向零舍入.md
+            - 一本通-1020：打印ASCII码. : Algorithm/Problem-Solution/一本通-1020：打印ASCII码.md
+            - 一本通-1021：打印字符. : Algorithm/Problem-Solution/一本通-1021：打印字符.md
+            - 一本通-1022：整型与布尔型的转换. : Algorithm/Problem-Solution/一本通-1022：整型与布尔型的转换.md
+            - 一本通-1023：Hello,World!的大小. : Algorithm/Problem-Solution/一本通-1023：Hello,World!的大小.md
+            - 一本通-1024：保留3位小数的浮点数. : Algorithm/Problem-Solution/一本通-1024：保留3位小数的浮点数.md
+            - 一本通-1097：画矩形（循环嵌套）. : Algorithm/Problem-Solution/一本通-1097：画矩形（循环嵌套）.md
+            - 一本通-1132：石头剪子布. : Algorithm/Problem-Solution/一本通-1132：石头剪子布.md
+            - 一本通-1133：输出亲朋字符串. : Algorithm/Problem-Solution/一本通-1133：输出亲朋字符串.md
+            - 一本通-1134：合法C标识符查. : Algorithm/Problem-Solution/一本通-1134：合法C标识符查.md
+            - 一本通-1191：流感传染（两个队列模拟BFS）. : Algorithm/Problem-Solution/一本通-1191：流感传染（两个队列模拟BFS）.md
+            - 一本通-1192：放苹果（计数DP-划分数）. : Algorithm/Problem-Solution/一本通-1192：放苹果（计数DP-划分数）.md
+            - 一本通-1195：判断整除（动态规划）. : Algorithm/Problem-Solution/一本通-1195：判断整除（动态规划）.md
+            - 一本通-1196：踩方格（递推+动态规划）. : Algorithm/Problem-Solution/一本通-1196：踩方格（递推+动态规划）.md
+            - 一本通-1197：山区建小学（区间DP）. : Algorithm/Problem-Solution/一本通-1197：山区建小学（区间DP）.md
+            - 一本通-1198：逆波兰表达式（递归）. : Algorithm/Problem-Solution/一本通-1198：逆波兰表达式（递归）.md
+            - 一本通-1200：分解因数（递归）. : Algorithm/Problem-Solution/一本通-1200：分解因数（递归）.md
+            - 一本通-1203：扩号匹配问题（栈）. : Algorithm/Problem-Solution/一本通-1203：扩号匹配问题（栈）.md
+            - 一本通-1205：汉诺塔问题（递归）. : Algorithm/Problem-Solution/一本通-1205：汉诺塔问题（递归）.md
+            - 一本通-1208：2的幂次方表示（很经典的递归）. : Algorithm/Problem-Solution/一本通-1208：2的幂次方表示（很经典的递归）.md
+            - 一本通-1209：分数求和. : Algorithm/Problem-Solution/一本通-1209：分数求和.md
+            - 一本通-1210：因子分解. : Algorithm/Problem-Solution/一本通-1210：因子分解.md
+            - 一本通-1211：判断元素是否存在（递归）. : Algorithm/Problem-Solution/一本通-1211：判断元素是否存在（递归）.md
+            - 一本通-1212：LETTERS（基础DFS）. : Algorithm/Problem-Solution/一本通-1212：LETTERS（基础DFS）.md
+            - 一本通-1213：八皇后问题（回溯+搜索）. : Algorithm/Problem-Solution/一本通-1213：八皇后问题（回溯+搜索）.md
+            - 一本通-1214：八皇后（搜索+回溯）. : Algorithm/Problem-Solution/一本通-1214：八皇后（搜索+回溯）.md
+            - 一本通-1215：迷宫（经典迷宫类型DFS）. : Algorithm/Problem-Solution/一本通-1215：迷宫（经典迷宫类型DFS）.md
+            - 一本通-1216：红与黑（基础DFS，flood fill算法）. : Algorithm/Problem-Solution/一本通-1216：红与黑（基础DFS，flood fill算法）.md
+            - 一本通-1218：取石子游戏（基础博弈）. : Algorithm/Problem-Solution/一本通-1218：取石子游戏（基础博弈）.md
+            - 一本通-1219：马走日（搜索，回溯）. : Algorithm/Problem-Solution/一本通-1219：马走日（搜索，回溯）.md
+            - 一本通-1220：单词接龙（搜索）. : Algorithm/Problem-Solution/一本通-1220：单词接龙（搜索）.md
+            - 一本通-1221：分成互质组（思路巧妙地DFS）. : Algorithm/Problem-Solution/一本通-1221：分成互质组（思路巧妙地DFS）.md
+            - 一本通-1227：Ride to Office(基础贪心). : Algorithm/Problem-Solution/一本通-1227：Ride to Office(基础贪心).md
+            - 一本通-1229：电池的寿命（贪心，找规律）. : Algorithm/Problem-Solution/一本通-1229：电池的寿命（贪心，找规律）.md
+            - 一本通-1230：寻找平面上的极大点（单调栈，贪心）. : Algorithm/Problem-Solution/一本通-1230：寻找平面上的极大点（单调栈，贪心）.md
+            - 一本通-1234：2011（基础分治，易错）. : Algorithm/Problem-Solution/一本通-1234：2011（基础分治，易错）.md
+            - 一本通-1236：区间合并（区间贪心）. : Algorithm/Problem-Solution/一本通-1236：区间合并（区间贪心）.md
+            - 一本通-1237：求排列的逆序数（逆序数问题）. : Algorithm/Problem-Solution/一本通-1237：求排列的逆序数（逆序数问题）.md
+            - 一本通-1248：Dungeon Master（三维迷宫BFS）. : Algorithm/Problem-Solution/一本通-1248：Dungeon Master（三维迷宫BFS）.md
+            - 一本通-1251：仙岛求药（迷宫类型的BFS）. : Algorithm/Problem-Solution/一本通-1251：仙岛求药（迷宫类型的BFS）.md
+            - 一本通-1252：走迷宫（迷宫型BFS）. : Algorithm/Problem-Solution/一本通-1252：走迷宫（迷宫型BFS）.md
+            - 一本通-1253：抓住那头牛（一维BFS）. : Algorithm/Problem-Solution/一本通-1253：抓住那头牛（一维BFS）.md
+            - 一本通-1254：走出迷宫（二维迷宫型BFS）. : Algorithm/Problem-Solution/一本通-1254：走出迷宫（二维迷宫型BFS）.md
+            - 一本通-1256：献给阿尔吉侬的花束（二维迷宫BFS）. : Algorithm/Problem-Solution/一本通-1256：献给阿尔吉侬的花束（二维迷宫BFS）.md
+            - 一本通-1259：【例9.3】求最长不下降序列（LIS）. : Algorithm/Problem-Solution/一本通-1259：【例9.3】求最长不下降序列（LIS）.md
+            - 一本通-1262：【例9.6】挖地雷（基础动态规划）. : Algorithm/Problem-Solution/一本通-1262：【例9.6】挖地雷（基础动态规划）.md
+            - 一本通-1261：【例9.5】城市交通路网（基础动态规划）. : Algorithm/Problem-Solution/一本通-1261：【例9.5】城市交通路网（基础动态规划）.md
+            - 一本通-1263：【例9.7】友好城市（LIS）. : Algorithm/Problem-Solution/一本通-1263：【例9.7】友好城市（LIS）.md
+            - 一本通-1264：【例9.8】合唱队形. : Algorithm/Problem-Solution/一本通-1264：【例9.8】合唱队形.md
+            - 一本通-1265：【例9.9】最长公共子序列. : Algorithm/Problem-Solution/一本通-1265：【例9.9】最长公共子序列.md
+            - 一本通-1267：【例9.11】01背包问题（01背包模板）. : Algorithm/Problem-Solution/一本通-1267：【例9.11】01背包问题（01背包模板）.md
+            - 一本通-1270：【例9.14】混合背包. : Algorithm/Problem-Solution/一本通-1270：【例9.14】混合背包.md
+            - 一本通-1271：【例9.15】潜水员（二维01背包）. : Algorithm/Problem-Solution/一本通-1271：【例9.15】潜水员（二维01背包）.md
+            - 一本通-1272：【例9.16】分组背包. : Algorithm/Problem-Solution/一本通-1272：【例9.16】分组背包.md
+            - 一本通-1273：【例9.17】货币系统. : Algorithm/Problem-Solution/一本通-1273：【例9.17】货币系统.md
+            - 一本通-1274：【例9.18】合并石子（直线排列，小数据）. : Algorithm/Problem-Solution/一本通-1274：【例9.18】合并石子（直线排列，小数据）.md
+            - 一本通-1282：最大子矩阵（二维最长连续子序列和）. : Algorithm/Problem-Solution/一本通-1282：最大子矩阵（二维最长连续子序列和）.md
+            - 一本通-1283：登山（LIS的合唱队形）. : Algorithm/Problem-Solution/一本通-1283：登山（LIS的合唱队形）.md
+            - 一本通-1284：摘花生（基础DP）. : Algorithm/Problem-Solution/一本通-1284：摘花生（基础DP）.md
+            - 一本通-1285：最大上升子序列和（LIS变种）. : Algorithm/Problem-Solution/一本通-1285：最大上升子序列和（LIS变种）.md
+            - 一本通-1286：怪盗基德的滑翔翼（LIS）. : Algorithm/Problem-Solution/一本通-1286：怪盗基德的滑翔翼（LIS）.md
+            - 一本通-1287：最低通行费(基础DP). : Algorithm/Problem-Solution/一本通-1287：最低通行费(基础DP).md
+            - 一本通-1288：三角形最佳路径问题（数字三角形）. : Algorithm/Problem-Solution/一本通-1288：三角形最佳路径问题（数字三角形）.md
+            - 一本通-1291：数字组合（动态规划-硬币问题）. : Algorithm/Problem-Solution/一本通-1291：数字组合（动态规划-硬币问题）.md
+            - 一本通-1292：宠物小精灵之收服（二维01背包）. : Algorithm/Problem-Solution/一本通-1292：宠物小精灵之收服（二维01背包）.md
+            - 一本通-1298：计算字符串距离（动态规划-编辑距离）. : Algorithm/Problem-Solution/一本通-1298：计算字符串距离（动态规划-编辑距离）.md
+            - 一本通-1310：【例2.2】车厢重组（冒泡排序）. : Algorithm/Problem-Solution/一本通-1310：【例2.2】车厢重组（冒泡排序）.md
+            - 一本通-1312：【例3.4】昆虫繁殖（动态规划）. : Algorithm/Problem-Solution/一本通-1312：【例3.4】昆虫繁殖（动态规划）.md
+            - 一本通-1313：【例3.5】位数问题（动态规划）. : Algorithm/Problem-Solution/一本通-1313：【例3.5】位数问题（动态规划）.md
+            - 一本通-1314：【例3.6】过河卒(Noip2002)（动态规划）. : Algorithm/Problem-Solution/一本通-1314：【例3.6】过河卒(Noip2002)（动态规划）.md
+            - 一本通-1315：【例4.5】集合的划分（计数DP或递归）. : Algorithm/Problem-Solution/一本通-1315：【例4.5】集合的划分（计数DP或递归）.md
+            - 一本通-1316：【例4.6】数的计数(Noip2001， 动态规划). : Algorithm/Problem-Solution/一本通-1316：【例4.6】数的计数(Noip2001， 动态规划).md
+            - 一本通-1317：【例5.2】组合的输出（回溯）. : Algorithm/Problem-Solution/一本通-1317：【例5.2】组合的输出（回溯）.md
+            - 一本通-1318：【例5.3】自然数的拆分（回溯）. : Algorithm/Problem-Solution/一本通-1318：【例5.3】自然数的拆分（回溯）.md
+            - 一本通-1319：【例6.1】排队接水（贪心）. : Algorithm/Problem-Solution/一本通-1319：【例6.1】排队接水（贪心）.md
+            - 一本通-1325：【例7.4】 循环比赛日程表（基础分治）. : Algorithm/Problem-Solution/一本通-1325：【例7.4】 循环比赛日程表（基础分治）.md
+            - 一本通-1328：【例7.7】光荣的梦想（基础分治，逆序对）. : Algorithm/Problem-Solution/一本通-1328：【例7.7】光荣的梦想（基础分治，逆序对）.md
+            - 一本通-1329：【例8.2】细胞（DFS和BFS两种解法）. : Algorithm/Problem-Solution/一本通-1329：【例8.2】细胞（DFS和BFS两种解法）.md
+            - 一本通-1330：【例8.3】最少步数（经典BFS）. : Algorithm/Problem-Solution/一本通-1330：【例8.3】最少步数（经典BFS）.md
+            - 一本通-1332：【例2-1】周末舞会（模拟队列）. : Algorithm/Problem-Solution/一本通-1332：【例2-1】周末舞会（模拟队列）.md
+            - 一本通-1333：【例2-2】Blah数集（优先级队列模拟）. : Algorithm/Problem-Solution/一本通-1333：【例2-2】Blah数集（优先级队列模拟）.md
+            - 一本通-1334：【例2-3】围圈报数（数组模拟循环链表或者队列模拟）. : Algorithm/Problem-Solution/一本通-1334：【例2-3】围圈报数（数组模拟循环链表或者队列模拟）.md
+            - 一本通-1335：【例2-4】连通块（DFS泛洪算法）. : Algorithm/Problem-Solution/一本通-1335：【例2-4】连通块（DFS泛洪算法）.md
+            - 一本通-1336：【例3-1】找树根和孩子. : Algorithm/Problem-Solution/一本通-1336：【例3-1】找树根和孩子.md
+            - 一本通-1337：【例3-2】单词查找树. : Algorithm/Problem-Solution/一本通-1337：【例3-2】单词查找树.md
+            - 一本通-1339：【例3-4】求后序遍历. : Algorithm/Problem-Solution/一本通-1339：【例3-4】求后序遍历.md
+            - 一本通-1340：【例3-5】扩展二叉树. : Algorithm/Problem-Solution/一本通-1340：【例3-5】扩展二叉树.md
+            - 一本通-1359：围成面积（BFS + 加边法）. : Algorithm/Problem-Solution/一本通-1359：围成面积（BFS + 加边法）.md
+            - 一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）. : Algorithm/Problem-Solution/一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）.md
+            - 一本通-1363：小球(drop)（满二叉树性质应用）. : Algorithm/Problem-Solution/一本通-1363：小球(drop)（满二叉树性质应用）.md
+            - 一本通-1364：二叉树遍历(flist). : Algorithm/Problem-Solution/一本通-1364：二叉树遍历(flist).md
+            - 一本通-1366：二叉树输出(btout). : Algorithm/Problem-Solution/一本通-1366：二叉树输出(btout).md
+            - 一本通-1367：查找二叉树(tree_a). : Algorithm/Problem-Solution/一本通-1367：查找二叉树(tree_a).md
+            - 一本通-1371：看病（优先级队列）. : Algorithm/Problem-Solution/一本通-1371：看病（优先级队列）.md
+            - 一本通-1403：素数对（函数）. : Algorithm/Problem-Solution/一本通-1403：素数对（函数）.md
+            - 一本通-例5.13 蛇形填数. : Algorithm/Problem-Solution/一本通-例5.13 蛇形填数.md
+            - 信息学奥赛一本通——基础篇. : Algorithm/Problem-Solution/信息学奥赛一本通——基础篇.md
+            - 洛谷-P1008 三连击（桶排序）. : Algorithm/Problem-Solution/洛谷-P1008 三连击（桶排序）.md
+            - 洛谷-P1010 幂次方（经典递归）. : Algorithm/Problem-Solution/洛谷-P1010 幂次方（经典递归）.md
+            - 洛谷-P1014 Cantor的数表(数学). : Algorithm/Problem-Solution/洛谷-P1014 Cantor的数表(数学).md
+            - 洛谷-P1015 回文数（进制转换+高精度加法）. : Algorithm/Problem-Solution/洛谷-P1015 回文数（进制转换+高精度加法）.md
+            - 洛谷-P1019 单词接龙（DFS有难度）. : Algorithm/Problem-Solution/洛谷-P1019 单词接龙（DFS有难度）.md
+            - 洛谷-P1020 导弹拦截（最典型的LIS练习，两种形式）. : Algorithm/Problem-Solution/洛谷-P1020 导弹拦截（最典型的LIS练习，两种形式）.md
+            - 洛谷-P1029 最大公约数和最小公倍数问题(GCD模板题). : Algorithm/Problem-Solution/洛谷-P1029 最大公约数和最小公倍数问题(GCD模板题).md
+            - 洛谷-P1031 均分纸牌（贪心）. : Algorithm/Problem-Solution/洛谷-P1031 均分纸牌（贪心）.md
+            - 洛谷-P1048 采药（01背包）. : Algorithm/Problem-Solution/洛谷-P1048 采药（01背包）.md
+            - 洛谷-P1057 传球游戏(基础DP). : Algorithm/Problem-Solution/洛谷-P1057 传球游戏(基础DP).md
+            - 洛谷-P1059 明明的随机数（桶排序）. : Algorithm/Problem-Solution/洛谷-P1059 明明的随机数（桶排序）.md
+            - 洛谷-P1063 能量项链（区间DP）. : Algorithm/Problem-Solution/洛谷-P1063 能量项链（区间DP）.md
+            - 洛谷-P1087 FBI树（满二叉树下标关系）. : Algorithm/Problem-Solution/洛谷-P1087 FBI树（满二叉树下标关系）.md
+            - 洛谷-P1091 合唱队形（LIS）. : Algorithm/Problem-Solution/洛谷-P1091 合唱队形（LIS）.md
+            - 洛谷-P1106 删数问题（基础贪心）. : Algorithm/Problem-Solution/洛谷-P1106 删数问题（基础贪心）.md
+            - 洛谷-P1135 奇怪的电梯（BFS或单源最短路）. : Algorithm/Problem-Solution/洛谷-P1135 奇怪的电梯（BFS或单源最短路）.md
+            - 洛谷-P1257 平面上的最接近点对（分治）. : Algorithm/Problem-Solution/洛谷-P1257 平面上的最接近点对（分治）.md
+            - 洛谷-P1259 黑白棋子的移动（基础分治）. : Algorithm/Problem-Solution/洛谷-P1259 黑白棋子的移动（基础分治）.md
+            - 洛谷-P1303 [模板] A乘B Problem. : Algorithm/Problem-Solution/洛谷-P1303 [模板] A乘B Problem.md
+            - 洛谷-P1323 删数问题（基础贪心）. : Algorithm/Problem-Solution/洛谷-P1323 删数问题（基础贪心）.md
+            - 洛谷-P1429 平面最近点对（加强版）. : Algorithm/Problem-Solution/洛谷-P1429 平面最近点对（加强版）.md
+            - 洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）. : Algorithm/Problem-Solution/洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）.md
+            - 洛谷-P1480 [模板] A除以B Problem. : Algorithm/Problem-Solution/洛谷-P1480 [模板] A除以B Problem.md
+            - 洛谷-P1601 [模板] A+B Problem（高精）. : Algorithm/Problem-Solution/洛谷-P1601 [模板] A+B Problem（高精）.md
+            - 洛谷-P1776 宝物筛选（单调队列优化多重背包）. : Algorithm/Problem-Solution/洛谷-P1776 宝物筛选（单调队列优化多重背包）.md
+            - 洛谷-P1801 黑匣子（权值线段树）. : Algorithm/Problem-Solution/洛谷-P1801 黑匣子（权值线段树）.md
+            - 洛谷-P1833 樱花（混合背包模板）. : Algorithm/Problem-Solution/洛谷-P1833 樱花（混合背包模板）.md
+            - 洛谷-P1855 榨取kkksc03（二维01背包）. : Algorithm/Problem-Solution/洛谷-P1855 榨取kkksc03（二维01背包）.md
+            - 洛谷-P1880 [NOI1995]石子合并（环形区间DP）. : Algorithm/Problem-Solution/洛谷-P1880 [NOI1995]石子合并（环形区间DP）.md
+            - 洛谷-P1886 滑动窗口 【模板】单调队列. : Algorithm/Problem-Solution/洛谷-P1886 滑动窗口 【模板】单调队列.md
+            - 洛谷-P1944 最长括号匹配（字符串动态规划）. : Algorithm/Problem-Solution/洛谷-P1944 最长括号匹配（字符串动态规划）.md
+            - 洛谷-P2005 [模板] A除以B Problem II. : Algorithm/Problem-Solution/洛谷-P2005 [模板] A除以B Problem II.md
+            - 洛谷-P2043 质因子分解. : Algorithm/Problem-Solution/洛谷-P2043 质因子分解.md
+            - 洛谷-P2066 机器分配(区间DP). : Algorithm/Problem-Solution/洛谷-P2066 机器分配(区间DP).md
+            - 洛谷-P2085 最小函数值（优先级队列）. : Algorithm/Problem-Solution/洛谷-P2085 最小函数值（优先级队列）.md
+            - 洛谷-P2142 [模板] 高精度减法. : Algorithm/Problem-Solution/洛谷-P2142 [模板] 高精度减法.md
+            - 洛谷-P2827 蚯蚓（单调队列+延迟修改）. : Algorithm/Problem-Solution/洛谷-P2827 蚯蚓（单调队列+延迟修改）.md
+            - 洛谷-P3367 [模板] 并查集. : Algorithm/Problem-Solution/洛谷-P3367 [模板] 并查集.md
+            - 洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法). : Algorithm/Problem-Solution/洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法).md
+            - 洛谷-P3372 [模板] 线段树1（区间修改+区间查询）. : Algorithm/Problem-Solution/洛谷-P3372 [模板] 线段树1（区间修改+区间查询）.md
+            - 洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）. : Algorithm/Problem-Solution/洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）.md
+            - 洛谷-P3385 [模板] 负环. : Algorithm/Problem-Solution/洛谷-P3385 [模板] 负环.md
+            - 洛谷-P3865 [模板] ST表. : Algorithm/Problem-Solution/洛谷-P3865 [模板] ST表.md
+            - 洛谷-P4779 [模板] 单源最短路径（标准版）(Dijkstra算法). : Algorithm/Problem-Solution/洛谷-P4779 [模板] 单源最短路径（标准版）(Dijkstra算法).md
+            - 洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）. : Algorithm/Problem-Solution/洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）.md
+            - 洛谷-P5788 [模板] 单调栈. : Algorithm/Problem-Solution/洛谷-P5788 [模板] 单调栈.md
+            - 洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）. : Algorithm/Problem-Solution/洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）.md
+            - 牛客-998A 递归实现指数型枚举（递归）. : Algorithm/Problem-Solution/牛客-998A 递归实现指数型枚举（递归）.md
+            - 牛客-998B 递归实现组合型枚举(递归). : Algorithm/Problem-Solution/牛客-998B 递归实现组合型枚举(递归).md
         - LeetCode:
             - 1.Two Sum.: Algorithm/LeetCode/1.Two Sum.md
             - 2.Add Two Numbers.: Algorithm/LeetCode/2.Add Two Numbers.md
