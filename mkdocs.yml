@@ -61,36 +61,36 @@ nav:
     - 数据结构和算法: 
         # - 算法分析: Algorithm/cc.md
         - Problem-Solution:
-            - ALGOSPOT-ASYMILING（动态规划-非对称铺设）. : Algorithm/Problem-Solution/ALGOSPOT-ASYMILING（动态规划-非对称铺设）.md
-            - ALGOSPOT-PACKING(01背包，输出路径). : Algorithm/Problem-Solution/ALGOSPOT-PACKING(01背包，输出路径).md
-            - ALGOSPOT-PICNIC(递归). : Algorithm/Problem-Solution/ALGOSPOT-PICNIC(递归).md
-            - ALGOSPOT-TILING2（动态规划-斐波那契数列）. : Algorithm/Problem-Solution/ALGOSPOT-TILING2（动态规划-斐波那契数列）.md
-            - AOJ-0033 Ball(DFS + 贪心). : Algorithm/Problem-Solution/AOJ-0033 Ball(DFS + 贪心).md
-            - AOJ-0118 Property Distribution(DFS, lake counting类问题). : Algorithm/Problem-Solution/AOJ-0118 Property Distribution(DFS, lake counting类问题).md
-            - AOJ-0121 Seven Puzzle（BFS，八数码类型问题）. : Algorithm/Problem-Solution/AOJ-0121 Seven Puzzle（BFS，八数码类型问题）.md
-            - AOJ-0525 Osenbei（经典暴力DFS，剪枝加速）. : Algorithm/Problem-Solution/AOJ-0525 Osenbei（经典暴力DFS，剪枝加速）.md
-            - AOJ-0558 Chess(BFS最短路). : Algorithm/Problem-Solution/AOJ-0558 Chess(BFS最短路).md
-            - Aizu - ALDS1_1_C Prime Numbers(数论-质数检验). : Algorithm/Problem-Solution/Aizu - ALDS1_1_C Prime Numbers(数论-质数检验).md
+            - ALGOSPOT-ASYMILING（动态规划-非对称铺设）: Algorithm/Problem-Solution/ALGOSPOT-ASYMILING（动态规划-非对称铺设）.md
+            - ALGOSPOT-PACKING(01背包，输出路径) : Algorithm/Problem-Solution/ALGOSPOT-PACKING(01背包，输出路径).md
+            - ALGOSPOT-PICNIC(递归) : Algorithm/Problem-Solution/ALGOSPOT-PICNIC(递归).md
+            - ALGOSPOT-TILING2（动态规划-斐波那契数列）: Algorithm/Problem-Solution/ALGOSPOT-TILING2（动态规划-斐波那契数列）.md
+            - AOJ-0033 Ball(DFS + 贪心) : Algorithm/Problem-Solution/AOJ-0033 Ball(DFS + 贪心).md
+            - AOJ-0118 Property Distribution(DFS, lake counting类问题) : Algorithm/Problem-Solution/AOJ-0118 Property Distribution(DFS, lake counting类问题).md
+            - AOJ-0121 Seven Puzzle（BFS，八数码类型问题）: Algorithm/Problem-Solution/AOJ-0121 Seven Puzzle（BFS，八数码类型问题）.md
+            - AOJ-0525 Osenbei（经典暴力DFS，剪枝加速）: Algorithm/Problem-Solution/AOJ-0525 Osenbei（经典暴力DFS，剪枝加速）.md
+            - AOJ-0558 Chess(BFS最短路) : Algorithm/Problem-Solution/AOJ-0558 Chess(BFS最短路).md
+            - Aizu - ALDS1_1_C Prime Numbers(数论-质数检验) : Algorithm/Problem-Solution/Aizu - ALDS1_1_C Prime Numbers(数论-质数检验).md
             - Aizu - ALDS1_6_B Partition （快排）. : Algorithm/Problem-Solution/Aizu - ALDS1_6_B Partition （快排）.md
-            - Aizu - CGL_1_A Projection（计算几何，投影）. : Algorithm/Problem-Solution/Aizu - CGL_1_A Projection（计算几何，投影）.md
-            - Aizu - CGL_1_B Reflection（计算几何，映像）. : Algorithm/Problem-Solution/Aizu - CGL_1_B Reflection（计算几何，映像）.md
-            - Aizu - CGL_2_A ParallelOrthogonal（计算几何-直线正交，平行判定）. : Algorithm/Problem-Solution/Aizu - CGL_2_A ParallelOrthogonal（计算几何-直线正交，平行判定）.md
-            - Aizu - CGL_2_B Intersection (计算几何，判断直线相交). : Algorithm/Problem-Solution/Aizu - CGL_2_B Intersection (计算几何，判断直线相交).md
-            - Aizu - CGL_2_C Cross Point(计算几何，线段交点). : Algorithm/Problem-Solution/Aizu - CGL_2_C Cross Point(计算几何，线段交点).md
-            - Aizu - CGL_2_D Distance（计算几何，逆时针）. : Algorithm/Problem-Solution/Aizu - CGL_2_D Distance（计算几何，逆时针）.md
-            - Aizu - DPL_3_A Largest Square(基础DP，最大正方形). : Algorithm/Problem-Solution/Aizu - DPL_3_A Largest Square(基础DP，最大正方形).md
-            - Aizu-ALDS1_6_A Counting Sort. : Algorithm/Problem-Solution/Aizu-ALDS1_6_A Counting Sort.md
-            - CODE[VS] - 1116 四色问题（DFS）. : Algorithm/Problem-Solution/CODE[VS] - 1116 四色问题（DFS）.md
-            - CODE[VS] - 1295 N皇后问题（DFS）. : Algorithm/Problem-Solution/CODE[VS] - 1295 N皇后问题（DFS）.md
-            - CODE[VS] 线段覆盖（最长上升子序列LIS）. : Algorithm/Problem-Solution/CODE[VS] 线段覆盖（最长上升子序列LIS）.md
-            - CodeForces-510C Fox and Names（拓扑排序）. : Algorithm/Problem-Solution/CodeForces-510C Fox and Names（拓扑排序）.md
-            - CodeForces-1008A Romaji（基础字符串）. : Algorithm/Problem-Solution/CodeForces-1008A Romaji（基础字符串）.md
-            - CodeForces-1350A Orac and Factors(数学规律). : Algorithm/Problem-Solution/CodeForces-1350A Orac and Factors(数学规律).md
-            - HDU-1002 A + B Problem 2(高精度加法). : Algorithm/Problem-Solution/HDU-1002 A + B Problem 2(高精度加法).md
-            - HDU-1003 Max Sum(动态规划 最大连续子序列和). : Algorithm/Problem-Solution/HDU-1003 Max Sum(动态规划 最大连续子序列和).md
-            - HDU-1009 FatMouse' Trade（贪心，部分背包）. : Algorithm/Problem-Solution/HDU-1009 FatMouse' Trade（贪心，部分背包）.md
-            - HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和). : Algorithm/Problem-Solution/HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和).md
-            - HDU-1052 Tian Ji -- The Horse Racing（基础贪心）. : Algorithm/Problem-Solution/HDU-1052 Tian Ji -- The Horse Racing（基础贪心）.md
+            - Aizu - CGL_1_A Projection（计算几何，投影）: Algorithm/Problem-Solution/Aizu - CGL_1_A Projection（计算几何，投影）.md
+            - Aizu - CGL_1_B Reflection（计算几何，映像）: Algorithm/Problem-Solution/Aizu - CGL_1_B Reflection（计算几何，映像）.md
+            - Aizu - CGL_2_A ParallelOrthogonal（计算几何-直线正交，平行判定）: Algorithm/Problem-Solution/Aizu - CGL_2_A ParallelOrthogonal（计算几何-直线正交，平行判定）.md
+            - Aizu - CGL_2_B Intersection (计算几何，判断直线相交) : Algorithm/Problem-Solution/Aizu - CGL_2_B Intersection (计算几何，判断直线相交).md
+            - Aizu - CGL_2_C Cross Point(计算几何，线段交点) : Algorithm/Problem-Solution/Aizu - CGL_2_C Cross Point(计算几何，线段交点).md
+            - Aizu - CGL_2_D Distance（计算几何，逆时针）: Algorithm/Problem-Solution/Aizu - CGL_2_D Distance（计算几何，逆时针）.md
+            - Aizu - DPL_3_A Largest Square(基础DP，最大正方形) : Algorithm/Problem-Solution/Aizu - DPL_3_A Largest Square(基础DP，最大正方形).md
+            - Aizu-ALDS1_6_A Counting Sort : Algorithm/Problem-Solution/Aizu-ALDS1_6_A Counting Sort.md
+            - CODE[VS] - 1116 四色问题（DFS）: Algorithm/Problem-Solution/CODE[VS] - 1116 四色问题（DFS）.md
+            - CODE[VS] - 1295 N皇后问题（DFS）: Algorithm/Problem-Solution/CODE[VS] - 1295 N皇后问题（DFS）.md
+            - CODE[VS] 线段覆盖（最长上升子序列LIS）: Algorithm/Problem-Solution/CODE[VS] 线段覆盖（最长上升子序列LIS）.md
+            - CodeForces-510C Fox and Names（拓扑排序）: Algorithm/Problem-Solution/CodeForces-510C Fox and Names（拓扑排序）.md
+            - CodeForces-1008A Romaji（基础字符串）: Algorithm/Problem-Solution/CodeForces-1008A Romaji（基础字符串）.md
+            - CodeForces-1350A Orac and Factors(数学规律) : Algorithm/Problem-Solution/CodeForces-1350A Orac and Factors(数学规律).md
+            - HDU-1002 A + B Problem 2(高精度加法) : Algorithm/Problem-Solution/HDU-1002 A + B Problem 2(高精度加法).md
+            - HDU-1003 Max Sum(动态规划 最大连续子序列和) : Algorithm/Problem-Solution/HDU-1003 Max Sum(动态规划 最大连续子序列和).md
+            - HDU-1009 FatMouse' Trade（贪心，部分背包）: Algorithm/Problem-Solution/HDU-1009 FatMouse' Trade（贪心，部分背包）.md
+            - HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和) : Algorithm/Problem-Solution/HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和).md
+            - HDU-1052 Tian Ji -- The Horse Racing（基础贪心）: Algorithm/Problem-Solution/HDU-1052 Tian Ji -- The Horse Racing（基础贪心）.md
             - HDU-1062 Text Reverse（split函数）. : Algorithm/Problem-Solution/HDU-1062 Text Reverse（split函数）.md
             - HDU-1080 Human Gene Functions(动态规划 最长公共子序列). : Algorithm/Problem-Solution/HDU-1080 Human Gene Functions(动态规划 最长公共子序列).md
             - HDU-1114 Piggy-Bank(动态规划 完全背包). : Algorithm/Problem-Solution/HDU-1114 Piggy-Bank(动态规划 完全背包).md
@@ -126,6 +126,7 @@ nav:
             - HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法). : Algorithm/Problem-Solution/HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法).md
             - LOJ-6277 数列分块入门1. : Algorithm/Problem-Solution/LOJ-6277 数列分块入门1.md
             - NYOJ-16 嵌套矩形（最长上升子序列LIS）. : Algorithm/Problem-Solution/NYOJ-16 嵌套矩形（最长上升子序列LIS）.md
+            - OpenJudge-4 双基回文数（暴力搜索）: Algorithm/Problem-Solution/OpenJudge-4 双基回文数（暴力搜索）.md
             - OpenJudge-162 Post Office（区间DP）. : Algorithm/Problem-Solution/OpenJudge-162 Post Office（区间DP）.md
             - POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）. : Algorithm/Problem-Solution/POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）.md
             - POJ-1017 Packets（贪心+细节模拟，完美正方形）. : Algorithm/Problem-Solution/POJ-1017 Packets（贪心+细节模拟，完美正方形）.md
@@ -221,6 +222,8 @@ nav:
             - UVA-796 Critical Links(桥 - Tarjan算法). : Algorithm/Problem-Solution/UVA-796 Critical Links(桥 - Tarjan算法).md
             - UVA-10004 Bicoloring（二部图着色）. : Algorithm/Problem-Solution/UVA-10004 Bicoloring（二部图着色）.md
             - UVA-10054 The Necklace(欧拉回路). : Algorithm/Problem-Solution/UVA-10054 The Necklace(欧拉回路).md
+            - UVA-10976 Fractions Again!（不等式缩小搜索范围）: Algorithm/Problem-Solution/UVA-10976 Fractions Again!（不等式缩小搜索范围）.md
+            - UVA-11059 Maximum Product（动态规划-最大乘积子数组）: Algorithm/Problem-Solution/UVA-11059 Maximum Product（动态规划-最大乘积子数组）.md
             - tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）. : Algorithm/Problem-Solution/tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）.md
             - 一本通-1000：入门测试题目. : Algorithm/Problem-Solution/一本通-1000：入门测试题目.md
             - 一本通-1001：Hello,World!. : Algorithm/Problem-Solution/一本通-1001：Hello,World!.md
@@ -524,10 +527,11 @@ nav:
             - 206.Reverse Linked List.: Algorithm/LeetCode/206.Reverse Linked List.md
             - 208.Implement Trie (Prefix Tree).: Algorithm/LeetCode/208.Implement Trie (Prefix Tree).md
             - 209.Minimum Size Subarray Sum.: Algorithm/LeetCode/209.Minimum Size Subarray Sum.md
-            - 215.Kth Largest Element in an Array.: Algorithm/LeetCode/215.Kth Largest Element in an Array.md
-            - 225.Implement Stack using Queues.: Algorithm/LeetCode/225.Implement Stack using Queues.md
-            - 226.Invert Binary Tree.: Algorithm/LeetCode/226.Invert Binary Tree.md
-            - 230.Kth Smallest Element in a BST.: Algorithm/LeetCode/230.Kth Smallest Element in a BST.md
+            - 215.Kth Largest Element in an Array: Algorithm/LeetCode/215.Kth Largest Element in an Array.md
+            - 225.Implement Stack using Queues: Algorithm/LeetCode/225.Implement Stack using Queues.md
+            - 226.Invert Binary Tree: Algorithm/LeetCode/226.Invert Binary Tree.md
+            - 230.Kth Smallest Element in a BST: Algorithm/LeetCode/230.Kth Smallest Element in a BST.md
+            - 231.Power of Two: Algorithm/LeetCode/231.Power of Two.md
             - 232. Implement Queue using Stacks.: Algorithm/LeetCode/232. Implement Queue using Stacks.md
             - 234.Palindrome Linked List.: Algorithm/LeetCode/234.Palindrome Linked List.md
             - 235.Lowest Common Ancestor of a Binary Search Tree.: Algorithm/LeetCode/235.Lowest Common Ancestor of a Binary Search Tree.md
