@@ -55,11 +55,78 @@ nav:
             - Effective C++: Programming-Language/《Effective C++》.md
             - STL源码剖析: Programming-Language/《STL 源码解析》.md
             - 深度探索C++对象模型: Programming-Language/《深度探索C++对象模型》.md
-            - C++ Design Patterns: Programming-Language/C++设计模式.md
-            - C++并发编程实战: Programming-Language/《C++并发编程实战》.md  
+            # - C++ Design Patterns: Programming-Language/C++设计模式.md
+            # - C++并发编程实战: Programming-Language/《C++并发编程实战》.md  
 
     - 数据结构和算法: 
-        # - 算法分析: Algorithm/cc.md
+        - 算法总结: 
+            - 由数据范围反推算法复杂度以及算法内容: Algorithm/Algorithm-Analysis/1-由数据范围反推算法复杂度以及算法内容.md
+            - 典型问题——各种优化: Algorithm/Algorithm-Analysis/典型问题——各种优化.md
+            - 典型问题——括号相关的问题: Algorithm/Algorithm-Analysis/典型问题——括号相关的问题.md
+            - 典型问题——约瑟夫环问题: Algorithm/Algorithm-Analysis/典型问题——约瑟夫环问题.md
+            - 动态规划——1基础DP: Algorithm/Algorithm-Analysis/动态规划——1基础DP.md
+            - 动态规划——区间DP: Algorithm/Algorithm-Analysis/动态规划——区间DP.md
+            - 动态规划——数字三角形: Algorithm/Algorithm-Analysis/动态规划——数字三角形.md
+            - 动态规划——最大连续子序列和: Algorithm/Algorithm-Analysis/动态规划——最大连续子序列和.md
+            - 动态规划——最长上升子序列（LIS）: Algorithm/Algorithm-Analysis/动态规划——最长上升子序列（LIS）.md
+            - 动态规划——最长公共子序列（LCS）: Algorithm/Algorithm-Analysis/动态规划——最长公共子序列（LCS）.md
+            - 动态规划——背包问题: Algorithm/Algorithm-Analysis/动态规划——背包问题.md
+            - 基础算法——二分法: Algorithm/Algorithm-Analysis/基础算法——二分法.md
+            - 基础算法——二分法--01分数规划: Algorithm/Algorithm-Analysis/基础算法——二分法--01分数规划.md
+            - 基础算法——位运算: Algorithm/Algorithm-Analysis/基础算法——位运算.md
+            - 基础算法——全排列(Permutation): Algorithm/Algorithm-Analysis/基础算法——全排列(Permutation).md
+            - 基础算法——折半枚举: Algorithm/Algorithm-Analysis/基础算法——折半枚举.md
+            - 基础算法——生成子集与集合运算: Algorithm/Algorithm-Analysis/基础算法——生成子集与集合运算.md
+            - 基础算法——贪心: Algorithm/Algorithm-Analysis/基础算法——贪心.md
+            - 基础算法——贪心--区间贪心: Algorithm/Algorithm-Analysis/基础算法——贪心--区间贪心.md
+            - 基础算法——高精度和进制转换: Algorithm/Algorithm-Analysis/基础算法——高精度和进制转换.md
+            - 排序——1排序算法总结: Algorithm/Algorithm-Analysis/排序——1排序算法总结.md
+            - 排序——冒泡排序: Algorithm/Algorithm-Analysis/排序——冒泡排序.md
+            - 排序——基数排序: Algorithm/Algorithm-Analysis/排序——基数排序.md
+            - 排序——堆排序: Algorithm/Algorithm-Analysis/排序——堆排序.md
+            - 排序——希尔排序: Algorithm/Algorithm-Analysis/排序——希尔排序.md
+            - 排序——归并排序: Algorithm/Algorithm-Analysis/排序——归并排序.md
+            - 排序——快速排序: Algorithm/Algorithm-Analysis/排序——快速排序.md
+            - 排序——插入排序: Algorithm/Algorithm-Analysis/排序——插入排序.md
+            - 排序——桶排序: Algorithm/Algorithm-Analysis/排序——桶排序.md
+            - 排序——计数排序: Algorithm/Algorithm-Analysis/排序——计数排序.md
+            - 排序——选择排序: Algorithm/Algorithm-Analysis/排序——选择排序.md
+            - 搜索算法——基础BFS: Algorithm/Algorithm-Analysis/搜索算法——基础BFS.md
+            - 搜索算法——基础DFS: Algorithm/Algorithm-Analysis/搜索算法——基础DFS.md
+            - 搜索算法——递归与回溯: Algorithm/Algorithm-Analysis/搜索算法——递归与回溯.md
+            - 数学——完美正方形: Algorithm/Algorithm-Analysis/数学——完美正方形.md
+            - 数学——快速幂: Algorithm/Algorithm-Analysis/数学——快速幂.md
+            - 数学——数论--6倍数素数判别法: Algorithm/Algorithm-Analysis/数学——数论--6倍数素数判别法.md
+            - 数学——数论--分数化简: Algorithm/Algorithm-Analysis/数学——数论--分数化简.md
+            - 数学——数论--勒让德三平方和定理: Algorithm/Algorithm-Analysis/数学——数论--勒让德三平方和定理.md
+            - 数学——数论--因数分解: Algorithm/Algorithm-Analysis/数学——数论--因数分解.md
+            - 数学——数论--埃拉托色尼筛选法: Algorithm/Algorithm-Analysis/数学——数论--埃拉托色尼筛选法.md
+            - 数学——数论--拉格朗日四平方和定理: Algorithm/Algorithm-Analysis/数学——数论--拉格朗日四平方和定理.md
+            - 数学——数论--整除: Algorithm/Algorithm-Analysis/数学——数论--整除.md
+            - 数学——数论--斐波那契数: Algorithm/Algorithm-Analysis/数学——数论--斐波那契数.md
+            - 数学——数论--最大公约数和最小公倍数: Algorithm/Algorithm-Analysis/数学——数论--最大公约数和最小公倍数.md
+            - 数学——数论--素数判定: Algorithm/Algorithm-Analysis/数学——数论--素数判定.md
+            - 数学——数论--费马平方和定理: Algorithm/Algorithm-Analysis/数学——数论--费马平方和定理.md
+            - 数学——概率统计--众数: Algorithm/Algorithm-Analysis/数学——概率统计--众数.md
+            - 数学——概率统计--随机数生成: Algorithm/Algorithm-Analysis/数学——概率统计--随机数生成.md
+            - 数学——海伦公式: Algorithm/Algorithm-Analysis/数学——海伦公式.md
+            - 数学——组合数学--Catalan数: Algorithm/Algorithm-Analysis/数学——组合数学--Catalan数.md
+            - 数学——组合数学--Pascal三角形: Algorithm/Algorithm-Analysis/数学——组合数学--Pascal三角形.md
+            - 数学——组合数学--划分数: Algorithm/Algorithm-Analysis/数学——组合数学--划分数.md
+            - 数学——组合数学--有重复元素的全排列个数: Algorithm/Algorithm-Analysis/数学——组合数学--有重复元素的全排列个数.md
+            - 数据结构——RMQ: Algorithm/Algorithm-Analysis/数据结构——RMQ.md
+            - 数据结构——ST表: Algorithm/Algorithm-Analysis/数据结构——ST表.md
+            - 数据结构——并查集: Algorithm/Algorithm-Analysis/数据结构——并查集.md
+            - 数据结构——栈: Algorithm/Algorithm-Analysis/数据结构——栈.md
+            - 数据结构——栈--计算器: Algorithm/Algorithm-Analysis/数据结构——栈--计算器.md
+            - 数据结构——队列: Algorithm/Algorithm-Analysis/数据结构——队列.md
+            - 树——二叉树与多叉树遍历: Algorithm/Algorithm-Analysis/树——二叉树与多叉树遍历.md
+            - 树——二叉树的构造: Algorithm/Algorithm-Analysis/树——二叉树的构造.md
+            - 树——二叉树的深度: Algorithm/Algorithm-Analysis/树——二叉树的深度.md
+            - 树——基础二叉树知识点: Algorithm/Algorithm-Analysis/树——基础二叉树知识点.md
+            - 计算几何——固定半径圆能覆盖平面上的最大点数: Algorithm/Algorithm-Analysis/计算几何——固定半径圆能覆盖平面上的最大点数.md
+            - 计算几何——平面分割问题: Algorithm/Algorithm-Analysis/计算几何——平面分割问题.md
+            - 计算几何——平面最近点对: Algorithm/Algorithm-Analysis/计算几何——平面最近点对.md
         - Problem-Solution:
             - ALGOSPOT-ASYMILING（动态规划-非对称铺设）: Algorithm/Problem-Solution/ALGOSPOT-ASYMILING（动态规划-非对称铺设）.md
             - ALGOSPOT-PACKING(01背包，输出路径) : Algorithm/Problem-Solution/ALGOSPOT-PACKING(01背包，输出路径).md
@@ -91,607 +158,610 @@ nav:
             - HDU-1009 FatMouse' Trade（贪心，部分背包）: Algorithm/Problem-Solution/HDU-1009 FatMouse' Trade（贪心，部分背包）.md
             - HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和) : Algorithm/Problem-Solution/HDU-1024 Max Sum Plus Plus(动态规划 最大M子段和).md
             - HDU-1052 Tian Ji -- The Horse Racing（基础贪心）: Algorithm/Problem-Solution/HDU-1052 Tian Ji -- The Horse Racing（基础贪心）.md
-            - HDU-1062 Text Reverse（split函数）. : Algorithm/Problem-Solution/HDU-1062 Text Reverse（split函数）.md
-            - HDU-1080 Human Gene Functions(动态规划 最长公共子序列). : Algorithm/Problem-Solution/HDU-1080 Human Gene Functions(动态规划 最长公共子序列).md
-            - HDU-1114 Piggy-Bank(动态规划 完全背包). : Algorithm/Problem-Solution/HDU-1114 Piggy-Bank(动态规划 完全背包).md
-            - HDU-1171 Big Event in HDU（单调队列优化背包DP）. : Algorithm/Problem-Solution/HDU-1171 Big Event in HDU（单调队列优化背包DP）.md
-            - HDU-1197 Specialized Four-Digit Numbers（枚举、进制转换）. : Algorithm/Problem-Solution/HDU-1197 Specialized Four-Digit Numbers（枚举、进制转换）.md
-            - HDU-1213 How Many Tables（基础并查集）. : Algorithm/Problem-Solution/HDU-1213 How Many Tables（基础并查集）.md
-            - HDU-1247 Hat’s Words(单词查找树). : Algorithm/Problem-Solution/HDU-1247 Hat’s Words(单词查找树).md
-            - HDU-1248 寒冰王座（完全背包）. : Algorithm/Problem-Solution/HDU-1248 寒冰王座（完全背包）.md
-            - HDU-1249 三角形（递推）. : Algorithm/Problem-Solution/HDU-1249 三角形（递推）.md
-            - HDU-1251 统计难题（单词查找树）. : Algorithm/Problem-Solution/HDU-1251 统计难题（单词查找树）.md
-            - HDU-1257 最少拦截系统（动态规划 最长上升子序列(LIS)）. : Algorithm/Problem-Solution/HDU-1257 最少拦截系统（动态规划 最长上升子序列(LIS)）.md
-            - HDU-1503 Advanced Fruits(动态规划 最长公共子序列). : Algorithm/Problem-Solution/HDU-1503 Advanced Fruits(动态规划 最长公共子序列).md
-            - HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）. : Algorithm/Problem-Solution/HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）.md
-            - HDU-1517 A Multiplication Game（找规律，类似巴什博弈）. : Algorithm/Problem-Solution/HDU-1517 A Multiplication Game（找规律，类似巴什博弈）.md
-            - HDU-1525 Euclid's Game（基础博弈）. : Algorithm/Problem-Solution/HDU-1525 Euclid's Game（基础博弈）.md
-            - HDU-1564 Play a game（找规律，基础博弈论）. : Algorithm/Problem-Solution/HDU-1564 Play a game（找规律，基础博弈论）.md
-            - HDU-1671 Phone List（单词查找树）. : Algorithm/Problem-Solution/HDU-1671 Phone List（单词查找树）.md
-            - HDU-1711 Number Sequence（KMP算法）. : Algorithm/Problem-Solution/HDU-1711 Number Sequence（KMP算法）.md
-            - HDU-1864 Brave Game（巴什博弈板子题）. : Algorithm/Problem-Solution/HDU-1864 Brave Game（巴什博弈板子题）.md
-            - HDU-1878 欧拉回路（连通性+偶数度数检验）. : Algorithm/Problem-Solution/HDU-1878 欧拉回路（连通性+偶数度数检验）.md
-            - HDU-2050 折线分割平面(递推). : Algorithm/Problem-Solution/HDU-2050 折线分割平面(递推).md
-            - HDU-2181 哈密顿绕行世界问题(哈密顿路径). : Algorithm/Problem-Solution/HDU-2181 哈密顿绕行世界问题(哈密顿路径).md
-            - HDU-2188 选拔志愿者（巴什博弈）. : Algorithm/Problem-Solution/HDU-2188 选拔志愿者（巴什博弈）.md
-            - HDU-2191 买大米（动态规划 多重背包）. : Algorithm/Problem-Solution/HDU-2191 买大米（动态规划 多重背包）.md
-            - HDU-2222 Keywords Search (AC自动机). : Algorithm/Problem-Solution/HDU-2222 Keywords Search (AC自动机).md
-            - HDU-2399 GPA（格式化输出）. : Algorithm/Problem-Solution/HDU-2399 GPA（格式化输出）.md
-            - HDU-2602 Bone Collector（动态规划 01背包）. : Algorithm/Problem-Solution/HDU-2602 Bone Collector（动态规划 01背包）.md
-            - HDU-2844 Coins（多重背包可过）. : Algorithm/Problem-Solution/HDU-2844 Coins（多重背包可过）.md
-            - HDU-2896 病毒侵袭（AC自动机）. : Algorithm/Problem-Solution/HDU-2896 病毒侵袭（AC自动机）.md
-            - HDU-3089 Josephus again（约瑟夫问题-优化）. : Algorithm/Problem-Solution/HDU-3089 Josephus again（约瑟夫问题-优化）.md
-            - HDU-3496 Watch The Movie（二维01背包）. : Algorithm/Problem-Solution/HDU-3496 Watch The Movie（二维01背包）.md
-            - HDU-3732 Ahui Writes Word(01背包转型多重背包). : Algorithm/Problem-Solution/HDU-3732 Ahui Writes Word(01背包转型多重背包).md
-            - HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法). : Algorithm/Problem-Solution/HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法).md
-            - LOJ-6277 数列分块入门1. : Algorithm/Problem-Solution/LOJ-6277 数列分块入门1.md
-            - NYOJ-16 嵌套矩形（最长上升子序列LIS）. : Algorithm/Problem-Solution/NYOJ-16 嵌套矩形（最长上升子序列LIS）.md
+            - HDU-1062 Text Reverse（split函数）: Algorithm/Problem-Solution/HDU-1062 Text Reverse（split函数）.md
+            - HDU-1080 Human Gene Functions(动态规划 最长公共子序列): Algorithm/Problem-Solution/HDU-1080 Human Gene Functions(动态规划 最长公共子序列).md
+            - HDU-1114 Piggy-Bank(动态规划 完全背包): Algorithm/Problem-Solution/HDU-1114 Piggy-Bank(动态规划 完全背包).md
+            - HDU-1171 Big Event in HDU（单调队列优化背包DP）: Algorithm/Problem-Solution/HDU-1171 Big Event in HDU（单调队列优化背包DP）.md
+            - HDU-1197 Specialized Four-Digit Numbers（枚举、进制转换）: Algorithm/Problem-Solution/HDU-1197 Specialized Four-Digit Numbers（枚举、进制转换）.md
+            - HDU-1213 How Many Tables（基础并查集）: Algorithm/Problem-Solution/HDU-1213 How Many Tables（基础并查集）.md
+            - HDU-1247 Hat’s Words(单词查找树): Algorithm/Problem-Solution/HDU-1247 Hat’s Words(单词查找树).md
+            - HDU-1248 寒冰王座（完全背包）: Algorithm/Problem-Solution/HDU-1248 寒冰王座（完全背包）.md
+            - HDU-1249 三角形（递推）: Algorithm/Problem-Solution/HDU-1249 三角形（递推）.md
+            - HDU-1251 统计难题（单词查找树）: Algorithm/Problem-Solution/HDU-1251 统计难题（单词查找树）.md
+            - HDU-1257 最少拦截系统（动态规划 最长上升子序列(LIS)）: Algorithm/Problem-Solution/HDU-1257 最少拦截系统（动态规划 最长上升子序列(LIS)）.md
+            - HDU-1503 Advanced Fruits(动态规划 最长公共子序列): Algorithm/Problem-Solution/HDU-1503 Advanced Fruits(动态规划 最长公共子序列).md
+            - HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）: Algorithm/Problem-Solution/HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）.md
+            - HDU-1517 A Multiplication Game（找规律，类似巴什博弈）: Algorithm/Problem-Solution/HDU-1517 A Multiplication Game（找规律，类似巴什博弈）.md
+            - HDU-1525 Euclid's Game（基础博弈）: Algorithm/Problem-Solution/HDU-1525 Euclid's Game（基础博弈）.md
+            - HDU-1564 Play a game（找规律，基础博弈论）: Algorithm/Problem-Solution/HDU-1564 Play a game（找规律，基础博弈论）.md
+            - HDU-1671 Phone List（单词查找树）: Algorithm/Problem-Solution/HDU-1671 Phone List（单词查找树）.md
+            - HDU-1711 Number Sequence（KMP算法）: Algorithm/Problem-Solution/HDU-1711 Number Sequence（KMP算法）.md
+            - HDU-1864 Brave Game（巴什博弈板子题）: Algorithm/Problem-Solution/HDU-1864 Brave Game（巴什博弈板子题）.md
+            - HDU-1878 欧拉回路（连通性+偶数度数检验）: Algorithm/Problem-Solution/HDU-1878 欧拉回路（连通性+偶数度数检验）.md
+            - HDU-2050 折线分割平面(递推): Algorithm/Problem-Solution/HDU-2050 折线分割平面(递推).md
+            - HDU-2181 哈密顿绕行世界问题(哈密顿路径): Algorithm/Problem-Solution/HDU-2181 哈密顿绕行世界问题(哈密顿路径).md
+            - HDU-2188 选拔志愿者（巴什博弈）: Algorithm/Problem-Solution/HDU-2188 选拔志愿者（巴什博弈）.md
+            - HDU-2191 买大米（动态规划 多重背包）: Algorithm/Problem-Solution/HDU-2191 买大米（动态规划 多重背包）.md
+            - HDU-2222 Keywords Search (AC自动机): Algorithm/Problem-Solution/HDU-2222 Keywords Search (AC自动机).md
+            - HDU-2399 GPA（格式化输出）: Algorithm/Problem-Solution/HDU-2399 GPA（格式化输出）.md
+            - HDU-2602 Bone Collector（动态规划 01背包）: Algorithm/Problem-Solution/HDU-2602 Bone Collector（动态规划 01背包）.md
+            - HDU-2844 Coins（多重背包可过）: Algorithm/Problem-Solution/HDU-2844 Coins（多重背包可过）.md
+            - HDU-2896 病毒侵袭（AC自动机）: Algorithm/Problem-Solution/HDU-2896 病毒侵袭（AC自动机）.md
+            - HDU-3089 Josephus again（约瑟夫问题-优化）: Algorithm/Problem-Solution/HDU-3089 Josephus again（约瑟夫问题-优化）.md
+            - HDU-3496 Watch The Movie（二维01背包）: Algorithm/Problem-Solution/HDU-3496 Watch The Movie（二维01背包）.md
+            - HDU-3732 Ahui Writes Word(01背包转型多重背包): Algorithm/Problem-Solution/HDU-3732 Ahui Writes Word(01背包转型多重背包).md
+            - HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法): Algorithm/Problem-Solution/HDU-3849 By Recognizing These Guys, We Find Social Networks Useful(桥，Tarjan算法).md
+            - LOJ-6277 数列分块入门1: Algorithm/Problem-Solution/LOJ-6277 数列分块入门1.md
+            - NYOJ-16 嵌套矩形（最长上升子序列LIS）: Algorithm/Problem-Solution/NYOJ-16 嵌套矩形（最长上升子序列LIS）.md
             - OpenJudge-4 双基回文数（暴力搜索）: Algorithm/Problem-Solution/OpenJudge-4 双基回文数（暴力搜索）.md
-            - OpenJudge-162 Post Office（区间DP）. : Algorithm/Problem-Solution/OpenJudge-162 Post Office（区间DP）.md
-            - POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）. : Algorithm/Problem-Solution/POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）.md
-            - POJ-1017 Packets（贪心+细节模拟，完美正方形）. : Algorithm/Problem-Solution/POJ-1017 Packets（贪心+细节模拟，完美正方形）.md
-            - POJ-1041 John's trip(欧拉回路). : Algorithm/Problem-Solution/POJ-1041 John's trip(欧拉回路).md
-            - POJ-1050 To the Max(二维矩阵的最大部分和). : Algorithm/Problem-Solution/POJ-1050 To the Max(二维矩阵的最大部分和).md
-            - POJ-1065 Wooden Sticks（贪心-区间划分）. : Algorithm/Problem-Solution/POJ-1065 Wooden Sticks（贪心-区间划分）.md
-            - POJ-1129 Channel Allocation(四色问题的DFS). : Algorithm/Problem-Solution/POJ-1129 Channel Allocation(四色问题的DFS).md
-            - POJ-1164 The Castle（稍加思考的DFS泛洪）. : Algorithm/Problem-Solution/POJ-1164 The Castle（稍加思考的DFS泛洪）.md
-            - POJ-1182 食物链（带权并查集或基础并查集空间倍增）. : Algorithm/Problem-Solution/POJ-1182 食物链（带权并查集或基础并查集空间倍增）.md
-            - POJ-1186 方程的解数（DFS + 暴力枚举 + 哈希优化）. : Algorithm/Problem-Solution/POJ-1186 方程的解数（DFS + 暴力枚举 + 哈希优化）.md
-            - POJ-1220 NUMBER BASE CONVERSION（大整数进制转换）. : Algorithm/Problem-Solution/POJ-1220 NUMBER BASE CONVERSION（大整数进制转换）.md
-            - POJ-1276 Cash Machine(多重背包). : Algorithm/Problem-Solution/POJ-1276 Cash Machine(多重背包).md
-            - POJ-1321 棋盘问题（DFS）. : Algorithm/Problem-Solution/POJ-1321 棋盘问题（DFS）.md
-            - POJ-1328 Radar Installation(贪心，区间选点). : Algorithm/Problem-Solution/POJ-1328 Radar Installation(贪心，区间选点).md
-            - POJ-1331 Multiply(进制转换). : Algorithm/Problem-Solution/POJ-1331 Multiply(进制转换).md
-            - POJ-1458 Common Subsequence（动态规划 最长公共子序列）. : Algorithm/Problem-Solution/POJ-1458 Common Subsequence（动态规划 最长公共子序列）.md
-            - POJ-1580 String Matching（分数化简+字符串基础）. : Algorithm/Problem-Solution/POJ-1580 String Matching（分数化简+字符串基础）.md
-            - POJ-1631 Bridging signals（最长上升子序列(LIS)+二分优化）. : Algorithm/Problem-Solution/POJ-1631 Bridging signals（最长上升子序列(LIS)+二分优化）.md
-            - POJ-1651 Multiplication Puzzle（基础区间DP）. : Algorithm/Problem-Solution/POJ-1651 Multiplication Puzzle（基础区间DP）.md
-            - POJ-1664 放苹果（划分数模板题）. : Algorithm/Problem-Solution/POJ-1664 放苹果（划分数模板题）.md
-            - POJ-1703 Find them, Catch them（基础并查集开双倍空间）. : Algorithm/Problem-Solution/POJ-1703 Find them, Catch them（基础并查集开双倍空间）.md
-            - POJ-1742 Coins（多重背包存在性）. : Algorithm/Problem-Solution/POJ-1742 Coins（多重背包存在性）.md
-            - POJ-1753 Flip Game（反转，开关问题+位运算）. : Algorithm/Problem-Solution/POJ-1753 Flip Game（反转，开关问题+位运算）.md
-            - POJ-1852 Ants（思维题目）. : Algorithm/Problem-Solution/POJ-1852 Ants（思维题目）.md
-            - POJ-1862 Stripies(优先级队列，Huffman编码思想). : Algorithm/Problem-Solution/POJ-1862 Stripies(优先级队列，Huffman编码思想).md
-            - POJ-1915 Knight Moves（迷宫型BFS）. : Algorithm/Problem-Solution/POJ-1915 Knight Moves（迷宫型BFS）.md
-            - POJ-1979 Red and Black(DFS 最大连通区域类问题). : Algorithm/Problem-Solution/POJ-1979 Red and Black(DFS 最大连通区域类问题).md
-            - POJ-2010 Moo University - Financial Aid（优先级队列）. : Algorithm/Problem-Solution/POJ-2010 Moo University - Financial Aid（优先级队列）.md
-            - POJ-2049 Finding Nemo(BFS). : Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS).md
-            - POJ-2049 Finding Nemo(BFS最短路径). : Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS最短路径).md
-            - POJ-2063 Investment(动态规划 完全背包). : Algorithm/Problem-Solution/POJ-2063 Investment(动态规划 完全背包).md
-            - POJ-2184 Cow Exhibition（带负数的01背包）. : Algorithm/Problem-Solution/POJ-2184 Cow Exhibition（带负数的01背包）.md
-            - POJ-2229 Sumsets(完全背包变形). : Algorithm/Problem-Solution/POJ-2229 Sumsets(完全背包变形).md
-            - POJ-2236 Wireless Network（基础并查集）. : Algorithm/Problem-Solution/POJ-2236 Wireless Network（基础并查集）.md
-            - POJ-2251 Dungeon Master（三维迷宫BFS）. : Algorithm/Problem-Solution/POJ-2251 Dungeon Master（三维迷宫BFS）.md
-            - POJ-2376 Cleaning Shifts（贪心，最少区间覆盖）. : Algorithm/Problem-Solution/POJ-2376 Cleaning Shifts（贪心，最少区间覆盖）.md
-            - POJ-2385 Apple Catching（动态规划）. : Algorithm/Problem-Solution/POJ-2385 Apple Catching（动态规划）.md
-            - POJ-2386 Lake Counting(DFS搜索). : Algorithm/Problem-Solution/POJ-2386 Lake Counting(DFS搜索).md
-            - POJ-2392 Space Elevator（多重背包存在性）. : Algorithm/Problem-Solution/POJ-2392 Space Elevator（多重背包存在性）.md
-            - POJ-2393 Yogurt factory（贪心）. : Algorithm/Problem-Solution/POJ-2393 Yogurt factory（贪心）.md
-            - POJ-2406 Power Strings(KMP算法). : Algorithm/Problem-Solution/POJ-2406 Power Strings(KMP算法).md
-            - POJ-2431 Expedition（优先级队列）. : Algorithm/Problem-Solution/POJ-2431 Expedition（优先级队列）.md
-            - POJ-2453 An Easy Problem（位运算，集合的整数表示）. : Algorithm/Problem-Solution/POJ-2453 An Easy Problem（位运算，集合的整数表示）.md
-            - POJ-2456 Aggressive cows（二分，最大化最小值）. : Algorithm/Problem-Solution/POJ-2456 Aggressive cows（二分，最大化最小值）.md
-            - POJ-2533 Longest Ordered Subsequence(最长上升子序列 LIS). : Algorithm/Problem-Solution/POJ-2533 Longest Ordered Subsequence(最长上升子序列 LIS).md
-            - POJ-2559 Largest Rectangle in a Histogram（单调栈模板）. : Algorithm/Problem-Solution/POJ-2559 Largest Rectangle in a Histogram（单调栈模板）.md
-            - POJ-2718 Smallest Difference（全排列，搜索或STL）. : Algorithm/Problem-Solution/POJ-2718 Smallest Difference（全排列，搜索或STL）.md
-            - POJ-2773 Happy 2006（GCD技巧）. : Algorithm/Problem-Solution/POJ-2773 Happy 2006（GCD技巧）.md
-            - POJ-2785 4 Values whose Sum is 0（折半枚举）. : Algorithm/Problem-Solution/POJ-2785 4 Values whose Sum is 0（折半枚举）.md
-            - POJ-2823 Sliding Window（单调队列模板）. : Algorithm/Problem-Solution/POJ-2823 Sliding Window（单调队列模板）.md
+            - OpenJudge-162 Post Office（区间DP）: Algorithm/Problem-Solution/OpenJudge-162 Post Office（区间DP）.md
+            - POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）: Algorithm/Problem-Solution/POJ 2259 Team Queue或牛客OJ Team Queue（基础队列模拟+哈希）.md
+            - POJ-1017 Packets（贪心+细节模拟，完美正方形）: Algorithm/Problem-Solution/POJ-1017 Packets（贪心+细节模拟，完美正方形）.md
+            - POJ-1041 John's trip(欧拉回路): Algorithm/Problem-Solution/POJ-1041 John's trip(欧拉回路).md
+            - POJ-1050 To the Max(二维矩阵的最大部分和): Algorithm/Problem-Solution/POJ-1050 To the Max(二维矩阵的最大部分和).md
+            - POJ-1065 Wooden Sticks（贪心-区间划分）: Algorithm/Problem-Solution/POJ-1065 Wooden Sticks（贪心-区间划分）.md
+            - POJ-1129 Channel Allocation(四色问题的DFS): Algorithm/Problem-Solution/POJ-1129 Channel Allocation(四色问题的DFS).md
+            - POJ-1164 The Castle（稍加思考的DFS泛洪）: Algorithm/Problem-Solution/POJ-1164 The Castle（稍加思考的DFS泛洪）.md
+            - POJ-1182 食物链（带权并查集或基础并查集空间倍增）: Algorithm/Problem-Solution/POJ-1182 食物链（带权并查集或基础并查集空间倍增）.md
+            - POJ-1186 方程的解数（DFS + 暴力枚举 + 哈希优化）: Algorithm/Problem-Solution/POJ-1186 方程的解数（DFS + 暴力枚举 + 哈希优化）.md
+            - POJ-1220 NUMBER BASE CONVERSION（大整数进制转换）: Algorithm/Problem-Solution/POJ-1220 NUMBER BASE CONVERSION（大整数进制转换）.md
+            - POJ-1276 Cash Machine(多重背包): Algorithm/Problem-Solution/POJ-1276 Cash Machine(多重背包).md
+            - POJ-1321 棋盘问题（DFS）: Algorithm/Problem-Solution/POJ-1321 棋盘问题（DFS）.md
+            - POJ-1328 Radar Installation(贪心，区间选点): Algorithm/Problem-Solution/POJ-1328 Radar Installation(贪心，区间选点).md
+            - POJ-1331 Multiply(进制转换): Algorithm/Problem-Solution/POJ-1331 Multiply(进制转换).md
+            - POJ-1458 Common Subsequence（动态规划 最长公共子序列）: Algorithm/Problem-Solution/POJ-1458 Common Subsequence（动态规划 最长公共子序列）.md
+            - POJ-1580 String Matching（分数化简+字符串基础）: Algorithm/Problem-Solution/POJ-1580 String Matching（分数化简+字符串基础）.md
+            - POJ-1631 Bridging signals（最长上升子序列(LIS)+二分优化）: Algorithm/Problem-Solution/POJ-1631 Bridging signals（最长上升子序列(LIS)+二分优化）.md
+            - POJ-1651 Multiplication Puzzle（基础区间DP）: Algorithm/Problem-Solution/POJ-1651 Multiplication Puzzle（基础区间DP）.md
+            - POJ-1664 放苹果（划分数模板题）: Algorithm/Problem-Solution/POJ-1664 放苹果（划分数模板题）.md
+            - POJ-1703 Find them, Catch them（基础并查集开双倍空间）: Algorithm/Problem-Solution/POJ-1703 Find them, Catch them（基础并查集开双倍空间）.md
+            - POJ-1742 Coins（多重背包存在性）: Algorithm/Problem-Solution/POJ-1742 Coins（多重背包存在性）.md
+            - POJ-1753 Flip Game（反转，开关问题+位运算）: Algorithm/Problem-Solution/POJ-1753 Flip Game（反转，开关问题+位运算）.md
+            - POJ-1852 Ants（思维题目）: Algorithm/Problem-Solution/POJ-1852 Ants（思维题目）.md
+            - POJ-1862 Stripies(优先级队列，Huffman编码思想): Algorithm/Problem-Solution/POJ-1862 Stripies(优先级队列，Huffman编码思想).md
+            - POJ-1915 Knight Moves（迷宫型BFS）: Algorithm/Problem-Solution/POJ-1915 Knight Moves（迷宫型BFS）.md
+            - POJ-1979 Red and Black(DFS 最大连通区域类问题): Algorithm/Problem-Solution/POJ-1979 Red and Black(DFS 最大连通区域类问题).md
+            - POJ-2010 Moo University - Financial Aid（优先级队列）: Algorithm/Problem-Solution/POJ-2010 Moo University - Financial Aid（优先级队列）.md
+            - POJ-2049 Finding Nemo(BFS): Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS).md
+            - POJ-2049 Finding Nemo(BFS最短路径): Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS最短路径).md
+            - POJ-2063 Investment(动态规划 完全背包): Algorithm/Problem-Solution/POJ-2063 Investment(动态规划 完全背包).md
+            - POJ-2184 Cow Exhibition（带负数的01背包）: Algorithm/Problem-Solution/POJ-2184 Cow Exhibition（带负数的01背包）.md
+            - POJ-2229 Sumsets(完全背包变形): Algorithm/Problem-Solution/POJ-2229 Sumsets(完全背包变形).md
+            - POJ-2236 Wireless Network（基础并查集）: Algorithm/Problem-Solution/POJ-2236 Wireless Network（基础并查集）.md
+            - POJ-2251 Dungeon Master（三维迷宫BFS）: Algorithm/Problem-Solution/POJ-2251 Dungeon Master（三维迷宫BFS）.md
+            - POJ-2376 Cleaning Shifts（贪心，最少区间覆盖）: Algorithm/Problem-Solution/POJ-2376 Cleaning Shifts（贪心，最少区间覆盖）.md
+            - POJ-2385 Apple Catching（动态规划）: Algorithm/Problem-Solution/POJ-2385 Apple Catching（动态规划）.md
+            - POJ-2386 Lake Counting(DFS搜索): Algorithm/Problem-Solution/POJ-2386 Lake Counting(DFS搜索).md
+            - POJ-2392 Space Elevator（多重背包存在性）: Algorithm/Problem-Solution/POJ-2392 Space Elevator（多重背包存在性）.md
+            - POJ-2393 Yogurt factory（贪心）: Algorithm/Problem-Solution/POJ-2393 Yogurt factory（贪心）.md
+            - POJ-2406 Power Strings(KMP算法): Algorithm/Problem-Solution/POJ-2406 Power Strings(KMP算法).md
+            - POJ-2431 Expedition（优先级队列）: Algorithm/Problem-Solution/POJ-2431 Expedition（优先级队列）.md
+            - POJ-2453 An Easy Problem（位运算，集合的整数表示）: Algorithm/Problem-Solution/POJ-2453 An Easy Problem（位运算，集合的整数表示）.md
+            - POJ-2456 Aggressive cows（二分，最大化最小值）: Algorithm/Problem-Solution/POJ-2456 Aggressive cows（二分，最大化最小值）.md
+            - POJ-2533 Longest Ordered Subsequence(最长上升子序列 LIS): Algorithm/Problem-Solution/POJ-2533 Longest Ordered Subsequence(最长上升子序列 LIS).md
+            - POJ-2559 Largest Rectangle in a Histogram（单调栈模板）: Algorithm/Problem-Solution/POJ-2559 Largest Rectangle in a Histogram（单调栈模板）.md
+            - POJ-2718 Smallest Difference（全排列，搜索或STL）: Algorithm/Problem-Solution/POJ-2718 Smallest Difference（全排列，搜索或STL）.md
+            - POJ-2773 Happy 2006（GCD技巧）: Algorithm/Problem-Solution/POJ-2773 Happy 2006（GCD技巧）.md
+            - POJ-2785 4 Values whose Sum is 0（折半枚举）: Algorithm/Problem-Solution/POJ-2785 4 Values whose Sum is 0（折半枚举）.md
+            - POJ-2823 Sliding Window（单调队列模板）: Algorithm/Problem-Solution/POJ-2823 Sliding Window（单调队列模板）.md
             - POJ-2955 Brackets(区间DP). : Algorithm/Problem-Solution/POJ-2955 Brackets(区间DP).md
-            - POJ-2976 Dropping tests（01分数规划==最大化平均值）. : Algorithm/Problem-Solution/POJ-2976 Dropping tests（01分数规划==最大化平均值）.md
-            - POJ-3009 Curling 2.0(DFS搜索所有路径). : Algorithm/Problem-Solution/POJ-3009 Curling 2.0(DFS搜索所有路径).md
-            - POJ-3040 Allowance（贪心，思路清奇）. : Algorithm/Problem-Solution/POJ-3040 Allowance（贪心，思路清奇）.md
-            - POJ-3045 Cow Acrobats（贪心好题）. : Algorithm/Problem-Solution/POJ-3045 Cow Acrobats（贪心好题）.md
-            - POJ-3046 Ant Counting（多重集合组合数，计数类DP）. : Algorithm/Problem-Solution/POJ-3046 Ant Counting（多重集合组合数，计数类DP）.md
-            - POJ-3050 Hopscotch(DFS暴力搜索). : Algorithm/Problem-Solution/POJ-3050 Hopscotch(DFS暴力搜索).md
-            - POJ-3061 Subsequence（前缀和+二分搜索+尺取法）. : Algorithm/Problem-Solution/POJ-3061 Subsequence（前缀和+二分搜索+尺取法）.md
-            - POJ-3069 Saruman's Army（区间贪心）. : Algorithm/Problem-Solution/POJ-3069 Saruman's Army（区间贪心）.md
-            - POJ-3104 Drying（二分法，思维）. : Algorithm/Problem-Solution/POJ-3104 Drying（二分法，思维）.md
-            - POJ-3111 K Best（01分数规划==最大化平均值）. : Algorithm/Problem-Solution/POJ-3111 K Best（01分数规划==最大化平均值）.md
-            - POJ-3176 Cow Bowling(DP，数字三角形). : Algorithm/Problem-Solution/POJ-3176 Cow Bowling(DP，数字三角形).md
-            - POJ-3181 Dollar Dayz（划分数+高精度）. : Algorithm/Problem-Solution/POJ-3181 Dollar Dayz（划分数+高精度）.md
-            - POJ-3187 Backward Digit Sums（排列组合，Pascal三角形）. : Algorithm/Problem-Solution/POJ-3187 Backward Digit Sums（排列组合，Pascal三角形）.md
-            - POJ-3190 Stall Reservations（贪心，区间划分+路径输出）. : Algorithm/Problem-Solution/POJ-3190 Stall Reservations（贪心，区间划分+路径输出）.md
-            - POJ-3253 Fence Repair(贪心或优先级队列). : Algorithm/Problem-Solution/POJ-3253 Fence Repair(贪心或优先级队列).md
-            - POJ-3258 River Hopscotch（二分，最大化最小值）. : Algorithm/Problem-Solution/POJ-3258 River Hopscotch（二分，最大化最小值）.md
-            - POJ-3262 Protecting the Flowers(贪心). : Algorithm/Problem-Solution/POJ-3262 Protecting the Flowers(贪心).md
-            - POJ-3264 Balanced Lineup(线段树). : Algorithm/Problem-Solution/POJ-3264 Balanced Lineup(线段树).md
-            - POJ-3273 Monthly Expense（二分，最小化最大值）. : Algorithm/Problem-Solution/POJ-3273 Monthly Expense（二分，最小化最大值）.md
-            - POJ-3276 Face The Right Way（开关问题）. : Algorithm/Problem-Solution/POJ-3276 Face The Right Way（开关问题）.md
-            - POJ-3279 Fliptile（反转，开关问题+位运算）. : Algorithm/Problem-Solution/POJ-3279 Fliptile（反转，开关问题+位运算）.md
-            - POJ-3280 Cheapest Palindrome（动态规划，回文字符串）. : Algorithm/Problem-Solution/POJ-3280 Cheapest Palindrome（动态规划，回文字符串）.md
-            - POJ-3320 Jessica's Reading Problem（尺取法）. : Algorithm/Problem-Solution/POJ-3320 Jessica's Reading Problem（尺取法）.md
-            - POJ-3461 Oulipo(KMP算法). : Algorithm/Problem-Solution/POJ-3461 Oulipo(KMP算法).md
-            - POJ-3579 Median（二分查找中位数）. : Algorithm/Problem-Solution/POJ-3579 Median（二分查找中位数）.md
-            - POJ-3614 Sunscreen（优先级队列）. : Algorithm/Problem-Solution/POJ-3614 Sunscreen（优先级队列）.md
-            - POJ-3616 Milking Time（基础动态规划）. : Algorithm/Problem-Solution/POJ-3616 Milking Time（基础动态规划）.md
-            - POJ-3617 Best Cow Line（贪心）. : Algorithm/Problem-Solution/POJ-3617 Best Cow Line（贪心）.md
-            - POJ-3624 Charm Bracelet(01背包). : Algorithm/Problem-Solution/POJ-3624 Charm Bracelet(01背包).md
-            - POJ-3669 Meteor Shower（BFS，限制条件多）. : Algorithm/Problem-Solution/POJ-3669 Meteor Shower（BFS，限制条件多）.md
-            - POJ-3984 迷宫问题（BFS最短路径）. : Algorithm/Problem-Solution/POJ-3984 迷宫问题（BFS最短路径）.md
-            - SPOJ CCOMPS - Count Components(无向图的连通性). : Algorithm/Problem-Solution/SPOJ CCOMPS - Count Components(无向图的连通性).md
-            - SPOJ SUBMERGE - Submerging Islands（连通图的割点）. : Algorithm/Problem-Solution/SPOJ SUBMERGE - Submerging Islands（连通图的割点）.md
-            - SPOJ TOPOSORT - Topological Sorting(拓扑排序). : Algorithm/Problem-Solution/SPOJ TOPOSORT - Topological Sorting(拓扑排序).md
-            - SWUST-1065 无向图的连通分量计算(等价于检验图的连通性）. : Algorithm/Problem-Solution/SWUST-1065 无向图的连通分量计算(等价于检验图的连通性）.md
-            - UVA-147 Dollars（完全背包变形）. : Algorithm/Problem-Solution/UVA-147 Dollars（完全背包变形）.md
-            - UVA-272 TEX Quotes（基础字符串）. : Algorithm/Problem-Solution/UVA-272 TEX Quotes（基础字符串）.md
-            - UVA-348 Optimal Array Multiplication Sequence(区间DP). : Algorithm/Problem-Solution/UVA-348 Optimal Array Multiplication Sequence(区间DP).md
-            - UVA-389 & POJ-1546 & HDU-1335 & ZOJ-1334 Basically Speaking（大整数进制转换）. : Algorithm/Problem-Solution/UVA-389 & POJ-1546 & HDU-1335 & ZOJ-1334 Basically Speaking（大整数进制转换）.md
-            - UVA-524 Prime Ring Problem（回溯-暴力搜索）. : Algorithm/Problem-Solution/UVA-524 Prime Ring Problem（回溯-暴力搜索）.md
-            - UVA-725 Division（递归组合型枚举）. : Algorithm/Problem-Solution/UVA-725 Division（递归组合型枚举）.md
-            - UVA-796 Critical Links(桥 - Tarjan算法). : Algorithm/Problem-Solution/UVA-796 Critical Links(桥 - Tarjan算法).md
-            - UVA-10004 Bicoloring（二部图着色）. : Algorithm/Problem-Solution/UVA-10004 Bicoloring（二部图着色）.md
-            - UVA-10054 The Necklace(欧拉回路). : Algorithm/Problem-Solution/UVA-10054 The Necklace(欧拉回路).md
+            - POJ-2976 Dropping tests（01分数规划==最大化平均值）: Algorithm/Problem-Solution/POJ-2976 Dropping tests（01分数规划==最大化平均值）.md
+            - POJ-3009 Curling 2.0(DFS搜索所有路径): Algorithm/Problem-Solution/POJ-3009 Curling 2.0(DFS搜索所有路径).md
+            - POJ-3040 Allowance（贪心，思路清奇）: Algorithm/Problem-Solution/POJ-3040 Allowance（贪心，思路清奇）.md
+            - POJ-3045 Cow Acrobats（贪心好题）: Algorithm/Problem-Solution/POJ-3045 Cow Acrobats（贪心好题）.md
+            - POJ-3046 Ant Counting（多重集合组合数，计数类DP）: Algorithm/Problem-Solution/POJ-3046 Ant Counting（多重集合组合数，计数类DP）.md
+            - POJ-3050 Hopscotch(DFS暴力搜索): Algorithm/Problem-Solution/POJ-3050 Hopscotch(DFS暴力搜索).md
+            - POJ-3061 Subsequence（前缀和+二分搜索+尺取法）: Algorithm/Problem-Solution/POJ-3061 Subsequence（前缀和+二分搜索+尺取法）.md
+            - POJ-3069 Saruman's Army（区间贪心）: Algorithm/Problem-Solution/POJ-3069 Saruman's Army（区间贪心）.md
+            - POJ-3104 Drying（二分法，思维）: Algorithm/Problem-Solution/POJ-3104 Drying（二分法，思维）.md
+            - POJ-3111 K Best（01分数规划==最大化平均值）: Algorithm/Problem-Solution/POJ-3111 K Best（01分数规划==最大化平均值）.md
+            - POJ-3176 Cow Bowling(DP，数字三角形): Algorithm/Problem-Solution/POJ-3176 Cow Bowling(DP，数字三角形).md
+            - POJ-3181 Dollar Dayz（划分数+高精度）: Algorithm/Problem-Solution/POJ-3181 Dollar Dayz（划分数+高精度）.md
+            - POJ-3187 Backward Digit Sums（排列组合，Pascal三角形）: Algorithm/Problem-Solution/POJ-3187 Backward Digit Sums（排列组合，Pascal三角形）.md
+            - POJ-3190 Stall Reservations（贪心，区间划分+路径输出）: Algorithm/Problem-Solution/POJ-3190 Stall Reservations（贪心，区间划分+路径输出）.md
+            - POJ-3253 Fence Repair(贪心或优先级队列): Algorithm/Problem-Solution/POJ-3253 Fence Repair(贪心或优先级队列).md
+            - POJ-3258 River Hopscotch（二分，最大化最小值）: Algorithm/Problem-Solution/POJ-3258 River Hopscotch（二分，最大化最小值）.md
+            - POJ-3262 Protecting the Flowers(贪心): Algorithm/Problem-Solution/POJ-3262 Protecting the Flowers(贪心).md
+            - POJ-3264 Balanced Lineup(线段树): Algorithm/Problem-Solution/POJ-3264 Balanced Lineup(线段树).md
+            - POJ-3273 Monthly Expense（二分，最小化最大值）: Algorithm/Problem-Solution/POJ-3273 Monthly Expense（二分，最小化最大值）.md
+            - POJ-3276 Face The Right Way（开关问题）: Algorithm/Problem-Solution/POJ-3276 Face The Right Way（开关问题）.md
+            - POJ-3279 Fliptile（反转，开关问题+位运算）: Algorithm/Problem-Solution/POJ-3279 Fliptile（反转，开关问题+位运算）.md
+            - POJ-3280 Cheapest Palindrome（动态规划，回文字符串）: Algorithm/Problem-Solution/POJ-3280 Cheapest Palindrome（动态规划，回文字符串）.md
+            - POJ-3320 Jessica's Reading Problem（尺取法）: Algorithm/Problem-Solution/POJ-3320 Jessica's Reading Problem（尺取法）.md
+            - POJ-3461 Oulipo(KMP算法): Algorithm/Problem-Solution/POJ-3461 Oulipo(KMP算法).md
+            - POJ-3579 Median（二分查找中位数）: Algorithm/Problem-Solution/POJ-3579 Median（二分查找中位数）.md
+            - POJ-3614 Sunscreen（优先级队列）: Algorithm/Problem-Solution/POJ-3614 Sunscreen（优先级队列）.md
+            - POJ-3616 Milking Time（基础动态规划）: Algorithm/Problem-Solution/POJ-3616 Milking Time（基础动态规划）.md
+            - POJ-3617 Best Cow Line（贪心）: Algorithm/Problem-Solution/POJ-3617 Best Cow Line（贪心）.md
+            - POJ-3624 Charm Bracelet(01背包): Algorithm/Problem-Solution/POJ-3624 Charm Bracelet(01背包).md
+            - POJ-3669 Meteor Shower（BFS，限制条件多）: Algorithm/Problem-Solution/POJ-3669 Meteor Shower（BFS，限制条件多）.md
+            - POJ-3984 迷宫问题（BFS最短路径）: Algorithm/Problem-Solution/POJ-3984 迷宫问题（BFS最短路径）.md
+            - SPOJ CCOMPS - Count Components(无向图的连通性): Algorithm/Problem-Solution/SPOJ CCOMPS - Count Components(无向图的连通性).md
+            - SPOJ SUBMERGE - Submerging Islands（连通图的割点）: Algorithm/Problem-Solution/SPOJ SUBMERGE - Submerging Islands（连通图的割点）.md
+            - SPOJ TOPOSORT - Topological Sorting(拓扑排序): Algorithm/Problem-Solution/SPOJ TOPOSORT - Topological Sorting(拓扑排序).md
+            - SWUST-1065 无向图的连通分量计算(等价于检验图的连通性）: Algorithm/Problem-Solution/SWUST-1065 无向图的连通分量计算(等价于检验图的连通性）.md
+            - UVA-147 Dollars（完全背包变形）: Algorithm/Problem-Solution/UVA-147 Dollars（完全背包变形）.md
+            - UVA-272 TEX Quotes（基础字符串）: Algorithm/Problem-Solution/UVA-272 TEX Quotes（基础字符串）.md
+            - UVA-348 Optimal Array Multiplication Sequence(区间DP): Algorithm/Problem-Solution/UVA-348 Optimal Array Multiplication Sequence(区间DP).md
+            - UVA-389 & POJ-1546 & HDU-1335 & ZOJ-1334 Basically Speaking（大整数进制转换）: Algorithm/Problem-Solution/UVA-389 & POJ-1546 & HDU-1335 & ZOJ-1334 Basically Speaking（大整数进制转换）.md
+            - UVA-524 Prime Ring Problem（回溯-暴力搜索）: Algorithm/Problem-Solution/UVA-524 Prime Ring Problem（回溯-暴力搜索）.md
+            - UVA-725 Division（递归组合型枚举）: Algorithm/Problem-Solution/UVA-725 Division（递归组合型枚举）.md
+            - UVA-796 Critical Links(桥 - Tarjan算法): Algorithm/Problem-Solution/UVA-796 Critical Links(桥 - Tarjan算法).md
+            - UVA-10004 Bicoloring（二部图着色）: Algorithm/Problem-Solution/UVA-10004 Bicoloring（二部图着色）.md
+            - UVA-10054 The Necklace(欧拉回路): Algorithm/Problem-Solution/UVA-10054 The Necklace(欧拉回路).md
             - UVA-10976 Fractions Again!（不等式缩小搜索范围）: Algorithm/Problem-Solution/UVA-10976 Fractions Again!（不等式缩小搜索范围）.md
             - UVA-11059 Maximum Product（动态规划-最大乘积子数组）: Algorithm/Problem-Solution/UVA-11059 Maximum Product（动态规划-最大乘积子数组）.md
-            - tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）. : Algorithm/Problem-Solution/tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）.md
-            - 一本通-1000：入门测试题目. : Algorithm/Problem-Solution/一本通-1000：入门测试题目.md
-            - 一本通-1001：Hello,World!. : Algorithm/Problem-Solution/一本通-1001：Hello,World!.md
-            - 一本通-1002：输出第二个整数. : Algorithm/Problem-Solution/一本通-1002：输出第二个整数.md
-            - 一本通-1003：对齐输出. : Algorithm/Problem-Solution/一本通-1003：对齐输出.md
-            - 一本通-1004：字符三角形. : Algorithm/Problem-Solution/一本通-1004：字符三角形.md
-            - 一本通-1005：地球人口承载力估计（C++语言入门）. : Algorithm/Problem-Solution/一本通-1005：地球人口承载力估计（C++语言入门）.md
-            - 一本通-1006：A+B问题. : Algorithm/Problem-Solution/一本通-1006：A+B问题.md
-            - 一本通-1007：计算(a+b)×c的值. : Algorithm/Problem-Solution/一本通-1007：计算(a+b)×c的值.md
-            - 一本通-1008：计算(a+b)c的值. : Algorithm/Problem-Solution/一本通-1008：计算(a+b)c的值.md
-            - 一本通-1009：带余除法. : Algorithm/Problem-Solution/一本通-1009：带余除法.md
-            - 一本通-1010：计算分数的浮点数值. : Algorithm/Problem-Solution/一本通-1010：计算分数的浮点数值.md
-            - 一本通-1011：甲流疫情死亡率. : Algorithm/Problem-Solution/一本通-1011：甲流疫情死亡率.md
-            - 一本通-1012：计算多项式的值. : Algorithm/Problem-Solution/一本通-1012：计算多项式的值.md
-            - 一本通-1013：温度表达转化. : Algorithm/Problem-Solution/一本通-1013：温度表达转化.md
-            - 一本通-1014：与圆相关的计算. : Algorithm/Problem-Solution/一本通-1014：与圆相关的计算.md
-            - 一本通-1015：计算并联电阻的阻值. : Algorithm/Problem-Solution/一本通-1015：计算并联电阻的阻值.md
-            - 一本通-1016：整型数据类型存储空间大小. : Algorithm/Problem-Solution/一本通-1016：整型数据类型存储空间大小.md
-            - 一本通-1017：浮点型数据类型存储空间大小. : Algorithm/Problem-Solution/一本通-1017：浮点型数据类型存储空间大小.md
-            - 一本通-1018：其他数据类型存储空间大小. : Algorithm/Problem-Solution/一本通-1018：其他数据类型存储空间大小.md
-            - 一本通-1019：浮点数向零舍入. : Algorithm/Problem-Solution/一本通-1019：浮点数向零舍入.md
-            - 一本通-1020：打印ASCII码. : Algorithm/Problem-Solution/一本通-1020：打印ASCII码.md
-            - 一本通-1021：打印字符. : Algorithm/Problem-Solution/一本通-1021：打印字符.md
-            - 一本通-1022：整型与布尔型的转换. : Algorithm/Problem-Solution/一本通-1022：整型与布尔型的转换.md
-            - 一本通-1023：Hello,World!的大小. : Algorithm/Problem-Solution/一本通-1023：Hello,World!的大小.md
-            - 一本通-1024：保留3位小数的浮点数. : Algorithm/Problem-Solution/一本通-1024：保留3位小数的浮点数.md
-            - 一本通-1097：画矩形（循环嵌套）. : Algorithm/Problem-Solution/一本通-1097：画矩形（循环嵌套）.md
-            - 一本通-1132：石头剪子布. : Algorithm/Problem-Solution/一本通-1132：石头剪子布.md
-            - 一本通-1133：输出亲朋字符串. : Algorithm/Problem-Solution/一本通-1133：输出亲朋字符串.md
-            - 一本通-1134：合法C标识符查. : Algorithm/Problem-Solution/一本通-1134：合法C标识符查.md
-            - 一本通-1191：流感传染（两个队列模拟BFS）. : Algorithm/Problem-Solution/一本通-1191：流感传染（两个队列模拟BFS）.md
-            - 一本通-1192：放苹果（计数DP-划分数）. : Algorithm/Problem-Solution/一本通-1192：放苹果（计数DP-划分数）.md
-            - 一本通-1195：判断整除（动态规划）. : Algorithm/Problem-Solution/一本通-1195：判断整除（动态规划）.md
-            - 一本通-1196：踩方格（递推+动态规划）. : Algorithm/Problem-Solution/一本通-1196：踩方格（递推+动态规划）.md
-            - 一本通-1197：山区建小学（区间DP）. : Algorithm/Problem-Solution/一本通-1197：山区建小学（区间DP）.md
-            - 一本通-1198：逆波兰表达式（递归）. : Algorithm/Problem-Solution/一本通-1198：逆波兰表达式（递归）.md
-            - 一本通-1200：分解因数（递归）. : Algorithm/Problem-Solution/一本通-1200：分解因数（递归）.md
-            - 一本通-1203：扩号匹配问题（栈）. : Algorithm/Problem-Solution/一本通-1203：扩号匹配问题（栈）.md
-            - 一本通-1205：汉诺塔问题（递归）. : Algorithm/Problem-Solution/一本通-1205：汉诺塔问题（递归）.md
-            - 一本通-1208：2的幂次方表示（很经典的递归）. : Algorithm/Problem-Solution/一本通-1208：2的幂次方表示（很经典的递归）.md
-            - 一本通-1209：分数求和. : Algorithm/Problem-Solution/一本通-1209：分数求和.md
-            - 一本通-1210：因子分解. : Algorithm/Problem-Solution/一本通-1210：因子分解.md
-            - 一本通-1211：判断元素是否存在（递归）. : Algorithm/Problem-Solution/一本通-1211：判断元素是否存在（递归）.md
-            - 一本通-1212：LETTERS（基础DFS）. : Algorithm/Problem-Solution/一本通-1212：LETTERS（基础DFS）.md
-            - 一本通-1213：八皇后问题（回溯+搜索）. : Algorithm/Problem-Solution/一本通-1213：八皇后问题（回溯+搜索）.md
-            - 一本通-1214：八皇后（搜索+回溯）. : Algorithm/Problem-Solution/一本通-1214：八皇后（搜索+回溯）.md
-            - 一本通-1215：迷宫（经典迷宫类型DFS）. : Algorithm/Problem-Solution/一本通-1215：迷宫（经典迷宫类型DFS）.md
-            - 一本通-1216：红与黑（基础DFS，flood fill算法）. : Algorithm/Problem-Solution/一本通-1216：红与黑（基础DFS，flood fill算法）.md
-            - 一本通-1218：取石子游戏（基础博弈）. : Algorithm/Problem-Solution/一本通-1218：取石子游戏（基础博弈）.md
-            - 一本通-1219：马走日（搜索，回溯）. : Algorithm/Problem-Solution/一本通-1219：马走日（搜索，回溯）.md
-            - 一本通-1220：单词接龙（搜索）. : Algorithm/Problem-Solution/一本通-1220：单词接龙（搜索）.md
-            - 一本通-1221：分成互质组（思路巧妙地DFS）. : Algorithm/Problem-Solution/一本通-1221：分成互质组（思路巧妙地DFS）.md
-            - 一本通-1227：Ride to Office(基础贪心). : Algorithm/Problem-Solution/一本通-1227：Ride to Office(基础贪心).md
-            - 一本通-1229：电池的寿命（贪心，找规律）. : Algorithm/Problem-Solution/一本通-1229：电池的寿命（贪心，找规律）.md
-            - 一本通-1230：寻找平面上的极大点（单调栈，贪心）. : Algorithm/Problem-Solution/一本通-1230：寻找平面上的极大点（单调栈，贪心）.md
-            - 一本通-1234：2011（基础分治，易错）. : Algorithm/Problem-Solution/一本通-1234：2011（基础分治，易错）.md
-            - 一本通-1236：区间合并（区间贪心）. : Algorithm/Problem-Solution/一本通-1236：区间合并（区间贪心）.md
-            - 一本通-1237：求排列的逆序数（逆序数问题）. : Algorithm/Problem-Solution/一本通-1237：求排列的逆序数（逆序数问题）.md
-            - 一本通-1248：Dungeon Master（三维迷宫BFS）. : Algorithm/Problem-Solution/一本通-1248：Dungeon Master（三维迷宫BFS）.md
-            - 一本通-1251：仙岛求药（迷宫类型的BFS）. : Algorithm/Problem-Solution/一本通-1251：仙岛求药（迷宫类型的BFS）.md
-            - 一本通-1252：走迷宫（迷宫型BFS）. : Algorithm/Problem-Solution/一本通-1252：走迷宫（迷宫型BFS）.md
-            - 一本通-1253：抓住那头牛（一维BFS）. : Algorithm/Problem-Solution/一本通-1253：抓住那头牛（一维BFS）.md
-            - 一本通-1254：走出迷宫（二维迷宫型BFS）. : Algorithm/Problem-Solution/一本通-1254：走出迷宫（二维迷宫型BFS）.md
-            - 一本通-1256：献给阿尔吉侬的花束（二维迷宫BFS）. : Algorithm/Problem-Solution/一本通-1256：献给阿尔吉侬的花束（二维迷宫BFS）.md
-            - 一本通-1259：【例9.3】求最长不下降序列（LIS）. : Algorithm/Problem-Solution/一本通-1259：【例9.3】求最长不下降序列（LIS）.md
-            - 一本通-1262：【例9.6】挖地雷（基础动态规划）. : Algorithm/Problem-Solution/一本通-1262：【例9.6】挖地雷（基础动态规划）.md
-            - 一本通-1261：【例9.5】城市交通路网（基础动态规划）. : Algorithm/Problem-Solution/一本通-1261：【例9.5】城市交通路网（基础动态规划）.md
-            - 一本通-1263：【例9.7】友好城市（LIS）. : Algorithm/Problem-Solution/一本通-1263：【例9.7】友好城市（LIS）.md
-            - 一本通-1264：【例9.8】合唱队形. : Algorithm/Problem-Solution/一本通-1264：【例9.8】合唱队形.md
-            - 一本通-1265：【例9.9】最长公共子序列. : Algorithm/Problem-Solution/一本通-1265：【例9.9】最长公共子序列.md
-            - 一本通-1267：【例9.11】01背包问题（01背包模板）. : Algorithm/Problem-Solution/一本通-1267：【例9.11】01背包问题（01背包模板）.md
-            - 一本通-1270：【例9.14】混合背包. : Algorithm/Problem-Solution/一本通-1270：【例9.14】混合背包.md
-            - 一本通-1271：【例9.15】潜水员（二维01背包）. : Algorithm/Problem-Solution/一本通-1271：【例9.15】潜水员（二维01背包）.md
-            - 一本通-1272：【例9.16】分组背包. : Algorithm/Problem-Solution/一本通-1272：【例9.16】分组背包.md
-            - 一本通-1273：【例9.17】货币系统. : Algorithm/Problem-Solution/一本通-1273：【例9.17】货币系统.md
-            - 一本通-1274：【例9.18】合并石子（直线排列，小数据）. : Algorithm/Problem-Solution/一本通-1274：【例9.18】合并石子（直线排列，小数据）.md
-            - 一本通-1282：最大子矩阵（二维最长连续子序列和）. : Algorithm/Problem-Solution/一本通-1282：最大子矩阵（二维最长连续子序列和）.md
-            - 一本通-1283：登山（LIS的合唱队形）. : Algorithm/Problem-Solution/一本通-1283：登山（LIS的合唱队形）.md
-            - 一本通-1284：摘花生（基础DP）. : Algorithm/Problem-Solution/一本通-1284：摘花生（基础DP）.md
-            - 一本通-1285：最大上升子序列和（LIS变种）. : Algorithm/Problem-Solution/一本通-1285：最大上升子序列和（LIS变种）.md
-            - 一本通-1286：怪盗基德的滑翔翼（LIS）. : Algorithm/Problem-Solution/一本通-1286：怪盗基德的滑翔翼（LIS）.md
-            - 一本通-1287：最低通行费(基础DP). : Algorithm/Problem-Solution/一本通-1287：最低通行费(基础DP).md
-            - 一本通-1288：三角形最佳路径问题（数字三角形）. : Algorithm/Problem-Solution/一本通-1288：三角形最佳路径问题（数字三角形）.md
-            - 一本通-1291：数字组合（动态规划-硬币问题）. : Algorithm/Problem-Solution/一本通-1291：数字组合（动态规划-硬币问题）.md
-            - 一本通-1292：宠物小精灵之收服（二维01背包）. : Algorithm/Problem-Solution/一本通-1292：宠物小精灵之收服（二维01背包）.md
-            - 一本通-1298：计算字符串距离（动态规划-编辑距离）. : Algorithm/Problem-Solution/一本通-1298：计算字符串距离（动态规划-编辑距离）.md
-            - 一本通-1310：【例2.2】车厢重组（冒泡排序）. : Algorithm/Problem-Solution/一本通-1310：【例2.2】车厢重组（冒泡排序）.md
-            - 一本通-1312：【例3.4】昆虫繁殖（动态规划）. : Algorithm/Problem-Solution/一本通-1312：【例3.4】昆虫繁殖（动态规划）.md
-            - 一本通-1313：【例3.5】位数问题（动态规划）. : Algorithm/Problem-Solution/一本通-1313：【例3.5】位数问题（动态规划）.md
-            - 一本通-1314：【例3.6】过河卒(Noip2002)（动态规划）. : Algorithm/Problem-Solution/一本通-1314：【例3.6】过河卒(Noip2002)（动态规划）.md
-            - 一本通-1315：【例4.5】集合的划分（计数DP或递归）. : Algorithm/Problem-Solution/一本通-1315：【例4.5】集合的划分（计数DP或递归）.md
-            - 一本通-1316：【例4.6】数的计数(Noip2001， 动态规划). : Algorithm/Problem-Solution/一本通-1316：【例4.6】数的计数(Noip2001， 动态规划).md
-            - 一本通-1317：【例5.2】组合的输出（回溯）. : Algorithm/Problem-Solution/一本通-1317：【例5.2】组合的输出（回溯）.md
-            - 一本通-1318：【例5.3】自然数的拆分（回溯）. : Algorithm/Problem-Solution/一本通-1318：【例5.3】自然数的拆分（回溯）.md
-            - 一本通-1319：【例6.1】排队接水（贪心）. : Algorithm/Problem-Solution/一本通-1319：【例6.1】排队接水（贪心）.md
-            - 一本通-1325：【例7.4】 循环比赛日程表（基础分治）. : Algorithm/Problem-Solution/一本通-1325：【例7.4】 循环比赛日程表（基础分治）.md
-            - 一本通-1328：【例7.7】光荣的梦想（基础分治，逆序对）. : Algorithm/Problem-Solution/一本通-1328：【例7.7】光荣的梦想（基础分治，逆序对）.md
-            - 一本通-1329：【例8.2】细胞（DFS和BFS两种解法）. : Algorithm/Problem-Solution/一本通-1329：【例8.2】细胞（DFS和BFS两种解法）.md
-            - 一本通-1330：【例8.3】最少步数（经典BFS）. : Algorithm/Problem-Solution/一本通-1330：【例8.3】最少步数（经典BFS）.md
-            - 一本通-1332：【例2-1】周末舞会（模拟队列）. : Algorithm/Problem-Solution/一本通-1332：【例2-1】周末舞会（模拟队列）.md
-            - 一本通-1333：【例2-2】Blah数集（优先级队列模拟）. : Algorithm/Problem-Solution/一本通-1333：【例2-2】Blah数集（优先级队列模拟）.md
-            - 一本通-1334：【例2-3】围圈报数（数组模拟循环链表或者队列模拟）. : Algorithm/Problem-Solution/一本通-1334：【例2-3】围圈报数（数组模拟循环链表或者队列模拟）.md
-            - 一本通-1335：【例2-4】连通块（DFS泛洪算法）. : Algorithm/Problem-Solution/一本通-1335：【例2-4】连通块（DFS泛洪算法）.md
-            - 一本通-1336：【例3-1】找树根和孩子. : Algorithm/Problem-Solution/一本通-1336：【例3-1】找树根和孩子.md
-            - 一本通-1337：【例3-2】单词查找树. : Algorithm/Problem-Solution/一本通-1337：【例3-2】单词查找树.md
-            - 一本通-1339：【例3-4】求后序遍历. : Algorithm/Problem-Solution/一本通-1339：【例3-4】求后序遍历.md
-            - 一本通-1340：【例3-5】扩展二叉树. : Algorithm/Problem-Solution/一本通-1340：【例3-5】扩展二叉树.md
-            - 一本通-1359：围成面积（BFS + 加边法）. : Algorithm/Problem-Solution/一本通-1359：围成面积（BFS + 加边法）.md
-            - 一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）. : Algorithm/Problem-Solution/一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）.md
-            - 一本通-1363：小球(drop)（满二叉树性质应用）. : Algorithm/Problem-Solution/一本通-1363：小球(drop)（满二叉树性质应用）.md
-            - 一本通-1364：二叉树遍历(flist). : Algorithm/Problem-Solution/一本通-1364：二叉树遍历(flist).md
-            - 一本通-1366：二叉树输出(btout). : Algorithm/Problem-Solution/一本通-1366：二叉树输出(btout).md
-            - 一本通-1367：查找二叉树(tree_a). : Algorithm/Problem-Solution/一本通-1367：查找二叉树(tree_a).md
-            - 一本通-1371：看病（优先级队列）. : Algorithm/Problem-Solution/一本通-1371：看病（优先级队列）.md
-            - 一本通-1403：素数对（函数）. : Algorithm/Problem-Solution/一本通-1403：素数对（函数）.md
-            - 一本通-例5.13 蛇形填数. : Algorithm/Problem-Solution/一本通-例5.13 蛇形填数.md
-            - 信息学奥赛一本通——基础篇. : Algorithm/Problem-Solution/信息学奥赛一本通——基础篇.md
-            - 洛谷-P1008 三连击（桶排序）. : Algorithm/Problem-Solution/洛谷-P1008 三连击（桶排序）.md
-            - 洛谷-P1010 幂次方（经典递归）. : Algorithm/Problem-Solution/洛谷-P1010 幂次方（经典递归）.md
-            - 洛谷-P1014 Cantor的数表(数学). : Algorithm/Problem-Solution/洛谷-P1014 Cantor的数表(数学).md
-            - 洛谷-P1015 回文数（进制转换+高精度加法）. : Algorithm/Problem-Solution/洛谷-P1015 回文数（进制转换+高精度加法）.md
-            - 洛谷-P1019 单词接龙（DFS有难度）. : Algorithm/Problem-Solution/洛谷-P1019 单词接龙（DFS有难度）.md
-            - 洛谷-P1020 导弹拦截（最典型的LIS练习，两种形式）. : Algorithm/Problem-Solution/洛谷-P1020 导弹拦截（最典型的LIS练习，两种形式）.md
-            - 洛谷-P1029 最大公约数和最小公倍数问题(GCD模板题). : Algorithm/Problem-Solution/洛谷-P1029 最大公约数和最小公倍数问题(GCD模板题).md
-            - 洛谷-P1031 均分纸牌（贪心）. : Algorithm/Problem-Solution/洛谷-P1031 均分纸牌（贪心）.md
-            - 洛谷-P1048 采药（01背包）. : Algorithm/Problem-Solution/洛谷-P1048 采药（01背包）.md
-            - 洛谷-P1057 传球游戏(基础DP). : Algorithm/Problem-Solution/洛谷-P1057 传球游戏(基础DP).md
-            - 洛谷-P1059 明明的随机数（桶排序）. : Algorithm/Problem-Solution/洛谷-P1059 明明的随机数（桶排序）.md
-            - 洛谷-P1063 能量项链（区间DP）. : Algorithm/Problem-Solution/洛谷-P1063 能量项链（区间DP）.md
-            - 洛谷-P1087 FBI树（满二叉树下标关系）. : Algorithm/Problem-Solution/洛谷-P1087 FBI树（满二叉树下标关系）.md
-            - 洛谷-P1091 合唱队形（LIS）. : Algorithm/Problem-Solution/洛谷-P1091 合唱队形（LIS）.md
-            - 洛谷-P1106 删数问题（基础贪心）. : Algorithm/Problem-Solution/洛谷-P1106 删数问题（基础贪心）.md
-            - 洛谷-P1135 奇怪的电梯（BFS或单源最短路）. : Algorithm/Problem-Solution/洛谷-P1135 奇怪的电梯（BFS或单源最短路）.md
-            - 洛谷-P1257 平面上的最接近点对（分治）. : Algorithm/Problem-Solution/洛谷-P1257 平面上的最接近点对（分治）.md
-            - 洛谷-P1259 黑白棋子的移动（基础分治）. : Algorithm/Problem-Solution/洛谷-P1259 黑白棋子的移动（基础分治）.md
-            - 洛谷-P1303 [模板] A乘B Problem. : Algorithm/Problem-Solution/洛谷-P1303 [模板] A乘B Problem.md
-            - 洛谷-P1323 删数问题（基础贪心）. : Algorithm/Problem-Solution/洛谷-P1323 删数问题（基础贪心）.md
-            - 洛谷-P1429 平面最近点对（加强版）. : Algorithm/Problem-Solution/洛谷-P1429 平面最近点对（加强版）.md
-            - 洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）. : Algorithm/Problem-Solution/洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）.md
-            - 洛谷-P1480 [模板] A除以B Problem. : Algorithm/Problem-Solution/洛谷-P1480 [模板] A除以B Problem.md
-            - 洛谷-P1601 [模板] A+B Problem（高精）. : Algorithm/Problem-Solution/洛谷-P1601 [模板] A+B Problem（高精）.md
-            - 洛谷-P1776 宝物筛选（单调队列优化多重背包）. : Algorithm/Problem-Solution/洛谷-P1776 宝物筛选（单调队列优化多重背包）.md
-            - 洛谷-P1801 黑匣子（权值线段树）. : Algorithm/Problem-Solution/洛谷-P1801 黑匣子（权值线段树）.md
-            - 洛谷-P1833 樱花（混合背包模板）. : Algorithm/Problem-Solution/洛谷-P1833 樱花（混合背包模板）.md
-            - 洛谷-P1855 榨取kkksc03（二维01背包）. : Algorithm/Problem-Solution/洛谷-P1855 榨取kkksc03（二维01背包）.md
-            - 洛谷-P1880 [NOI1995]石子合并（环形区间DP）. : Algorithm/Problem-Solution/洛谷-P1880 [NOI1995]石子合并（环形区间DP）.md
-            - 洛谷-P1886 滑动窗口 【模板】单调队列. : Algorithm/Problem-Solution/洛谷-P1886 滑动窗口 【模板】单调队列.md
-            - 洛谷-P1944 最长括号匹配（字符串动态规划）. : Algorithm/Problem-Solution/洛谷-P1944 最长括号匹配（字符串动态规划）.md
-            - 洛谷-P2005 [模板] A除以B Problem II. : Algorithm/Problem-Solution/洛谷-P2005 [模板] A除以B Problem II.md
-            - 洛谷-P2043 质因子分解. : Algorithm/Problem-Solution/洛谷-P2043 质因子分解.md
-            - 洛谷-P2066 机器分配(区间DP). : Algorithm/Problem-Solution/洛谷-P2066 机器分配(区间DP).md
-            - 洛谷-P2085 最小函数值（优先级队列）. : Algorithm/Problem-Solution/洛谷-P2085 最小函数值（优先级队列）.md
-            - 洛谷-P2142 [模板] 高精度减法. : Algorithm/Problem-Solution/洛谷-P2142 [模板] 高精度减法.md
-            - 洛谷-P2827 蚯蚓（单调队列+延迟修改）. : Algorithm/Problem-Solution/洛谷-P2827 蚯蚓（单调队列+延迟修改）.md
-            - 洛谷-P3367 [模板] 并查集. : Algorithm/Problem-Solution/洛谷-P3367 [模板] 并查集.md
-            - 洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法). : Algorithm/Problem-Solution/洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法).md
-            - 洛谷-P3372 [模板] 线段树1（区间修改+区间查询）. : Algorithm/Problem-Solution/洛谷-P3372 [模板] 线段树1（区间修改+区间查询）.md
-            - 洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）. : Algorithm/Problem-Solution/洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）.md
-            - 洛谷-P3385 [模板] 负环. : Algorithm/Problem-Solution/洛谷-P3385 [模板] 负环.md
-            - 洛谷-P3865 [模板] ST表. : Algorithm/Problem-Solution/洛谷-P3865 [模板] ST表.md
-            - 洛谷-P4779 [模板] 单源最短路径（标准版）(Dijkstra算法). : Algorithm/Problem-Solution/洛谷-P4779 [模板] 单源最短路径（标准版）(Dijkstra算法).md
-            - 洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）. : Algorithm/Problem-Solution/洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）.md
-            - 洛谷-P5788 [模板] 单调栈. : Algorithm/Problem-Solution/洛谷-P5788 [模板] 单调栈.md
-            - 洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）. : Algorithm/Problem-Solution/洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）.md
-            - 牛客-998A 递归实现指数型枚举（递归）. : Algorithm/Problem-Solution/牛客-998A 递归实现指数型枚举（递归）.md
-            - 牛客-998B 递归实现组合型枚举(递归). : Algorithm/Problem-Solution/牛客-998B 递归实现组合型枚举(递归).md
+            - tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）: Algorithm/Problem-Solution/tyvj-1241 硬币问题（完全背包 或 DAG固定终点的最长最短路径）.md
+            - 一本通-1000：入门测试题目: Algorithm/Problem-Solution/一本通-1000：入门测试题目.md
+            - 一本通-1001：Hello,World!: Algorithm/Problem-Solution/一本通-1001：Hello,World!.md
+            - 一本通-1002：输出第二个整数: Algorithm/Problem-Solution/一本通-1002：输出第二个整数.md
+            - 一本通-1003：对齐输出: Algorithm/Problem-Solution/一本通-1003：对齐输出.md
+            - 一本通-1004：字符三角形: Algorithm/Problem-Solution/一本通-1004：字符三角形.md
+            - 一本通-1005：地球人口承载力估计（C++语言入门）: Algorithm/Problem-Solution/一本通-1005：地球人口承载力估计（C++语言入门）.md
+            - 一本通-1006：A+B问题: Algorithm/Problem-Solution/一本通-1006：A+B问题.md
+            - 一本通-1007：计算(a+b)×c的值: Algorithm/Problem-Solution/一本通-1007：计算(a+b)×c的值.md
+            - 一本通-1008：计算(a+b)c的值: Algorithm/Problem-Solution/一本通-1008：计算(a+b)c的值.md
+            - 一本通-1009：带余除法: Algorithm/Problem-Solution/一本通-1009：带余除法.md
+            - 一本通-1010：计算分数的浮点数值: Algorithm/Problem-Solution/一本通-1010：计算分数的浮点数值.md
+            - 一本通-1011：甲流疫情死亡率: Algorithm/Problem-Solution/一本通-1011：甲流疫情死亡率.md
+            - 一本通-1012：计算多项式的值: Algorithm/Problem-Solution/一本通-1012：计算多项式的值.md
+            - 一本通-1013：温度表达转化: Algorithm/Problem-Solution/一本通-1013：温度表达转化.md
+            - 一本通-1014：与圆相关的计算: Algorithm/Problem-Solution/一本通-1014：与圆相关的计算.md
+            - 一本通-1015：计算并联电阻的阻值: Algorithm/Problem-Solution/一本通-1015：计算并联电阻的阻值.md
+            - 一本通-1016：整型数据类型存储空间大小: Algorithm/Problem-Solution/一本通-1016：整型数据类型存储空间大小.md
+            - 一本通-1017：浮点型数据类型存储空间大小: Algorithm/Problem-Solution/一本通-1017：浮点型数据类型存储空间大小.md
+            - 一本通-1018：其他数据类型存储空间大小: Algorithm/Problem-Solution/一本通-1018：其他数据类型存储空间大小.md
+            - 一本通-1019：浮点数向零舍入: Algorithm/Problem-Solution/一本通-1019：浮点数向零舍入.md
+            - 一本通-1020：打印ASCII码: Algorithm/Problem-Solution/一本通-1020：打印ASCII码.md
+            - 一本通-1021：打印字符: Algorithm/Problem-Solution/一本通-1021：打印字符.md
+            - 一本通-1022：整型与布尔型的转换: Algorithm/Problem-Solution/一本通-1022：整型与布尔型的转换.md
+            - 一本通-1023：Hello,World!的大小: Algorithm/Problem-Solution/一本通-1023：Hello,World!的大小.md
+            - 一本通-1024：保留3位小数的浮点数: Algorithm/Problem-Solution/一本通-1024：保留3位小数的浮点数.md
+            - 一本通-1097：画矩形（循环嵌套）: Algorithm/Problem-Solution/一本通-1097：画矩形（循环嵌套）.md
+            - 一本通-1132：石头剪子布: Algorithm/Problem-Solution/一本通-1132：石头剪子布.md
+            - 一本通-1133：输出亲朋字符串: Algorithm/Problem-Solution/一本通-1133：输出亲朋字符串.md
+            - 一本通-1134：合法C标识符查: Algorithm/Problem-Solution/一本通-1134：合法C标识符查.md
+            - 一本通-1191：流感传染（两个队列模拟BFS）: Algorithm/Problem-Solution/一本通-1191：流感传染（两个队列模拟BFS）.md
+            - 一本通-1192：放苹果（计数DP-划分数）: Algorithm/Problem-Solution/一本通-1192：放苹果（计数DP-划分数）.md
+            - 一本通-1195：判断整除（动态规划）: Algorithm/Problem-Solution/一本通-1195：判断整除（动态规划）.md
+            - 一本通-1196：踩方格（递推+动态规划）: Algorithm/Problem-Solution/一本通-1196：踩方格（递推+动态规划）.md
+            - 一本通-1197：山区建小学（区间DP）: Algorithm/Problem-Solution/一本通-1197：山区建小学（区间DP）.md
+            - 一本通-1198：逆波兰表达式（递归）: Algorithm/Problem-Solution/一本通-1198：逆波兰表达式（递归）.md
+            - 一本通-1200：分解因数（递归）: Algorithm/Problem-Solution/一本通-1200：分解因数（递归）.md
+            - 一本通-1203：扩号匹配问题（栈）: Algorithm/Problem-Solution/一本通-1203：扩号匹配问题（栈）.md
+            - 一本通-1205：汉诺塔问题（递归）: Algorithm/Problem-Solution/一本通-1205：汉诺塔问题（递归）.md
+            - 一本通-1208：2的幂次方表示（很经典的递归）: Algorithm/Problem-Solution/一本通-1208：2的幂次方表示（很经典的递归）.md
+            - 一本通-1209：分数求和: Algorithm/Problem-Solution/一本通-1209：分数求和.md
+            - 一本通-1210：因子分解: Algorithm/Problem-Solution/一本通-1210：因子分解.md
+            - 一本通-1211：判断元素是否存在（递归）: Algorithm/Problem-Solution/一本通-1211：判断元素是否存在（递归）.md
+            - 一本通-1212：LETTERS（基础DFS）: Algorithm/Problem-Solution/一本通-1212：LETTERS（基础DFS）.md
+            - 一本通-1213：八皇后问题（回溯+搜索）: Algorithm/Problem-Solution/一本通-1213：八皇后问题（回溯+搜索）.md
+            - 一本通-1214：八皇后（搜索+回溯）: Algorithm/Problem-Solution/一本通-1214：八皇后（搜索+回溯）.md
+            - 一本通-1215：迷宫（经典迷宫类型DFS）: Algorithm/Problem-Solution/一本通-1215：迷宫（经典迷宫类型DFS）.md
+            - 一本通-1216：红与黑（基础DFS，flood fill算法）: Algorithm/Problem-Solution/一本通-1216：红与黑（基础DFS，flood fill算法）.md
+            - 一本通-1218：取石子游戏（基础博弈）: Algorithm/Problem-Solution/一本通-1218：取石子游戏（基础博弈）.md
+            - 一本通-1219：马走日（搜索，回溯）: Algorithm/Problem-Solution/一本通-1219：马走日（搜索，回溯）.md
+            - 一本通-1220：单词接龙（搜索）: Algorithm/Problem-Solution/一本通-1220：单词接龙（搜索）.md
+            - 一本通-1221：分成互质组（思路巧妙地DFS）: Algorithm/Problem-Solution/一本通-1221：分成互质组（思路巧妙地DFS）.md
+            - 一本通-1227：Ride to Office(基础贪心): Algorithm/Problem-Solution/一本通-1227：Ride to Office(基础贪心).md
+            - 一本通-1229：电池的寿命（贪心，找规律）: Algorithm/Problem-Solution/一本通-1229：电池的寿命（贪心，找规律）.md
+            - 一本通-1230：寻找平面上的极大点（单调栈，贪心）: Algorithm/Problem-Solution/一本通-1230：寻找平面上的极大点（单调栈，贪心）.md
+            - 一本通-1234：2011（基础分治，易错）: Algorithm/Problem-Solution/一本通-1234：2011（基础分治，易错）.md
+            - 一本通-1236：区间合并（区间贪心）: Algorithm/Problem-Solution/一本通-1236：区间合并（区间贪心）.md
+            - 一本通-1237：求排列的逆序数（逆序数问题）: Algorithm/Problem-Solution/一本通-1237：求排列的逆序数（逆序数问题）.md
+            - 一本通-1248：Dungeon Master（三维迷宫BFS）: Algorithm/Problem-Solution/一本通-1248：Dungeon Master（三维迷宫BFS）.md
+            - 一本通-1251：仙岛求药（迷宫类型的BFS）: Algorithm/Problem-Solution/一本通-1251：仙岛求药（迷宫类型的BFS）.md
+            - 一本通-1252：走迷宫（迷宫型BFS）: Algorithm/Problem-Solution/一本通-1252：走迷宫（迷宫型BFS）.md
+            - 一本通-1253：抓住那头牛（一维BFS）: Algorithm/Problem-Solution/一本通-1253：抓住那头牛（一维BFS）.md
+            - 一本通-1254：走出迷宫（二维迷宫型BFS）: Algorithm/Problem-Solution/一本通-1254：走出迷宫（二维迷宫型BFS）.md
+            - 一本通-1256：献给阿尔吉侬的花束（二维迷宫BFS）: Algorithm/Problem-Solution/一本通-1256：献给阿尔吉侬的花束（二维迷宫BFS）.md
+            - 一本通-1259：【例9.3】求最长不下降序列（LIS）: Algorithm/Problem-Solution/一本通-1259：【例9.3】求最长不下降序列（LIS）.md
+            - 一本通-1262：【例9.6】挖地雷（基础动态规划）: Algorithm/Problem-Solution/一本通-1262：【例9.6】挖地雷（基础动态规划）.md
+            - 一本通-1261：【例9.5】城市交通路网（基础动态规划）: Algorithm/Problem-Solution/一本通-1261：【例9.5】城市交通路网（基础动态规划）.md
+            - 一本通-1263：【例9.7】友好城市（LIS）: Algorithm/Problem-Solution/一本通-1263：【例9.7】友好城市（LIS）.md
+            - 一本通-1264：【例9.8】合唱队形: Algorithm/Problem-Solution/一本通-1264：【例9.8】合唱队形.md
+            - 一本通-1265：【例9.9】最长公共子序列: Algorithm/Problem-Solution/一本通-1265：【例9.9】最长公共子序列.md
+            - 一本通-1267：【例9.11】01背包问题（01背包模板）: Algorithm/Problem-Solution/一本通-1267：【例9.11】01背包问题（01背包模板）.md
+            - 一本通-1270：【例9.14】混合背包: Algorithm/Problem-Solution/一本通-1270：【例9.14】混合背包.md
+            - 一本通-1271：【例9.15】潜水员（二维01背包）: Algorithm/Problem-Solution/一本通-1271：【例9.15】潜水员（二维01背包）.md
+            - 一本通-1272：【例9.16】分组背包: Algorithm/Problem-Solution/一本通-1272：【例9.16】分组背包.md
+            - 一本通-1273：【例9.17】货币系统: Algorithm/Problem-Solution/一本通-1273：【例9.17】货币系统.md
+            - 一本通-1274：【例9.18】合并石子（直线排列，小数据）: Algorithm/Problem-Solution/一本通-1274：【例9.18】合并石子（直线排列，小数据）.md
+            - 一本通-1282：最大子矩阵（二维最长连续子序列和）: Algorithm/Problem-Solution/一本通-1282：最大子矩阵（二维最长连续子序列和）.md
+            - 一本通-1283：登山（LIS的合唱队形）: Algorithm/Problem-Solution/一本通-1283：登山（LIS的合唱队形）.md
+            - 一本通-1284：摘花生（基础DP）: Algorithm/Problem-Solution/一本通-1284：摘花生（基础DP）.md
+            - 一本通-1285：最大上升子序列和（LIS变种）: Algorithm/Problem-Solution/一本通-1285：最大上升子序列和（LIS变种）.md
+            - 一本通-1286：怪盗基德的滑翔翼（LIS）: Algorithm/Problem-Solution/一本通-1286：怪盗基德的滑翔翼（LIS）.md
+            - 一本通-1287：最低通行费(基础DP): Algorithm/Problem-Solution/一本通-1287：最低通行费(基础DP).md
+            - 一本通-1288：三角形最佳路径问题（数字三角形）: Algorithm/Problem-Solution/一本通-1288：三角形最佳路径问题（数字三角形）.md
+            - 一本通-1291：数字组合（动态规划-硬币问题）: Algorithm/Problem-Solution/一本通-1291：数字组合（动态规划-硬币问题）.md
+            - 一本通-1292：宠物小精灵之收服（二维01背包）: Algorithm/Problem-Solution/一本通-1292：宠物小精灵之收服（二维01背包）.md
+            - 一本通-1298：计算字符串距离（动态规划-编辑距离）: Algorithm/Problem-Solution/一本通-1298：计算字符串距离（动态规划-编辑距离）.md
+            - 一本通-1310：【例2.2】车厢重组（冒泡排序）: Algorithm/Problem-Solution/一本通-1310：【例2.2】车厢重组（冒泡排序）.md
+            - 一本通-1312：【例3.4】昆虫繁殖（动态规划）: Algorithm/Problem-Solution/一本通-1312：【例3.4】昆虫繁殖（动态规划）.md
+            - 一本通-1313：【例3.5】位数问题（动态规划）: Algorithm/Problem-Solution/一本通-1313：【例3.5】位数问题（动态规划）.md
+            - 一本通-1314：【例3.6】过河卒(Noip2002)（动态规划）: Algorithm/Problem-Solution/一本通-1314：【例3.6】过河卒(Noip2002)（动态规划）.md
+            - 一本通-1315：【例4.5】集合的划分（计数DP或递归）: Algorithm/Problem-Solution/一本通-1315：【例4.5】集合的划分（计数DP或递归）.md
+            - 一本通-1316：【例4.6】数的计数(Noip2001， 动态规划): Algorithm/Problem-Solution/一本通-1316：【例4.6】数的计数(Noip2001， 动态规划).md
+            - 一本通-1317：【例5.2】组合的输出（回溯）: Algorithm/Problem-Solution/一本通-1317：【例5.2】组合的输出（回溯）.md
+            - 一本通-1318：【例5.3】自然数的拆分（回溯）: Algorithm/Problem-Solution/一本通-1318：【例5.3】自然数的拆分（回溯）.md
+            - 一本通-1319：【例6.1】排队接水（贪心）: Algorithm/Problem-Solution/一本通-1319：【例6.1】排队接水（贪心）.md
+            - 一本通-1325：【例7.4】 循环比赛日程表（基础分治）: Algorithm/Problem-Solution/一本通-1325：【例7.4】 循环比赛日程表（基础分治）.md
+            - 一本通-1328：【例7.7】光荣的梦想（基础分治，逆序对）: Algorithm/Problem-Solution/一本通-1328：【例7.7】光荣的梦想（基础分治，逆序对）.md
+            - 一本通-1329：【例8.2】细胞（DFS和BFS两种解法）: Algorithm/Problem-Solution/一本通-1329：【例8.2】细胞（DFS和BFS两种解法）.md
+            - 一本通-1330：【例8.3】最少步数（经典BFS）: Algorithm/Problem-Solution/一本通-1330：【例8.3】最少步数（经典BFS）.md
+            - 一本通-1332：【例2-1】周末舞会（模拟队列）: Algorithm/Problem-Solution/一本通-1332：【例2-1】周末舞会（模拟队列）.md
+            - 一本通-1333：【例2-2】Blah数集（优先级队列模拟）: Algorithm/Problem-Solution/一本通-1333：【例2-2】Blah数集（优先级队列模拟）.md
+            - 一本通-1334：【例2-3】围圈报数（数组模拟循环链表或者队列模拟）: Algorithm/Problem-Solution/一本通-1334：【例2-3】围圈报数（数组模拟循环链表或者队列模拟）.md
+            - 一本通-1335：【例2-4】连通块（DFS泛洪算法）: Algorithm/Problem-Solution/一本通-1335：【例2-4】连通块（DFS泛洪算法）.md
+            - 一本通-1336：【例3-1】找树根和孩子: Algorithm/Problem-Solution/一本通-1336：【例3-1】找树根和孩子.md
+            - 一本通-1337：【例3-2】单词查找树: Algorithm/Problem-Solution/一本通-1337：【例3-2】单词查找树.md
+            - 一本通-1339：【例3-4】求后序遍历: Algorithm/Problem-Solution/一本通-1339：【例3-4】求后序遍历.md
+            - 一本通-1340：【例3-5】扩展二叉树: Algorithm/Problem-Solution/一本通-1340：【例3-5】扩展二叉树.md
+            - 一本通-1359：围成面积（BFS + 加边法）: Algorithm/Problem-Solution/一本通-1359：围成面积（BFS + 加边法）.md
+            - 一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）: Algorithm/Problem-Solution/一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）.md
+            - 一本通-1363：小球(drop)（满二叉树性质应用）: Algorithm/Problem-Solution/一本通-1363：小球(drop)（满二叉树性质应用）.md
+            - 一本通-1364：二叉树遍历(flist): Algorithm/Problem-Solution/一本通-1364：二叉树遍历(flist).md
+            - 一本通-1366：二叉树输出(btout): Algorithm/Problem-Solution/一本通-1366：二叉树输出(btout).md
+            - 一本通-1367：查找二叉树(tree_a): Algorithm/Problem-Solution/一本通-1367：查找二叉树(tree_a).md
+            - 一本通-1371：看病（优先级队列）: Algorithm/Problem-Solution/一本通-1371：看病（优先级队列）.md
+            - 一本通-1403：素数对（函数）: Algorithm/Problem-Solution/一本通-1403：素数对（函数）.md
+            - 一本通-例5.13 蛇形填数: Algorithm/Problem-Solution/一本通-例5.13 蛇形填数.md
+            - 信息学奥赛一本通——基础篇: Algorithm/Problem-Solution/信息学奥赛一本通——基础篇.md
+            - 洛谷-P1008 三连击（桶排序）: Algorithm/Problem-Solution/洛谷-P1008 三连击（桶排序）.md
+            - 洛谷-P1010 幂次方（经典递归）: Algorithm/Problem-Solution/洛谷-P1010 幂次方（经典递归）.md
+            - 洛谷-P1014 Cantor的数表(数学): Algorithm/Problem-Solution/洛谷-P1014 Cantor的数表(数学).md
+            - 洛谷-P1015 回文数（进制转换+高精度加法）: Algorithm/Problem-Solution/洛谷-P1015 回文数（进制转换+高精度加法）.md
+            - 洛谷-P1019 单词接龙（DFS有难度）: Algorithm/Problem-Solution/洛谷-P1019 单词接龙（DFS有难度）.md
+            - 洛谷-P1020 导弹拦截（最典型的LIS练习，两种形式）: Algorithm/Problem-Solution/洛谷-P1020 导弹拦截（最典型的LIS练习，两种形式）.md
+            - 洛谷-P1029 最大公约数和最小公倍数问题(GCD模板题): Algorithm/Problem-Solution/洛谷-P1029 最大公约数和最小公倍数问题(GCD模板题).md
+            - 洛谷-P1031 均分纸牌（贪心）: Algorithm/Problem-Solution/洛谷-P1031 均分纸牌（贪心）.md
+            - 洛谷-P1048 采药（01背包）: Algorithm/Problem-Solution/洛谷-P1048 采药（01背包）.md
+            - 洛谷-P1057 传球游戏(基础DP): Algorithm/Problem-Solution/洛谷-P1057 传球游戏(基础DP).md
+            - 洛谷-P1059 明明的随机数（桶排序）: Algorithm/Problem-Solution/洛谷-P1059 明明的随机数（桶排序）.md
+            - 洛谷-P1063 能量项链（区间DP）: Algorithm/Problem-Solution/洛谷-P1063 能量项链（区间DP）.md
+            - 洛谷-P1087 FBI树（满二叉树下标关系）: Algorithm/Problem-Solution/洛谷-P1087 FBI树（满二叉树下标关系）.md
+            - 洛谷-P1091 合唱队形（LIS）: Algorithm/Problem-Solution/洛谷-P1091 合唱队形（LIS）.md
+            - 洛谷-P1106 删数问题（基础贪心）: Algorithm/Problem-Solution/洛谷-P1106 删数问题（基础贪心）.md
+            - 洛谷-P1135 奇怪的电梯（BFS或单源最短路）: Algorithm/Problem-Solution/洛谷-P1135 奇怪的电梯（BFS或单源最短路）.md
+            - 洛谷-P1257 平面上的最接近点对（分治）: Algorithm/Problem-Solution/洛谷-P1257 平面上的最接近点对（分治）.md
+            - 洛谷-P1259 黑白棋子的移动（基础分治）: Algorithm/Problem-Solution/洛谷-P1259 黑白棋子的移动（基础分治）.md
+            - 洛谷-P1303 [模板] A乘B Problem: Algorithm/Problem-Solution/洛谷-P1303 [模板] A乘B Problem.md
+            - 洛谷-P1323 删数问题（基础贪心）: Algorithm/Problem-Solution/洛谷-P1323 删数问题（基础贪心）.md
+            - 洛谷-P1429 平面最近点对（加强版）: Algorithm/Problem-Solution/洛谷-P1429 平面最近点对（加强版）.md
+            - 洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）: Algorithm/Problem-Solution/洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）.md
+            - 洛谷-P1480 [模板] A除以B Problem: Algorithm/Problem-Solution/洛谷-P1480 [模板] A除以B Problem.md
+            - 洛谷-P1601 [模板] A+B Problem（高精）: Algorithm/Problem-Solution/洛谷-P1601 [模板] A+B Problem（高精）.md
+            - 洛谷-P1776 宝物筛选（单调队列优化多重背包）: Algorithm/Problem-Solution/洛谷-P1776 宝物筛选（单调队列优化多重背包）.md
+            - 洛谷-P1801 黑匣子（权值线段树）: Algorithm/Problem-Solution/洛谷-P1801 黑匣子（权值线段树）.md
+            - 洛谷-P1833 樱花（混合背包模板）: Algorithm/Problem-Solution/洛谷-P1833 樱花（混合背包模板）.md
+            - 洛谷-P1855 榨取kkksc03（二维01背包）: Algorithm/Problem-Solution/洛谷-P1855 榨取kkksc03（二维01背包）.md
+            - 洛谷-P1880 [NOI1995]石子合并（环形区间DP）: Algorithm/Problem-Solution/洛谷-P1880 [NOI1995]石子合并（环形区间DP）.md
+            - 洛谷-P1886 滑动窗口 【模板】单调队列: Algorithm/Problem-Solution/洛谷-P1886 滑动窗口 【模板】单调队列.md
+            - 洛谷-P1944 最长括号匹配（字符串动态规划）: Algorithm/Problem-Solution/洛谷-P1944 最长括号匹配（字符串动态规划）.md
+            - 洛谷-P2005 [模板] A除以B Problem II: Algorithm/Problem-Solution/洛谷-P2005 [模板] A除以B Problem II.md
+            - 洛谷-P2043 质因子分解: Algorithm/Problem-Solution/洛谷-P2043 质因子分解.md
+            - 洛谷-P2066 机器分配(区间DP): Algorithm/Problem-Solution/洛谷-P2066 机器分配(区间DP).md
+            - 洛谷-P2085 最小函数值（优先级队列）: Algorithm/Problem-Solution/洛谷-P2085 最小函数值（优先级队列）.md
+            - 洛谷-P2142 [模板] 高精度减法: Algorithm/Problem-Solution/洛谷-P2142 [模板] 高精度减法.md
+            - 洛谷-P2827 蚯蚓（单调队列+延迟修改）: Algorithm/Problem-Solution/洛谷-P2827 蚯蚓（单调队列+延迟修改）.md
+            - 洛谷-P3367 [模板] 并查集: Algorithm/Problem-Solution/洛谷-P3367 [模板] 并查集.md
+            - 洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法) : Algorithm/Problem-Solution/洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法).md
+            - 洛谷-P3372 [模板] 线段树1（区间修改+区间查询）: Algorithm/Problem-Solution/洛谷-P3372 [模板] 线段树1（区间修改+区间查询）.md
+            - 洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）: Algorithm/Problem-Solution/洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）.md
+            - 洛谷-P3385 [模板] 负环: Algorithm/Problem-Solution/洛谷-P3385 [模板] 负环.md
+            - 洛谷-P3865 [模板] ST表: Algorithm/Problem-Solution/洛谷-P3865 [模板] ST表.md
+            - 洛谷-P4779 [模板] 单源最短路径（标准版）(Dijkstra算法): Algorithm/Problem-Solution/洛谷-P4779 [模板] 单源最短路径（标准版）(Dijkstra算法).md
+            - 洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）: Algorithm/Problem-Solution/洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）.md
+            - 洛谷-P5788 [模板] 单调栈: Algorithm/Problem-Solution/洛谷-P5788 [模板] 单调栈.md
+            - 洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）: Algorithm/Problem-Solution/洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）.md
+            - 牛客-998A 递归实现指数型枚举（递归）: Algorithm/Problem-Solution/牛客-998A 递归实现指数型枚举（递归）.md
+            - 牛客-998B 递归实现组合型枚举(递归): Algorithm/Problem-Solution/牛客-998B 递归实现组合型枚举(递归).md
         - LeetCode:
-            - 1.Two Sum.: Algorithm/LeetCode/1.Two Sum.md
-            - 2.Add Two Numbers.: Algorithm/LeetCode/2.Add Two Numbers.md
-            - 3.Longest Substring Without Repeating Characters.: Algorithm/LeetCode/3.Longest Substring Without Repeating Characters.md
-            - 4.Median of Two Sorted Arrays.: Algorithm/LeetCode/4.Median of Two Sorted Arrays.md
-            - 5.Longest Palindromic Substring.: Algorithm/LeetCode/5.Longest Palindromic Substring.md
-            - 6.ZigZag Conversion.: Algorithm/LeetCode/6.ZigZag Conversion.md
-            - 7.Reverse Integer.: Algorithm/LeetCode/7.Reverse Integer.md
-            - 8.String to Integer (atoi).: Algorithm/LeetCode/8.String to Integer (atoi).md
-            - 9.Palindrome Number.: Algorithm/LeetCode/9.Palindrome Number.md
-            - 11.Container With Most Water.: Algorithm/LeetCode/11.Container With Most Water.md
-            - 12.Integer to Roman.: Algorithm/LeetCode/12.Integer to Roman.md
-            - 13.Roman to Integer.: Algorithm/LeetCode/13.Roman to Integer.md
-            - 14.Longest Common Prefix.: Algorithm/LeetCode/14.Longest Common Prefix.md
-            - 15.3Sum.: Algorithm/LeetCode/15.3Sum.md
-            - 16.3Sum Closest.: Algorithm/LeetCode/16.3Sum Closest.md
-            - 17.Letter Combinations of a Phone Number.: Algorithm/LeetCode/17.Letter Combinations of a Phone Number.md
-            - 18.4Sum.: Algorithm/LeetCode/18.4Sum.md
-            - 19.Remove Nth Node From End of List.: Algorithm/LeetCode/19.Remove Nth Node From End of List.md
-            - 20.Valid Parentheses.: Algorithm/LeetCode/20.Valid Parentheses.md
-            - 21.Merge Two Sorted Lists.: Algorithm/LeetCode/21.Merge Two Sorted Lists.md
-            - 22.Generate Parentheses.: Algorithm/LeetCode/22.Generate Parentheses.md
-            - 23.Merge k Sorted Lists.: Algorithm/LeetCode/23.Merge k Sorted Lists.md
-            - 24.Swap Nodes in Pairs.: Algorithm/LeetCode/24.Swap Nodes in Pairs.md
-            - 25.Reverse Nodes in k-Group.: Algorithm/LeetCode/25.Reverse Nodes in k-Group.md
-            - 26.Remove Duplicates from Sorted Array.: Algorithm/LeetCode/26.Remove Duplicates from Sorted Array.md
-            - 27. Remove Element.: Algorithm/LeetCode/27. Remove Element.md
-            - 28.Implement strStr().: Algorithm/LeetCode/28.Implement strStr().md
-            - 29.Divide Two Integers.: Algorithm/LeetCode/29.Divide Two Integers.md
-            - 30.Substring with Concatenation of All Words.: Algorithm/LeetCode/30.Substring with Concatenation of All Words.md
-            - 31.Next Permutation.: Algorithm/LeetCode/31.Next Permutation.md
-            - 33.Search in Rotated Sorted Array.: Algorithm/LeetCode/33.Search in Rotated Sorted Array.md
-            - 34.Find First and Last Position of Element in Sorted Array.: Algorithm/LeetCode/34.Find First and Last Position of Element in Sorted Array.md
-            - 35.Search Insert Position.: Algorithm/LeetCode/35.Search Insert Position.md
-            - 36.Valid Sudoku.: Algorithm/LeetCode/36.Valid Sudoku.md
-            - 38.Count and Say.: Algorithm/LeetCode/38.Count and Say.md
-            - 39.Combination Sum.: Algorithm/LeetCode/39.Combination Sum.md
-            - 40.Combination Sum II.: Algorithm/LeetCode/40.Combination Sum II.md
-            - 41.First Missing Positive.: Algorithm/LeetCode/41.First Missing Positive.md
-            - 42.Trapping Rain Water.: Algorithm/LeetCode/42.Trapping Rain Water.md
-            - 43.Multiply Strings.: Algorithm/LeetCode/43.Multiply Strings.md
-            - 44.Wildcard Matching.: Algorithm/LeetCode/44.Wildcard Matching.md
-            - 45.Jump Game II.: Algorithm/LeetCode/45.Jump Game II.md
-            - 46.Permutations.: Algorithm/LeetCode/46.Permutations.md
-            - 47.Permutations II.: Algorithm/LeetCode/47.Permutations II.md
-            - 48.Rotate Image.: Algorithm/LeetCode/48.Rotate Image.md
-            - 49.Group Anagrams.: Algorithm/LeetCode/49.Group Anagrams.md
-            - 50.Pow(x, n).: Algorithm/LeetCode/50.Pow(x, n).md
-            - 51.N-Queens.: Algorithm/LeetCode/51.N-Queens.md
-            - 54.Spiral Matrix.: Algorithm/LeetCode/54.Spiral Matrix.md
-            - 55.Jump Game.: Algorithm/LeetCode/55.Jump Game.md
-            - 56.Merge Intervals.: Algorithm/LeetCode/56.Merge Intervals.md
-            - 57.Insert Interval.: Algorithm/LeetCode/57.Insert Interval.md
-            - 58.Length of Last Word.: Algorithm/LeetCode/58.Length of Last Word.md
-            - 59.Spiral Matrix II.: Algorithm/LeetCode/59.Spiral Matrix II.md
-            - 60.Permutation Sequence.: Algorithm/LeetCode/60.Permutation Sequence.md
-            - 61.Rotate List.: Algorithm/LeetCode/61.Rotate List.md
-            - 66.Plus One.: Algorithm/LeetCode/66.Plus One.md
-            - 69.Sqrt(x).: Algorithm/LeetCode/69.Sqrt(x).md
-            - 71.Simplify Path.: Algorithm/LeetCode/71.Simplify Path.md
-            - 73.Set Matrix Zeroes.: Algorithm/LeetCode/73.Set Matrix Zeroes.md
-            - 74.Search a 2D Matrix.: Algorithm/LeetCode/74.Search a 2D Matrix.md
-            - 75.Sort Colors.: Algorithm/LeetCode/75.Sort Colors.md
-            - 76.Minimum Window Substring.: Algorithm/LeetCode/76.Minimum Window Substring.md
-            - 79.Word Search.: Algorithm/LeetCode/79.Word Search.md
-            - 80. Remove Duplicates from Sorted Array II.: Algorithm/LeetCode/80. Remove Duplicates from Sorted Array II.md
-            - 81.Search in Rotated Sorted Array II.: Algorithm/LeetCode/81.Search in Rotated Sorted Array II.md
-            - 82.Remove Duplicates from Sorted List II.: Algorithm/LeetCode/82.Remove Duplicates from Sorted List II.md
-            - 83.Remove Duplicates from Sorted List.: Algorithm/LeetCode/83.Remove Duplicates from Sorted List.md
-            - 84.Largest Rectangle in Histogram.: Algorithm/LeetCode/84.Largest Rectangle in Histogram.md
-            - 85.Maximal Rectangle.: Algorithm/LeetCode/85.Maximal Rectangle.md
-            - 86.Partition List.: Algorithm/LeetCode/86.Partition List.md
-            - 88.Merge Sorted Array.: Algorithm/LeetCode/88.Merge Sorted Array.md
-            - 89.Gray Code.: Algorithm/LeetCode/89.Gray Code.md
-            - 92.Reverse Linked List II.: Algorithm/LeetCode/92.Reverse Linked List II.md
-            - 93.Restore IP Addresses.: Algorithm/LeetCode/93.Restore IP Addresses.md
-            - 94.Binary Tree Inorder Traversal.: Algorithm/LeetCode/94.Binary Tree Inorder Traversal.md
-            - 95.Unique Binary Search Trees II.: Algorithm/LeetCode/95.Unique Binary Search Trees II.md
-            - 96.Unique Binary Search Trees.: Algorithm/LeetCode/96.Unique Binary Search Trees.md
-            - 98.Validate Binary Search Tree.: Algorithm/LeetCode/98.Validate Binary Search Tree.md
-            - 99.Recover Binary Search Tree.: Algorithm/LeetCode/99.Recover Binary Search Tree.md
-            - 100.Same Tree.: Algorithm/LeetCode/100.Same Tree.md
-            - 101.Symmetric Tree.: Algorithm/LeetCode/101.Symmetric Tree.md
-            - 102.Binary Tree Level Order Traversal.: Algorithm/LeetCode/102.Binary Tree Level Order Traversal.md
-            - 103.Binary Tree Zigzag Level Order Traversal.: Algorithm/LeetCode/103.Binary Tree Zigzag Level Order Traversal.md
-            - 104.Maximum Depth of Binary Tree.: Algorithm/LeetCode/104.Maximum Depth of Binary Tree.md
-            - 105.Construct Binary Tree from Preorder and Inorder Traversal.: Algorithm/LeetCode/105.Construct Binary Tree from Preorder and Inorder Traversal.md
-            - 106.Construct Binary Tree from Inorder and Postorder Traversal.: Algorithm/LeetCode/106.Construct Binary Tree from Inorder and Postorder Traversal.md
-            - 107.Binary Tree Level Order Traversal II.: Algorithm/LeetCode/107.Binary Tree Level Order Traversal II.md
-            - 108.Convert Sorted Array to Binary Search Tree.: Algorithm/LeetCode/108.Convert Sorted Array to Binary Search Tree.md
-            - 109.Convert Sorted List to Binary Search Tree.: Algorithm/LeetCode/109.Convert Sorted List to Binary Search Tree.md
-            - 110.Balanced Binary Tree.: Algorithm/LeetCode/110.Balanced Binary Tree.md
-            - 111.Minimum Depth of Binary Tree.: Algorithm/LeetCode/111.Minimum Depth of Binary Tree.md
-            - 112.Path Sum.: Algorithm/LeetCode/112.Path Sum.md
-            - 113.Path Sum II.: Algorithm/LeetCode/113.Path Sum II.md
-            - 114. Flatten Binary Tree to Linked List.: Algorithm/LeetCode/114. Flatten Binary Tree to Linked List.md
-            - 116.Populating Next Right Pointers in Each Node.: Algorithm/LeetCode/116.Populating Next Right Pointers in Each Node.md
-            - 117.Populating Next Right Pointers in Each Node II.: Algorithm/LeetCode/117.Populating Next Right Pointers in Each Node II.md
-            - 118.Pascal's Triangle.: Algorithm/LeetCode/118.Pascal's Triangle.md
-            - 119.Pascal's Triangle II.: Algorithm/LeetCode/119.Pascal's Triangle II.md
-            - 122.Best Time to Buy and Sell Stock II.: Algorithm/LeetCode/122.Best Time to Buy and Sell Stock II.md
-            - 124.Binary Tree Maximum Path Sum.: Algorithm/LeetCode/124.Binary Tree Maximum Path Sum.md
-            - 126.Word Ladder II.: Algorithm/LeetCode/126.Word Ladder II.md
-            - 127.Word Ladder.: Algorithm/LeetCode/127.Word Ladder.md
-            - 128.Longest Consecutive Sequence.: Algorithm/LeetCode/128.Longest Consecutive Sequence.md
-            - 129.Sum Root to Leaf Numbers.: Algorithm/LeetCode/129.Sum Root to Leaf Numbers.md
-            - 134.Gas Station.: Algorithm/LeetCode/134.Gas Station.md
-            - 135.Candy.: Algorithm/LeetCode/135.Candy.md
-            - 136.Single Number.: Algorithm/LeetCode/136.Single Number.md
-            - 137.Single Number II.: Algorithm/LeetCode/137.Single Number II.md
-            - 138.Copy List with Random Pointer.: Algorithm/LeetCode/138.Copy List with Random Pointer.md
-            - 140.Word Break II.: Algorithm/LeetCode/140.Word Break II.md
-            - 141.Linked List Cycle.: Algorithm/LeetCode/141.Linked List Cycle.md
-            - 142.Linked List Cycle II.: Algorithm/LeetCode/142.Linked List Cycle II.md
-            - 143.Reorder List.: Algorithm/LeetCode/143.Reorder List.md
-            - 144.Binary Tree Preorder Traversal.: Algorithm/LeetCode/144.Binary Tree Preorder Traversal.md
-            - 145.Binary Tree Postorder Traversal.: Algorithm/LeetCode/145.Binary Tree Postorder Traversal.md
-            - 146.LRU Cache.: Algorithm/LeetCode/146.LRU Cache.md
-            - 148.Sort List.: Algorithm/LeetCode/148.Sort List.md
-            - 150.Evaluate Reverse Polish Notation.: Algorithm/LeetCode/150.Evaluate Reverse Polish Notation.md
-            - 151.Reverse Words in a String.: Algorithm/LeetCode/151.Reverse Words in a String.md
-            - 153.Find Minimum in Rotated Sorted Array.: Algorithm/LeetCode/153.Find Minimum in Rotated Sorted Array.md
-            - 154.Find Minimum in Rotated Sorted Array II.: Algorithm/LeetCode/154.Find Minimum in Rotated Sorted Array II.md
-            - 155.Min Stack.: Algorithm/LeetCode/155.Min Stack.md
-            - 156.Binary Tree Upside Down.: Algorithm/LeetCode/156.Binary Tree Upside Down.md
-            - 160.Intersection of Two Linked Lists.: Algorithm/LeetCode/160.Intersection of Two Linked Lists.md
-            - 169.Majority Element.: Algorithm/LeetCode/169.Majority Element.md
-            - 170.Two Sum III - Data structure design.: Algorithm/LeetCode/170.Two Sum III - Data structure design.md
-            - 190.Reverse Bits.: Algorithm/LeetCode/190.Reverse Bits.md
-            - 191.Number of 1 Bits.: Algorithm/LeetCode/191.Number of 1 Bits.md
-            - 199.Binary Tree Right Side View.: Algorithm/LeetCode/199.Binary Tree Right Side View.md
-            - 200.Number of Islands.: Algorithm/LeetCode/200.Number of Islands.md
-            - 201.Bitwise AND of Numbers Range.: Algorithm/LeetCode/201.Bitwise AND of Numbers Range.md
-            - 202.Happy Number.: Algorithm/LeetCode/202.Happy Number.md
-            - 206.Reverse Linked List.: Algorithm/LeetCode/206.Reverse Linked List.md
-            - 208.Implement Trie (Prefix Tree).: Algorithm/LeetCode/208.Implement Trie (Prefix Tree).md
-            - 209.Minimum Size Subarray Sum.: Algorithm/LeetCode/209.Minimum Size Subarray Sum.md
-            - 215.Kth Largest Element in an Array: Algorithm/LeetCode/215.Kth Largest Element in an Array.md
-            - 225.Implement Stack using Queues: Algorithm/LeetCode/225.Implement Stack using Queues.md
-            - 226.Invert Binary Tree: Algorithm/LeetCode/226.Invert Binary Tree.md
-            - 230.Kth Smallest Element in a BST: Algorithm/LeetCode/230.Kth Smallest Element in a BST.md
-            - 231.Power of Two: Algorithm/LeetCode/231.Power of Two.md
-            - 232. Implement Queue using Stacks.: Algorithm/LeetCode/232. Implement Queue using Stacks.md
-            - 234.Palindrome Linked List.: Algorithm/LeetCode/234.Palindrome Linked List.md
-            - 235.Lowest Common Ancestor of a Binary Search Tree.: Algorithm/LeetCode/235.Lowest Common Ancestor of a Binary Search Tree.md
-            - 236.Lowest Common Ancestor of a Binary Tree.: Algorithm/LeetCode/236.Lowest Common Ancestor of a Binary Tree.md
-            - 237.Delete Node in a Linked List.: Algorithm/LeetCode/237.Delete Node in a Linked List.md
-            - 238.Product of Array Except Self.: Algorithm/LeetCode/238.Product of Array Except Self.md
-            - 239.Sliding Window Maximum.: Algorithm/LeetCode/239.Sliding Window Maximum.md
-            - 240.Search a 2D Matrix II.: Algorithm/LeetCode/240.Search a 2D Matrix II.md
-            - 241.Different Ways to Add Parentheses.: Algorithm/LeetCode/241.Different Ways to Add Parentheses.md
-            - 246.Strobogrammatic Number.: Algorithm/LeetCode/246.Strobogrammatic Number.md
-            - 247. Strobogrammatic Number II.: Algorithm/LeetCode/247. Strobogrammatic Number II.md
-            - 248.Strobogrammatic Number III.: Algorithm/LeetCode/248.Strobogrammatic Number III.md
-            - 249.Group Shifted Strings.: Algorithm/LeetCode/249.Group Shifted Strings.md
-            - 250.Count Univalue Subtrees.: Algorithm/LeetCode/250.Count Univalue Subtrees.md
-            - 253.Meeting Rooms II.: Algorithm/LeetCode/253.Meeting Rooms II.md
-            - 258.Add Digits.: Algorithm/LeetCode/258.Add Digits.md
-            - 260.Single Number III.: Algorithm/LeetCode/260.Single Number III.md
-            - 268.Missing Number.: Algorithm/LeetCode/268.Missing Number.md
-            - 273.Integer to English Words.: Algorithm/LeetCode/273.Integer to English Words.md
-            - 278.First Bad Version.: Algorithm/LeetCode/278.First Bad Version.md
-            - 279.Perfect Squares.: Algorithm/LeetCode/279.Perfect Squares.md
-            - 283.Move Zeroes.: Algorithm/LeetCode/283.Move Zeroes.md
-            - 287.Find the Duplicate Number.: Algorithm/LeetCode/287.Find the Duplicate Number.md
-            - 289.Game of Life.: Algorithm/LeetCode/289.Game of Life.md
-            - 295.Find Median from Data Stream.: Algorithm/LeetCode/295.Find Median from Data Stream.md
-            - 315.Count of Smaller Numbers After Self.: Algorithm/LeetCode/315.Count of Smaller Numbers After Self.md
-            - 316.Remove Duplicate Letters.: Algorithm/LeetCode/316.Remove Duplicate Letters.md
-            - 325.Maximum Size Subarray Sum Equals k.: Algorithm/LeetCode/325.Maximum Size Subarray Sum Equals k.md
-            - 328.Odd Even Linked List.: Algorithm/LeetCode/328.Odd Even Linked List.md
-            - 337. House Robber III.: Algorithm/LeetCode/337. House Robber III.md
-            - 338.Counting Bits.: Algorithm/LeetCode/338.Counting Bits.md
-            - 344.Reverse String.: Algorithm/LeetCode/344.Reverse String.md
-            - 349.Intersection of Two Arrays.: Algorithm/LeetCode/349.Intersection of Two Arrays.md
-            - 350.Intersection of Two Arrays II.: Algorithm/LeetCode/350.Intersection of Two Arrays II.md
-            - 355.Design Twitter.: Algorithm/LeetCode/355.Design Twitter.md
-            - 363.Max Sum of Rectangle No Larger Than K.: Algorithm/LeetCode/363.Max Sum of Rectangle No Larger Than K.md
-            - 365.Water and Jug Problem.: Algorithm/LeetCode/365.Water and Jug Problem.md
-            - 367.Valid Perfect Square.: Algorithm/LeetCode/367.Valid Perfect Square.md
-            - 371.Sum of Two Integers.: Algorithm/LeetCode/371.Sum of Two Integers.md
-            - 374. Guess Number Higher or Lower.: Algorithm/LeetCode/374. Guess Number Higher or Lower.md
-            - 375.Guess Number Higher or Lower II.: Algorithm/LeetCode/375.Guess Number Higher or Lower II.md
-            - 378.Kth Smallest Element in a Sorted Matrix.: Algorithm/LeetCode/378.Kth Smallest Element in a Sorted Matrix.md
-            - 392.Is Subsequence.: Algorithm/LeetCode/392.Is Subsequence.md
-            - 394.Decode String.: Algorithm/LeetCode/394.Decode String.md
-            - 402.Remove K Digits.: Algorithm/LeetCode/402.Remove K Digits.md
-            - 409.Longest Palindrome.: Algorithm/LeetCode/409.Longest Palindrome.md
-            - 410.Split Array Largest Sum.: Algorithm/LeetCode/410.Split Array Largest Sum.md
-            - 429.N-ary Tree Level Order Traversal.: Algorithm/LeetCode/429.N-ary Tree Level Order Traversal.md
-            - 437.Path Sum III.: Algorithm/LeetCode/437.Path Sum III.md
-            - 438.Find All Anagrams in a String.: Algorithm/LeetCode/438.Find All Anagrams in a String.md
-            - 441.Arranging Coins.: Algorithm/LeetCode/441.Arranging Coins.md
-            - 445.Add Two Numbers II.: Algorithm/LeetCode/445.Add Two Numbers II.md
-            - 451.Sort Characters By Frequency.: Algorithm/LeetCode/451.Sort Characters By Frequency.md
-            - 475.Heaters.: Algorithm/LeetCode/475.Heaters.md
-            - 476.Number Complement.: Algorithm/LeetCode/476.Number Complement.md
-            - 477.Total Hamming Distance.: Algorithm/LeetCode/477.Total Hamming Distance.md
-            - 498.Diagonal Traverse.: Algorithm/LeetCode/498.Diagonal Traverse.md
-            - 509. Fibonacci Number.: Algorithm/LeetCode/509. Fibonacci Number.md
-            - 525.Contiguous Array.: Algorithm/LeetCode/525.Contiguous Array.md
-            - 541.Reverse String II.: Algorithm/LeetCode/541.Reverse String II.md
-            - 542.01 Matrix.: Algorithm/LeetCode/542.01 Matrix.md
-            - 543.Diameter of Binary Tree.: Algorithm/LeetCode/543.Diameter of Binary Tree.md
-            - 544.Output Contest Matches.: Algorithm/LeetCode/544.Output Contest Matches.md
-            - 559.Maximum Depth of N-ary Tree.: Algorithm/LeetCode/559.Maximum Depth of N-ary Tree.md
-            - 560.Subarray Sum Equals K.: Algorithm/LeetCode/560.Subarray Sum Equals K.md
-            - 567.Permutation in String.: Algorithm/LeetCode/567.Permutation in String.md
-            - 572.Subtree of Another Tree.: Algorithm/LeetCode/572.Subtree of Another Tree.md
-            - 589.N-ary Tree Preorder Traversal.: Algorithm/LeetCode/589.N-ary Tree Preorder Traversal.md
-            - 590.N-ary Tree Postorder Traversal.: Algorithm/LeetCode/590.N-ary Tree Postorder Traversal.md
-            - 611.Valid Triangle Number.: Algorithm/LeetCode/611.Valid Triangle Number.md
-            - 625.Minimum Factorization.: Algorithm/LeetCode/625.Minimum Factorization.md
-            - 641.Design Circular Deque.: Algorithm/LeetCode/641.Design Circular Deque.md
-            - 650. 2 Keys Keyboard.: Algorithm/LeetCode/650. 2 Keys Keyboard.md
-            - 658.Find K Closest Elements.: Algorithm/LeetCode/658.Find K Closest Elements.md
-            - 668.Kth Smallest Number in Multiplication Table.: Algorithm/LeetCode/668.Kth Smallest Number in Multiplication Table.md
-            - 674.Longest Continuous Increasing Subsequence.: Algorithm/LeetCode/674.Longest Continuous Increasing Subsequence.md
-            - 678.Valid Parenthesis String.: Algorithm/LeetCode/678.Valid Parenthesis String.md
-            - 680.Valid Palindrome II.: Algorithm/LeetCode/680.Valid Palindrome II.md
-            - 687.Longest Univalue Path.: Algorithm/LeetCode/687.Longest Univalue Path.md
-            - 695.Max Area of Island.: Algorithm/LeetCode/695.Max Area of Island.md
-            - 703. Kth Largest Element in a Stream.: Algorithm/LeetCode/703. Kth Largest Element in a Stream.md
-            - 716.Max Stack.: Algorithm/LeetCode/716.Max Stack.md
-            - 719.Find K-th Smallest Pair Distance.: Algorithm/LeetCode/719.Find K-th Smallest Pair Distance.md
-            - 749.Daily Temperatures.: Algorithm/LeetCode/749.Daily Temperatures.md
-            - 771.Jewels and Stones.: Algorithm/LeetCode/771.Jewels and Stones.md
-            - 784.Letter Case Permutation.: Algorithm/LeetCode/784.Letter Case Permutation.md
-            - 796.Rotate String.: Algorithm/LeetCode/796.Rotate String.md
-            - 820.Short Encoding of Words.: Algorithm/LeetCode/820.Short Encoding of Words.md
-            - 832.Flipping an Image.: Algorithm/LeetCode/832.Flipping an Image.md
-            - 836.Rectangle Overlap.: Algorithm/LeetCode/836.Rectangle Overlap.md
-            - 844.Backspace String Compare.: Algorithm/LeetCode/844.Backspace String Compare.md
-            - 848.Shifting Letters.: Algorithm/LeetCode/848.Shifting Letters.md
-            - 862.Shortest Subarray with Sum at Least K.: Algorithm/LeetCode/862.Shortest Subarray with Sum at Least K.md
-            - 876.Middle of the Linked List.: Algorithm/LeetCode/876.Middle of the Linked List.md
-            - 881.Boats to Save People.: Algorithm/LeetCode/881.Boats to Save People.md
-            - 886.Possible Bipartition.: Algorithm/LeetCode/886.Possible Bipartition.md
-            - 889.Construct Binary Tree from Preorder and Postorder Traversal.: Algorithm/LeetCode/889.Construct Binary Tree from Preorder and Postorder Traversal.md
-            - 892.Surface Area of 3D Shapes.: Algorithm/LeetCode/892.Surface Area of 3D Shapes.md
-            - 901.Online Stock Span.: Algorithm/LeetCode/901.Online Stock Span.md
-            - 905.Sort Array By Parity.: Algorithm/LeetCode/905.Sort Array By Parity.md
-            - 914.X of a Kind in a Deck of Cards.: Algorithm/LeetCode/914.X of a Kind in a Deck of Cards.md
-            - 921. Minimum Add to Make Parentheses Valid.: Algorithm/LeetCode/921. Minimum Add to Make Parentheses Valid.md
-            - 945.Minimum Increment to Make Array Unique.: Algorithm/LeetCode/945.Minimum Increment to Make Array Unique.md
-            - 946.Validate Stack Sequences.: Algorithm/LeetCode/946.Validate Stack Sequences.md
-            - 974.Subarray Sums Divisible by K.: Algorithm/LeetCode/974.Subarray Sums Divisible by K.md
-            - 976.Largest Perimeter Triangle.: Algorithm/LeetCode/976.Largest Perimeter Triangle.md
-            - 986.Interval List Intersections.: Algorithm/LeetCode/986.Interval List Intersections.md
-            - 987.Vertical Order Traversal of a Binary Tree.: Algorithm/LeetCode/987.Vertical Order Traversal of a Binary Tree.md
-            - 993.Cousins in Binary Tree.: Algorithm/LeetCode/993.Cousins in Binary Tree.md
-            - 994.Rotting Oranges.: Algorithm/LeetCode/994.Rotting Oranges.md
-            - 999. Available Captures for Rook.: Algorithm/LeetCode/999. Available Captures for Rook.md
-            - 1002.Find Common Characters.: Algorithm/LeetCode/1002.Find Common Characters.md
-            - 1008.Construct Binary Search Tree from Preorder Traversal.: Algorithm/LeetCode/1008.Construct Binary Search Tree from Preorder Traversal.md
-            - 1009.Complement of Base 10 Integer.: Algorithm/LeetCode/1009.Complement of Base 10 Integer.md
-            - 1013.Partition Array Into Three Parts With Equal Sum.: Algorithm/LeetCode/1013.Partition Array Into Three Parts With Equal Sum.md
-            - 1029.Two City Scheduling.: Algorithm/LeetCode/1029.Two City Scheduling.md
-            - 1046.Last Stone Weight.: Algorithm/LeetCode/1046.Last Stone Weight.md
-            - 1071.Greatest Common Divisor of Strings.: Algorithm/LeetCode/1071.Greatest Common Divisor of Strings.md
-            - 1095.Find in Mountain Array.: Algorithm/LeetCode/1095.Find in Mountain Array.md
+            - 1.Two Sum: Algorithm/LeetCode/1.Two Sum.md
+            - 2.Add Two Numbers: Algorithm/LeetCode/2.Add Two Numbers.md
+            - 3.Longest Substring Without Repeating Characters: Algorithm/LeetCode/3.Longest Substring Without Repeating Characters.md
+            - 4.Median of Two Sorted Arrays: Algorithm/LeetCode/4.Median of Two Sorted Arrays.md
+            - 5.Longest Palindromic Substring: Algorithm/LeetCode/5.Longest Palindromic Substring.md
+            - 6.ZigZag Conversion: Algorithm/LeetCode/6.ZigZag Conversion.md
+            - 7.Reverse Integer: Algorithm/LeetCode/7.Reverse Integer.md
+            - 8.String to Integer (atoi): Algorithm/LeetCode/8.String to Integer (atoi).md
+            - 9.Palindrome Number: Algorithm/LeetCode/9.Palindrome Number.md
+            - 11.Container With Most Water: Algorithm/LeetCode/11.Container With Most Water.md
+            - 12.Integer to Roman: Algorithm/LeetCode/12.Integer to Roman.md
+            - 13.Roman to Integer: Algorithm/LeetCode/13.Roman to Integer.md
+            - 14.Longest Common Prefix: Algorithm/LeetCode/14.Longest Common Prefix.md
+            - 15.3Sum: Algorithm/LeetCode/15.3Sum.md
+            - 16.3Sum Closest: Algorithm/LeetCode/16.3Sum Closest.md
+            - 17.Letter Combinations of a Phone Number: Algorithm/LeetCode/17.Letter Combinations of a Phone Number.md
+            - 18.4Sum: Algorithm/LeetCode/18.4Sum.md
+            - 19.Remove Nth Node From End of List: Algorithm/LeetCode/19.Remove Nth Node From End of List.md
+            - 20.Valid Parentheses: Algorithm/LeetCode/20.Valid Parentheses.md
+            - 21.Merge Two Sorted Lists: Algorithm/LeetCode/21.Merge Two Sorted Lists.md
+            - 22.Generate Parentheses: Algorithm/LeetCode/22.Generate Parentheses.md
+            - 23.Merge k Sorted Lists: Algorithm/LeetCode/23.Merge k Sorted Lists.md
+            - 24.Swap Nodes in Pairs: Algorithm/LeetCode/24.Swap Nodes in Pairs.md
+            - 25.Reverse Nodes in k-Group: Algorithm/LeetCode/25.Reverse Nodes in k-Group.md
+            - 26.Remove Duplicates from Sorted Array: Algorithm/LeetCode/26.Remove Duplicates from Sorted Array.md
+            - 27. Remove Element: Algorithm/LeetCode/27. Remove Element.md
+            - 28.Implement strStr(): Algorithm/LeetCode/28.Implement strStr().md
+            - 29.Divide Two Integers: Algorithm/LeetCode/29.Divide Two Integers.md
+            - 30.Substring with Concatenation of All Words: Algorithm/LeetCode/30.Substring with Concatenation of All Words.md
+            - 31.Next Permutation: Algorithm/LeetCode/31.Next Permutation.md
+            - 33.Search in Rotated Sorted Array: Algorithm/LeetCode/33.Search in Rotated Sorted Array.md
+            - 34.Find First and Last Position of Element in Sorted Array: Algorithm/LeetCode/34.Find First and Last Position of Element in Sorted Array.md
+            - 35.Search Insert Position: Algorithm/LeetCode/35.Search Insert Position.md
+            - 36.Valid Sudoku: Algorithm/LeetCode/36.Valid Sudoku.md
+            - 38.Count and Say: Algorithm/LeetCode/38.Count and Say.md
+            - 39.Combination Sum: Algorithm/LeetCode/39.Combination Sum.md
+            - 40.Combination Sum II: Algorithm/LeetCode/40.Combination Sum II.md
+            - 41.First Missing Positive: Algorithm/LeetCode/41.First Missing Positive.md
+            - 42.Trapping Rain Water: Algorithm/LeetCode/42.Trapping Rain Water.md
+            - 43.Multiply Strings: Algorithm/LeetCode/43.Multiply Strings.md
+            - 44.Wildcard Matching: Algorithm/LeetCode/44.Wildcard Matching.md
+            - 45.Jump Game II: Algorithm/LeetCode/45.Jump Game II.md
+            - 46.Permutations: Algorithm/LeetCode/46.Permutations.md
+            - 47.Permutations II: Algorithm/LeetCode/47.Permutations II.md
+            - 48.Rotate Image: Algorithm/LeetCode/48.Rotate Image.md
+            - 49.Group Anagrams: Algorithm/LeetCode/49.Group Anagrams.md
+            - 50.Pow(x, n): Algorithm/LeetCode/50.Pow(x, n).md
+            - 51.N-Queens: Algorithm/LeetCode/51.N-Queens.md
+            - 54.Spiral Matrix: Algorithm/LeetCode/54.Spiral Matrix.md
+            - 55.Jump Game: Algorithm/LeetCode/55.Jump Game.md
+            - 56.Merge Intervals: Algorithm/LeetCode/56.Merge Intervals.md
+            - 57.Insert Interval: Algorithm/LeetCode/57.Insert Interval.md
+            - 58.Length of Last Word: Algorithm/LeetCode/58.Length of Last Word.md
+            - 59.Spiral Matrix II: Algorithm/LeetCode/59.Spiral Matrix II.md
+            - 60.Permutation Sequence: Algorithm/LeetCode/60.Permutation Sequence.md
+            - 61.Rotate List: Algorithm/LeetCode/61.Rotate List.md
+            - 66.Plus One: Algorithm/LeetCode/66.Plus One.md
+            - 69.Sqrt(x): Algorithm/LeetCode/69.Sqrt(x).md
+            - 71.Simplify Path: Algorithm/LeetCode/71.Simplify Path.md
+            - 73.Set Matrix Zeroes: Algorithm/LeetCode/73.Set Matrix Zeroes.md
+            - 74.Search a 2D Matrix: Algorithm/LeetCode/74.Search a 2D Matrix.md
+            - 75.Sort Colors: Algorithm/LeetCode/75.Sort Colors.md
+            - 76.Minimum Window Substring: Algorithm/LeetCode/76.Minimum Window Substring.md
+            - 79.Word Search: Algorithm/LeetCode/79.Word Search.md
+            - 80. Remove Duplicates from Sorted Array II: Algorithm/LeetCode/80. Remove Duplicates from Sorted Array II.md
+            - 81.Search in Rotated Sorted Array II: Algorithm/LeetCode/81.Search in Rotated Sorted Array II.md
+            - 82.Remove Duplicates from Sorted List II: Algorithm/LeetCode/82.Remove Duplicates from Sorted List II.md
+            - 83.Remove Duplicates from Sorted List: Algorithm/LeetCode/83.Remove Duplicates from Sorted List.md
+            - 84.Largest Rectangle in Histogram: Algorithm/LeetCode/84.Largest Rectangle in Histogram.md
+            - 85.Maximal Rectangle: Algorithm/LeetCode/85.Maximal Rectangle.md
+            - 86.Partition List: Algorithm/LeetCode/86.Partition List.md
+            - 88.Merge Sorted Array: Algorithm/LeetCode/88.Merge Sorted Array.md
+            - 89.Gray Code: Algorithm/LeetCode/89.Gray Code.md
+            - 92.Reverse Linked List II: Algorithm/LeetCode/92.Reverse Linked List II.md
+            - 93.Restore IP Addresses: Algorithm/LeetCode/93.Restore IP Addresses.md
+            - 94.Binary Tree Inorder Traversal: Algorithm/LeetCode/94.Binary Tree Inorder Traversal.md
+            - 95.Unique Binary Search Trees II: Algorithm/LeetCode/95.Unique Binary Search Trees II.md
+            - 96.Unique Binary Search Trees: Algorithm/LeetCode/96.Unique Binary Search Trees.md
+            - 98.Validate Binary Search Tree: Algorithm/LeetCode/98.Validate Binary Search Tree.md
+            - 99.Recover Binary Search Tree: Algorithm/LeetCode/99.Recover Binary Search Tree.md
+            - 100.Same Tree: Algorithm/LeetCode/100.Same Tree.md
+            - 101.Symmetric Tree: Algorithm/LeetCode/101.Symmetric Tree.md
+            - 102.Binary Tree Level Order Traversal: Algorithm/LeetCode/102.Binary Tree Level Order Traversal.md
+            - 103.Binary Tree Zigzag Level Order Traversal: Algorithm/LeetCode/103.Binary Tree Zigzag Level Order Traversal.md
+            - 104.Maximum Depth of Binary Tree: Algorithm/LeetCode/104.Maximum Depth of Binary Tree.md
+            - 105.Construct Binary Tree from Preorder and Inorder Traversal: Algorithm/LeetCode/105.Construct Binary Tree from Preorder and Inorder Traversal.md
+            - 106.Construct Binary Tree from Inorder and Postorder Traversal: Algorithm/LeetCode/106.Construct Binary Tree from Inorder and Postorder Traversal.md
+            - 107.Binary Tree Level Order Traversal II: Algorithm/LeetCode/107.Binary Tree Level Order Traversal II.md
+            - 108.Convert Sorted Array to Binary Search Tree: Algorithm/LeetCode/108.Convert Sorted Array to Binary Search Tree.md
+            - 109.Convert Sorted List to Binary Search Tree: Algorithm/LeetCode/109.Convert Sorted List to Binary Search Tree.md
+            - 110.Balanced Binary Tree: Algorithm/LeetCode/110.Balanced Binary Tree.md
+            - 111.Minimum Depth of Binary Tree: Algorithm/LeetCode/111.Minimum Depth of Binary Tree.md
+            - 112.Path Sum: Algorithm/LeetCode/112.Path Sum.md
+            - 113.Path Sum II: Algorithm/LeetCode/113.Path Sum II.md
+            - 114. Flatten Binary Tree to Linked List: Algorithm/LeetCode/114. Flatten Binary Tree to Linked List.md
+            - 116.Populating Next Right Pointers in Each Node: Algorithm/LeetCode/116.Populating Next Right Pointers in Each Node.md
+            - 117.Populating Next Right Pointers in Each Node II: Algorithm/LeetCode/117.Populating Next Right Pointers in Each Node II.md
+            - 118.Pascal's Triangle: Algorithm/LeetCode/118.Pascal's Triangle.md
+            - 119.Pascal's Triangle II: Algorithm/LeetCode/119.Pascal's Triangle II.md
+            - 122.Best Time to Buy and Sell Stock II: Algorithm/LeetCode/122.Best Time to Buy and Sell Stock II.md
+            - 124.Binary Tree Maximum Path Sum: Algorithm/LeetCode/124.Binary Tree Maximum Path Sum.md
+            - 126.Word Ladder II: Algorithm/LeetCode/126.Word Ladder II.md
+            - 127.Word Ladder: Algorithm/LeetCode/127.Word Ladder.md
+            - 128.Longest Consecutive Sequence: Algorithm/LeetCode/128.Longest Consecutive Sequence.md
+            - 129.Sum Root to Leaf Numbers: Algorithm/LeetCode/129.Sum Root to Leaf Numbers.md
+            - 134.Gas Station: Algorithm/LeetCode/134.Gas Station.md
+            - 135.Candy: Algorithm/LeetCode/135.Candy.md
+            - 136.Single Number: Algorithm/LeetCode/136.Single Number.md
+            - 137.Single Number II: Algorithm/LeetCode/137.Single Number II.md
+            - 138.Copy List with Random Pointer: Algorithm/LeetCode/138.Copy List with Random Pointer.md
+            - 140.Word Break II: Algorithm/LeetCode/140.Word Break II.md
+            - 141.Linked List Cycle: Algorithm/LeetCode/141.Linked List Cycle.md
+            - 142.Linked List Cycle II: Algorithm/LeetCode/142.Linked List Cycle II.md
+            - 143.Reorder List: Algorithm/LeetCode/143.Reorder List.md
+            - 144.Binary Tree Preorder Traversal: Algorithm/LeetCode/144.Binary Tree Preorder Traversal.md
+            - 145.Binary Tree Postorder Traversal: Algorithm/LeetCode/145.Binary Tree Postorder Traversal.md
+            - 146.LRU Cache: Algorithm/LeetCode/146.LRU Cache.md
+            - 148.Sort List: Algorithm/LeetCode/148.Sort List.md
+            - 150.Evaluate Reverse Polish Notation: Algorithm/LeetCode/150.Evaluate Reverse Polish Notation.md
+            - 151.Reverse Words in a String: Algorithm/LeetCode/151.Reverse Words in a String.md
+            - 153.Find Minimum in Rotated Sorted Array: Algorithm/LeetCode/153.Find Minimum in Rotated Sorted Array.md
+            - 154.Find Minimum in Rotated Sorted Array II: Algorithm/LeetCode/154.Find Minimum in Rotated Sorted Array II.md
+            - 155.Min Stack: Algorithm/LeetCode/155.Min Stack.md
+            - 156.Binary Tree Upside Down: Algorithm/LeetCode/156.Binary Tree Upside Down.md
+            - 160.Intersection of Two Linked Lists: Algorithm/LeetCode/160.Intersection of Two Linked Lists.md
+            - 169.Majority Element: Algorithm/LeetCode/169.Majority Element.md
+            - 170.Two Sum III - Data structure design: Algorithm/LeetCode/170.Two Sum III - Data structure design.md
+            - 190.Reverse Bits: Algorithm/LeetCode/190.Reverse Bits.md
+            - 191.Number of 1 Bits: Algorithm/LeetCode/191.Number of 1 Bits.md
+            - 199.Binary Tree Right Side View: Algorithm/LeetCode/199.Binary Tree Right Side View.md
+            - 200.Number of Islands: Algorithm/LeetCode/200.Number of Islands.md
+            - 201.Bitwise AND of Numbers Range: Algorithm/LeetCode/201.Bitwise AND of Numbers Range.md
+            - 202.Happy Number: Algorithm/LeetCode/202.Happy Number.md
+            - 206.Reverse Linked List: Algorithm/LeetCode/206.Reverse Linked List.md
+            - 208.Implement Trie (Prefix Tree): Algorithm/LeetCode/208.Implement Trie (Prefix Tree).md
+            - 209.Minimum Size Subarray Sum: Algorithm/LeetCode/209.Minimum Size Subarray Sum.md
+            - 215.Kth Largest Element in an Arra: Algorithm/LeetCode/215.Kth Largest Element in an Array.md
+            - 225.Implement Stack using Queue: Algorithm/LeetCode/225.Implement Stack using Queues.md
+            - 226.Invert Binary Tre: Algorithm/LeetCode/226.Invert Binary Tree.md
+            - 230.Kth Smallest Element in a BS: Algorithm/LeetCode/230.Kth Smallest Element in a BST.md
+            - 231.Power of Tw: Algorithm/LeetCode/231.Power of Two.md
+            - 232. Implement Queue using Stacks: Algorithm/LeetCode/232. Implement Queue using Stacks.md
+            - 234.Palindrome Linked List: Algorithm/LeetCode/234.Palindrome Linked List.md
+            - 235.Lowest Common Ancestor of a Binary Search Tree: Algorithm/LeetCode/235.Lowest Common Ancestor of a Binary Search Tree.md
+            - 236.Lowest Common Ancestor of a Binary Tree: Algorithm/LeetCode/236.Lowest Common Ancestor of a Binary Tree.md
+            - 237.Delete Node in a Linked List: Algorithm/LeetCode/237.Delete Node in a Linked List.md
+            - 238.Product of Array Except Self: Algorithm/LeetCode/238.Product of Array Except Self.md
+            - 239.Sliding Window Maximum: Algorithm/LeetCode/239.Sliding Window Maximum.md
+            - 240.Search a 2D Matrix II: Algorithm/LeetCode/240.Search a 2D Matrix II.md
+            - 241.Different Ways to Add Parentheses: Algorithm/LeetCode/241.Different Ways to Add Parentheses.md
+            - 246.Strobogrammatic Number: Algorithm/LeetCode/246.Strobogrammatic Number.md
+            - 247. Strobogrammatic Number II: Algorithm/LeetCode/247. Strobogrammatic Number II.md
+            - 248.Strobogrammatic Number III: Algorithm/LeetCode/248.Strobogrammatic Number III.md
+            - 249.Group Shifted Strings: Algorithm/LeetCode/249.Group Shifted Strings.md
+            - 250.Count Univalue Subtrees: Algorithm/LeetCode/250.Count Univalue Subtrees.md
+            - 253.Meeting Rooms II: Algorithm/LeetCode/253.Meeting Rooms II.md
+            - 258.Add Digits: Algorithm/LeetCode/258.Add Digits.md
+            - 260.Single Number III: Algorithm/LeetCode/260.Single Number III.md
+            - 268.Missing Number: Algorithm/LeetCode/268.Missing Number.md
+            - 273.Integer to English Words: Algorithm/LeetCode/273.Integer to English Words.md
+            - 278.First Bad Version: Algorithm/LeetCode/278.First Bad Version.md
+            - 279.Perfect Squares: Algorithm/LeetCode/279.Perfect Squares.md
+            - 283.Move Zeroes: Algorithm/LeetCode/283.Move Zeroes.md
+            - 287.Find the Duplicate Number: Algorithm/LeetCode/287.Find the Duplicate Number.md
+            - 289.Game of Life: Algorithm/LeetCode/289.Game of Life.md
+            - 295.Find Median from Data Stream: Algorithm/LeetCode/295.Find Median from Data Stream.md
+            - 315.Count of Smaller Numbers After Self: Algorithm/LeetCode/315.Count of Smaller Numbers After Self.md
+            - 316.Remove Duplicate Letters: Algorithm/LeetCode/316.Remove Duplicate Letters.md
+            - 325.Maximum Size Subarray Sum Equals k: Algorithm/LeetCode/325.Maximum Size Subarray Sum Equals k.md
+            - 328.Odd Even Linked List: Algorithm/LeetCode/328.Odd Even Linked List.md
+            - 337. House Robber III: Algorithm/LeetCode/337. House Robber III.md
+            - 338.Counting Bits: Algorithm/LeetCode/338.Counting Bits.md
+            - 344.Reverse String: Algorithm/LeetCode/344.Reverse String.md
+            - 349.Intersection of Two Arrays: Algorithm/LeetCode/349.Intersection of Two Arrays.md
+            - 350.Intersection of Two Arrays II: Algorithm/LeetCode/350.Intersection of Two Arrays II.md
+            - 355.Design Twitter: Algorithm/LeetCode/355.Design Twitter.md
+            - 363.Max Sum of Rectangle No Larger Than K: Algorithm/LeetCode/363.Max Sum of Rectangle No Larger Than K.md
+            - 365.Water and Jug Problem: Algorithm/LeetCode/365.Water and Jug Problem.md
+            - 367.Valid Perfect Square: Algorithm/LeetCode/367.Valid Perfect Square.md
+            - 371.Sum of Two Integers: Algorithm/LeetCode/371.Sum of Two Integers.md
+            - 374. Guess Number Higher or Lower: Algorithm/LeetCode/374. Guess Number Higher or Lower.md
+            - 375.Guess Number Higher or Lower II: Algorithm/LeetCode/375.Guess Number Higher or Lower II.md
+            - 378.Kth Smallest Element in a Sorted Matrix: Algorithm/LeetCode/378.Kth Smallest Element in a Sorted Matrix.md
+            - 380.Insert Delete GetRandom O(1): Algorithm/LeetCode/380.Insert Delete GetRandom O(1).md
+            - 392.Is Subsequence: Algorithm/LeetCode/392.Is Subsequence.md
+            - 394.Decode String: Algorithm/LeetCode/394.Decode String.md
+            - 402.Remove K Digits: Algorithm/LeetCode/402.Remove K Digits.md
+            - 409.Longest Palindrome: Algorithm/LeetCode/409.Longest Palindrome.md
+            - 410.Split Array Largest Sum: Algorithm/LeetCode/410.Split Array Largest Sum.md
+            - 429.N-ary Tree Level Order Traversal: Algorithm/LeetCode/429.N-ary Tree Level Order Traversal.md
+            - 437.Path Sum III: Algorithm/LeetCode/437.Path Sum III.md
+            - 438.Find All Anagrams in a String: Algorithm/LeetCode/438.Find All Anagrams in a String.md
+            - 441.Arranging Coins: Algorithm/LeetCode/441.Arranging Coins.md
+            - 445.Add Two Numbers II: Algorithm/LeetCode/445.Add Two Numbers II.md
+            - 451.Sort Characters By Frequency: Algorithm/LeetCode/451.Sort Characters By Frequency.md
+            - 475.Heaters: Algorithm/LeetCode/475.Heaters.md
+            - 476.Number Complement: Algorithm/LeetCode/476.Number Complement.md
+            - 477.Total Hamming Distance: Algorithm/LeetCode/477.Total Hamming Distance.md
+            - 498.Diagonal Traverse: Algorithm/LeetCode/498.Diagonal Traverse.md
+            - 509. Fibonacci Number: Algorithm/LeetCode/509. Fibonacci Number.md
+            - 525.Contiguous Array: Algorithm/LeetCode/525.Contiguous Array.md
+            - 541.Reverse String II: Algorithm/LeetCode/541.Reverse String II.md
+            - 542.01 Matrix: Algorithm/LeetCode/542.01 Matrix.md
+            - 543.Diameter of Binary Tree: Algorithm/LeetCode/543.Diameter of Binary Tree.md
+            - 544.Output Contest Matches: Algorithm/LeetCode/544.Output Contest Matches.md
+            - 559.Maximum Depth of N-ary Tree: Algorithm/LeetCode/559.Maximum Depth of N-ary Tree.md
+            - 560.Subarray Sum Equals K: Algorithm/LeetCode/560.Subarray Sum Equals K.md
+            - 567.Permutation in String: Algorithm/LeetCode/567.Permutation in String.md
+            - 572.Subtree of Another Tree: Algorithm/LeetCode/572.Subtree of Another Tree.md
+            - 589.N-ary Tree Preorder Traversal: Algorithm/LeetCode/589.N-ary Tree Preorder Traversal.md
+            - 590.N-ary Tree Postorder Traversal: Algorithm/LeetCode/590.N-ary Tree Postorder Traversal.md
+            - 611.Valid Triangle Number: Algorithm/LeetCode/611.Valid Triangle Number.md
+            - 625.Minimum Factorization: Algorithm/LeetCode/625.Minimum Factorization.md
+            - 641.Design Circular Deque: Algorithm/LeetCode/641.Design Circular Deque.md
+            - 650. 2 Keys Keyboard: Algorithm/LeetCode/650. 2 Keys Keyboard.md
+            - 658.Find K Closest Elements: Algorithm/LeetCode/658.Find K Closest Elements.md
+            - 668.Kth Smallest Number in Multiplication Table: Algorithm/LeetCode/668.Kth Smallest Number in Multiplication Table.md
+            - 674.Longest Continuous Increasing Subsequence: Algorithm/LeetCode/674.Longest Continuous Increasing Subsequence.md
+            - 678.Valid Parenthesis String: Algorithm/LeetCode/678.Valid Parenthesis String.md
+            - 680.Valid Palindrome II: Algorithm/LeetCode/680.Valid Palindrome II.md
+            - 687.Longest Univalue Path: Algorithm/LeetCode/687.Longest Univalue Path.md
+            - 695.Max Area of Island: Algorithm/LeetCode/695.Max Area of Island.md
+            - 703. Kth Largest Element in a Stream: Algorithm/LeetCode/703. Kth Largest Element in a Stream.md
+            - 716.Max Stack: Algorithm/LeetCode/716.Max Stack.md
+            - 719.Find K-th Smallest Pair Distance: Algorithm/LeetCode/719.Find K-th Smallest Pair Distance.md
+            - 749.Daily Temperatures: Algorithm/LeetCode/749.Daily Temperatures.md
+            - 771.Jewels and Stones: Algorithm/LeetCode/771.Jewels and Stones.md
+            - 784.Letter Case Permutation: Algorithm/LeetCode/784.Letter Case Permutation.md
+            - 796.Rotate String: Algorithm/LeetCode/796.Rotate String.md
+            - 820.Short Encoding of Words: Algorithm/LeetCode/820.Short Encoding of Words.md
+            - 832.Flipping an Image: Algorithm/LeetCode/832.Flipping an Image.md
+            - 836.Rectangle Overlap: Algorithm/LeetCode/836.Rectangle Overlap.md
+            - 844.Backspace String Compare: Algorithm/LeetCode/844.Backspace String Compare.md
+            - 848.Shifting Letters: Algorithm/LeetCode/848.Shifting Letters.md
+            - 862.Shortest Subarray with Sum at Least K: Algorithm/LeetCode/862.Shortest Subarray with Sum at Least K.md
+            - 876.Middle of the Linked List: Algorithm/LeetCode/876.Middle of the Linked List.md
+            - 881.Boats to Save People: Algorithm/LeetCode/881.Boats to Save People.md
+            - 886.Possible Bipartition: Algorithm/LeetCode/886.Possible Bipartition.md
+            - 889.Construct Binary Tree from Preorder and Postorder Traversal: Algorithm/LeetCode/889.Construct Binary Tree from Preorder and Postorder Traversal.md
+            - 892.Surface Area of 3D Shapes: Algorithm/LeetCode/892.Surface Area of 3D Shapes.md
+            - 901.Online Stock Span: Algorithm/LeetCode/901.Online Stock Span.md
+            - 905.Sort Array By Parity: Algorithm/LeetCode/905.Sort Array By Parity.md
+            - 914.X of a Kind in a Deck of Cards: Algorithm/LeetCode/914.X of a Kind in a Deck of Cards.md
+            - 921. Minimum Add to Make Parentheses Valid: Algorithm/LeetCode/921. Minimum Add to Make Parentheses Valid.md
+            - 945.Minimum Increment to Make Array Unique: Algorithm/LeetCode/945.Minimum Increment to Make Array Unique.md
+            - 946.Validate Stack Sequences: Algorithm/LeetCode/946.Validate Stack Sequences.md
+            - 974.Subarray Sums Divisible by K: Algorithm/LeetCode/974.Subarray Sums Divisible by K.md
+            - 976.Largest Perimeter Triangle: Algorithm/LeetCode/976.Largest Perimeter Triangle.md
+            - 986.Interval List Intersections: Algorithm/LeetCode/986.Interval List Intersections.md
+            - 987.Vertical Order Traversal of a Binary Tree: Algorithm/LeetCode/987.Vertical Order Traversal of a Binary Tree.md
+            - 993.Cousins in Binary Tree: Algorithm/LeetCode/993.Cousins in Binary Tree.md
+            - 994.Rotting Oranges: Algorithm/LeetCode/994.Rotting Oranges.md
+            - 999. Available Captures for Rook: Algorithm/LeetCode/999. Available Captures for Rook.md
+            - 1002.Find Common Characters: Algorithm/LeetCode/1002.Find Common Characters.md
+            - 1008.Construct Binary Search Tree from Preorder Traversal: Algorithm/LeetCode/1008.Construct Binary Search Tree from Preorder Traversal.md
+            - 1009.Complement of Base 10 Integer: Algorithm/LeetCode/1009.Complement of Base 10 Integer.md
+            - 1013.Partition Array Into Three Parts With Equal Sum: Algorithm/LeetCode/1013.Partition Array Into Three Parts With Equal Sum.md
+            - 1029.Two City Scheduling: Algorithm/LeetCode/1029.Two City Scheduling.md
+            - 1046.Last Stone Weight: Algorithm/LeetCode/1046.Last Stone Weight.md
+            - 1071.Greatest Common Divisor of Strings: Algorithm/LeetCode/1071.Greatest Common Divisor of Strings.md
+            - 1095.Find in Mountain Array: Algorithm/LeetCode/1095.Find in Mountain Array.md
             - 1103.Distribute Candies to People.: Algorithm/LeetCode/1103.Distribute Candies to People.md
-            - 1111.Maximum Nesting Depth of Two Valid Parentheses Strings.: Algorithm/LeetCode/1111.Maximum Nesting Depth of Two Valid Parentheses Strings.md
-            - 1162.As Far from Land as Possible.: Algorithm/LeetCode/1162.As Far from Land as Possible.md
-            - 1170.Compare Strings by Frequency of the Smallest Character.: Algorithm/LeetCode/1170.Compare Strings by Frequency of the Smallest Character.md
-            - 1172.Dinner Plate Stacks.: Algorithm/LeetCode/1172.Dinner Plate Stacks.md
-            - 1248.Count Number of Nice Subarrays.: Algorithm/LeetCode/1248.Count Number of Nice Subarrays.md
-            - 1260.Shift 2D Grid.: Algorithm/LeetCode/1260.Shift 2D Grid.md
-            - 1377.Frog Position After T Seconds.: Algorithm/LeetCode/1377.Frog Position After T Seconds.md
-            - 1381.Design a Stack With Increment Operation.: Algorithm/LeetCode/1381.Design a Stack With Increment Operation.md
-            - 1408.String Matching in an Array.: Algorithm/LeetCode/1408.String Matching in an Array.md
-            - 1409.Queries on a Permutation With Key.: Algorithm/LeetCode/1409.Queries on a Permutation With Key.md
-            - 1410.HTML Entity Parser.: Algorithm/LeetCode/1410.HTML Entity Parser.md
-            - 1419.Minimum Number of Frogs Croaking.: Algorithm/LeetCode/1419.Minimum Number of Frogs Croaking.md
-            - 1423.Maximum Points You Can Obtain from Cards.: Algorithm/LeetCode/1423.Maximum Points You Can Obtain from Cards.md
-            - 1424.Diagonal Traverse II.: Algorithm/LeetCode/1424.Diagonal Traverse II.md
-            - 1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.: Algorithm/LeetCode/1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md
-            - 1427.Perform String Shifts.: Algorithm/LeetCode/1427.Perform String Shifts.md
-            - 1428.Leftmost Column with at Least a One.: Algorithm/LeetCode/1428.Leftmost Column with at Least a One.md
-            - 1429.First Unique Number.: Algorithm/LeetCode/1429.First Unique Number.md
-            - 1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree.: Algorithm/LeetCode/1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree.md
-            - 1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.: Algorithm/LeetCode/1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md
-            - 1443.Minimum Time to Collect All Apples in a Tree.: Algorithm/LeetCode/1443.Minimum Time to Collect All Apples in a Tree.md
-            - 1451.Rearrange Words in a Sentence.: Algorithm/LeetCode/1451.Rearrange Words in a Sentence.md
-            - 1452.People Whose List of Favorite Companies Is Not a Subset of Another List.: Algorithm/LeetCode/1452.People Whose List of Favorite Companies Is Not a Subset of Another List.md
-            - 1456.Maximum Number of Vowels in a Substring of Given Length.: Algorithm/LeetCode/1456.Maximum Number of Vowels in a Substring of Given Length.md
-            - 1457.Pseudo-Palindromic Paths in a Binary Tree.: Algorithm/LeetCode/1457.Pseudo-Palindromic Paths in a Binary Tree.md
-            - 1466.Reorder Routes to Make All Paths Lead to the City Zero.: Algorithm/LeetCode/1466.Reorder Routes to Make All Paths Lead to the City Zero.md
-            - 1467.Probability of a Two Boxes Having The Same Number of Distinct Balls.: Algorithm/LeetCode/1467.Probability of a Two Boxes Having The Same Number of Distinct Balls.md
-            - LintCode-1604 两数最大和.: Algorithm/LeetCode/LintCode-1604 两数最大和.md
-            - 面试题26. 树的子结构.: Algorithm/LeetCode/面试题26. 树的子结构.md
-            - 面试题33. 二叉搜索树的后序遍历序列.: Algorithm/LeetCode/面试题33. 二叉搜索树的后序遍历序列.md
-            - 面试题40. 最小的k个数.: Algorithm/LeetCode/面试题40. 最小的k个数.md
-            - 面试题45. 把数组排成最小的数.: Algorithm/LeetCode/面试题45. 把数组排成最小的数.md
-            - 面试题51. 数组中的逆序对.: Algorithm/LeetCode/面试题51. 数组中的逆序对.md
-            - 面试题57 - II. 和为s的连续正数序列.: Algorithm/LeetCode/面试题57 - II. 和为s的连续正数序列.md
-            - 面试题59 - II. 队列的最大值.: Algorithm/LeetCode/面试题59 - II. 队列的最大值.md
-            - 面试题61. 扑克牌中的顺子.: Algorithm/LeetCode/面试题61. 扑克牌中的顺子.md
-            - 面试题62.圆圈中最后剩下的数字.: Algorithm/LeetCode/面试题62.圆圈中最后剩下的数字.md
-            - 面试题 10.01. 合并排序的数组.: Algorithm/LeetCode/面试题 10.01. 合并排序的数组.md
-            - 面试题 16.03. 交点.: Algorithm/LeetCode/面试题 16.03. 交点.md
-            - 面试题 16.11. 跳水板.: Algorithm/LeetCode/面试题 16.11. 跳水板.md
+            - 1111.Maximum Nesting Depth of Two Valid Parentheses Strings: Algorithm/LeetCode/1111.Maximum Nesting Depth of Two Valid Parentheses Strings.md
+            - 1162.As Far from Land as Possible: Algorithm/LeetCode/1162.As Far from Land as Possible.md
+            - 1170.Compare Strings by Frequency of the Smallest Character: Algorithm/LeetCode/1170.Compare Strings by Frequency of the Smallest Character.md
+            - 1172.Dinner Plate Stacks: Algorithm/LeetCode/1172.Dinner Plate Stacks.md
+            - 1248.Count Number of Nice Subarrays: Algorithm/LeetCode/1248.Count Number of Nice Subarrays.md
+            - 1260.Shift 2D Grid: Algorithm/LeetCode/1260.Shift 2D Grid.md
+            - 1377.Frog Position After T Seconds: Algorithm/LeetCode/1377.Frog Position After T Seconds.md
+            - 1381.Design a Stack With Increment Operation: Algorithm/LeetCode/1381.Design a Stack With Increment Operation.md
+            - 1408.String Matching in an Array: Algorithm/LeetCode/1408.String Matching in an Array.md
+            - 1409.Queries on a Permutation With Key: Algorithm/LeetCode/1409.Queries on a Permutation With Key.md
+            - 1410.HTML Entity Parser: Algorithm/LeetCode/1410.HTML Entity Parser.md
+            - 1419.Minimum Number of Frogs Croaking: Algorithm/LeetCode/1419.Minimum Number of Frogs Croaking.md
+            - 1423.Maximum Points You Can Obtain from Cards: Algorithm/LeetCode/1423.Maximum Points You Can Obtain from Cards.md
+            - 1424.Diagonal Traverse II: Algorithm/LeetCode/1424.Diagonal Traverse II.md
+            - 1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts: Algorithm/LeetCode/1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md
+            - 1427.Perform String Shifts: Algorithm/LeetCode/1427.Perform String Shifts.md
+            - 1428.Leftmost Column with at Least a One: Algorithm/LeetCode/1428.Leftmost Column with at Least a One.md
+            - 1429.First Unique Number: Algorithm/LeetCode/1429.First Unique Number.md
+            - 1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree: Algorithm/LeetCode/1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree.md
+            - 1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit: Algorithm/LeetCode/1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md
+            - 1443.Minimum Time to Collect All Apples in a Tree: Algorithm/LeetCode/1443.Minimum Time to Collect All Apples in a Tree.md
+            - 1451.Rearrange Words in a Sentence: Algorithm/LeetCode/1451.Rearrange Words in a Sentence.md
+            - 1452.People Whose List of Favorite Companies Is Not a Subset of Another List: Algorithm/LeetCode/1452.People Whose List of Favorite Companies Is Not a Subset of Another List.md
+            - 1456.Maximum Number of Vowels in a Substring of Given Length: Algorithm/LeetCode/1456.Maximum Number of Vowels in a Substring of Given Length.md
+            - 1457.Pseudo-Palindromic Paths in a Binary Tree: Algorithm/LeetCode/1457.Pseudo-Palindromic Paths in a Binary Tree.md
+            - 1466.Reorder Routes to Make All Paths Lead to the City Zero: Algorithm/LeetCode/1466.Reorder Routes to Make All Paths Lead to the City Zero.md
+            - 1467.Probability of a Two Boxes Having The Same Number of Distinct Balls: Algorithm/LeetCode/1467.Probability of a Two Boxes Having The Same Number of Distinct Balls.md
+            - LintCode-1604 两数最大和: Algorithm/LeetCode/LintCode-1604 两数最大和.md
+            - 面试题 10.01. 合并排序的数组: Algorithm/LeetCode/面试题 10.01. 合并排序的数组.md
+            - 面试题 16.03. 交点: Algorithm/LeetCode/面试题 16.03. 交点.md
+            - 面试题 16.11. 跳水板: Algorithm/LeetCode/面试题 16.11. 跳水板.md
+            - 面试题 17.26. 稀疏相似度: Algorithm/LeetCode/面试题 17.26. 稀疏相似度.md
+            - 面试题26. 树的子结构: Algorithm/LeetCode/面试题26. 树的子结构.md
+            - 面试题33. 二叉搜索树的后序遍历序列: Algorithm/LeetCode/面试题33. 二叉搜索树的后序遍历序列.md
+            - 面试题40. 最小的k个数: Algorithm/LeetCode/面试题40. 最小的k个数.md
+            - 面试题45. 把数组排成最小的数: Algorithm/LeetCode/面试题45. 把数组排成最小的数.md
+            - 面试题46. 把数字翻译成字符串: Algorithm/LeetCode/面试题46. 把数字翻译成字符串.md
+            - 面试题51. 数组中的逆序对: Algorithm/LeetCode/面试题51. 数组中的逆序对.md
+            - 面试题57 - II. 和为s的连续正数序列: Algorithm/LeetCode/面试题57 - II. 和为s的连续正数序列.md
+            - 面试题59 - II. 队列的最大值: Algorithm/LeetCode/面试题59 - II. 队列的最大值.md
+            - 面试题61. 扑克牌中的顺子: Algorithm/LeetCode/面试题61. 扑克牌中的顺子.md
+            - 面试题62.圆圈中最后剩下的数字: Algorithm/LeetCode/面试题62.圆圈中最后剩下的数字.md
         - Project Euler: 
             - Project Euler 1-Multiples of 3 and 5: Algorithm/Project-Euler/Project Euler 1-Multiples of 3 and 5.md
             - Project Euler 2-Even Fibonacci numbers（斐波那契数计算+二分优化）: Algorithm/Project-Euler/Project Euler 2-Even Fibonacci numbers（斐波那契数计算+二分优化）.md
@@ -701,21 +771,47 @@ nav:
             - Project Euler 6-Sum square difference（等差数列求和+平方和公式）: Algorithm/Project-Euler/Project Euler 6-Sum square difference（等差数列求和+平方和公式）.md
             - Project Euler 7-10001st prime（6倍数素数筛选法）: Algorithm/Project-Euler/Project Euler 7-10001st prime（6倍数素数筛选法）.md
             - Project Euler 8-Largest product in a series（滑动窗口）: Algorithm/Project-Euler/Project Euler 8-Largest product in a series（滑动窗口）.md
-    
-    - 操作系统: 
-        - CSAPP: Operating-System/cc.md
+            - Project Euler 9-Special Pythagorean triplet（GCD性质的应用）: Algorithm/Project-Euler/Project Euler 9-Special Pythagorean triplet（GCD性质的应用）.md
+            - Project Euler 10-Summation of primes（前缀和+二分）: Algorithm/Project-Euler/Project Euler 10-Summation of primes（前缀和+二分）.md
+            - Project Euler 11-Largest product in a grid（暴力搜索）: Algorithm/Project-Euler/Project Euler 11-Largest product in a grid（暴力搜索）.md
+            - Project Euler 13-Large sum（高精度或者模拟竖式加法）: Algorithm/Project-Euler/Project Euler 13-Large sum（高精度或者模拟竖式加法）.md
+            - Project Euler 14-Longest Collatz sequence（动态规划）: Algorithm/Project-Euler/Project Euler 14-Longest Collatz sequence（动态规划）.md
 
-    - 计算机网络: 
-        - UNP: Computer-Network/cc.md
+    - 操作系统: 
+        - CSAPP: Operating-System/《CSAPP》.md
+        - APUE: Operating-System/《APUE》.md
+
+    # - 计算机网络: 
 
     - 数据库: 
-        - CMU 15-445: DataBase/cc.md
+        - MySQL必知必会: DataBase/《MySQL必知必会》.md
+        - HackerRank-SQL:
+            - Employee Names: DataBase/HackerRank-SQL/Employee Names.md
+            - Employee Salaries: DataBase/HackerRank-SQL/Employee Salaries.md
+            - Higher Than 75 Marks: DataBase/HackerRank-SQL/Higher Than 75 Marks.md
+            - Japanese Cities' Attributes: DataBase/HackerRank-SQL/Japanese Cities' Attributes.md
+            - Japanese Cities' Names: DataBase/HackerRank-SQL/Japanese Cities' Names.md
+            - Revising the Select Query I: DataBase/HackerRank-SQL/Revising the Select Query I.md
+            - Revising the Select Query II: DataBase/HackerRank-SQL/Revising the Select Query II.md
+            - Select All: DataBase/HackerRank-SQL/Select All.md
+            - Select By ID: DataBase/HackerRank-SQL/Select By ID.md
+            - Weather Observation Station 1: DataBase/HackerRank-SQL/Weather Observation Station 1.md
+            - Weather Observation Station 3: DataBase/HackerRank-SQL/Weather Observation Station 3.md
+            - Weather Observation Station 4: DataBase/HackerRank-SQL/Weather Observation Station 4.md
+            - Weather Observation Station 5: DataBase/HackerRank-SQL/Weather Observation Station 5.md
+            - Weather Observation Station 6: DataBase/HackerRank-SQL/Weather Observation Station 6.md
+            - Weather Observation Station 7: DataBase/HackerRank-SQL/Weather Observation Station 7.md
+            - Weather Observation Station 8: DataBase/HackerRank-SQL/Weather Observation Station 8.md
+            - Weather Observation Station 9: DataBase/HackerRank-SQL/Weather Observation Station 9.md
+            - Weather Observation Station 10: DataBase/HackerRank-SQL/Weather Observation Station 10.md
+            - Weather Observation Station 11: DataBase/HackerRank-SQL/Weather Observation Station 11.md
+            - Weather Observation Station 12: DataBase/HackerRank-SQL/Weather Observation Station 12.md
 
-    - 编译原理: 
-        - CS-143: Compiler-Theory/cc.md
+
+    # - 编译原理: 
 
     - Linux Tools: 
-        - C或C++常见编译选项.: Linux-Tools/C或C++常见编译选项.md
+        - C或C++常见编译选项: Linux-Tools/C或C++常见编译选项.md
         - GDB: Linux-Tools/GDB.md
         - Git: Linux-Tools/Git.md
         - Makefile: Linux-Tools/Makefile.md
