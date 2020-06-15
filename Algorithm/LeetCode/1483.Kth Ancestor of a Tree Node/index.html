@@ -15,7 +15,7 @@
     
     
       
-        <title>5455.Minimum Number of Days to Make m Bouquets - Kylin Knowledge</title>
+        <title>1483.Kth Ancestor of a Tree Node - Kylin Knowledge</title>
       
     
     
@@ -50,7 +50,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#5455minimum-number-of-days-to-make-m-bouquets" class="md-skip">
+        <a href="#1483kth-ancestor-of-a-tree-node" class="md-skip">
           跳转至
         </a>
       
@@ -77,7 +77,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              5455.Minimum Number of Days to Make m Bouquets
+              1483.Kth Ancestor of a Tree Node
             
           </span>
         </div>
@@ -8801,8 +8801,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../5453.Running%20Sum%20of%201d%20Array/" title="5453.Running Sum of 1d Array" class="md-nav__link">
-      5453.Running Sum of 1d Array
+    <a href="../1480.Running%20Sum%20of%201d%20Array/" title="1480.Running Sum of 1d Array" class="md-nav__link">
+      1480.Running Sum of 1d Array
     </a>
   </li>
 
@@ -8813,8 +8813,20 @@
 
 
   <li class="md-nav__item">
-    <a href="../5454.Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/" title="5454.Least Number of Unique Integers after K Removals" class="md-nav__link">
-      5454.Least Number of Unique Integers after K Removals
+    <a href="../1481.Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/" title="1481.Least Number of Unique Integers after K Removals" class="md-nav__link">
+      1481.Least Number of Unique Integers after K Removals
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../1482.Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/" title="1482.Minimum Number of Days to Make m Bouquets" class="md-nav__link">
+      1482.Minimum Number of Days to Make m Bouquets
     </a>
   </li>
 
@@ -8833,22 +8845,10 @@
       
     
     
-    <a href="./" title="5455.Minimum Number of Days to Make m Bouquets" class="md-nav__link md-nav__link--active">
-      5455.Minimum Number of Days to Make m Bouquets
+    <a href="./" title="1483.Kth Ancestor of a Tree Node" class="md-nav__link md-nav__link--active">
+      1483.Kth Ancestor of a Tree Node
     </a>
     
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../5456.Kth%20Ancestor%20of%20a%20Tree%20Node/" title="5456.Kth Ancestor of a Tree Node" class="md-nav__link">
-      5456.Kth Ancestor of a Tree Node
-    </a>
   </li>
 
         
@@ -9735,7 +9735,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/zyq2652192993zyq/Kylin-Knowledge/edit/master/docs/Algorithm/LeetCode/5455.Minimum Number of Days to Make m Bouquets.md" title="编辑此页" class="md-content__button md-icon">
+                  <a href="https://github.com/zyq2652192993zyq/Kylin-Knowledge/edit/master/docs/Algorithm/LeetCode/1483.Kth Ancestor of a Tree Node.md" title="编辑此页" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
@@ -9744,109 +9744,83 @@
                 
                 
                 <blockquote>
-<h1 id="5455minimum-number-of-days-to-make-m-bouquets">5455.Minimum Number of Days to Make m Bouquets<a class="headerlink" href="#5455minimum-number-of-days-to-make-m-bouquets" title="Permanent link">&para;</a></h1>
+<h1 id="1483kth-ancestor-of-a-tree-node">1483.Kth Ancestor of a Tree Node<a class="headerlink" href="#1483kth-ancestor-of-a-tree-node" title="Permanent link">&para;</a></h1>
 </blockquote>
-<p>Tags: <code>Medium</code> <code>Array</code> <code>Binary Search</code></p>
-<p>Links: <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/</a></p>
+<p>Tags: <code>Hard</code> <code>Dynamic Programming</code></p>
+<p>Links: <a href="https://leetcode.com/problems/kth-ancestor-of-a-tree-node/">https://leetcode.com/problems/kth-ancestor-of-a-tree-node/</a></p>
 <hr />
-<p>Given an integer array <code>bloomDay</code>, an integer <code>m</code> and an integer <code>k</code>.</p>
-<p>We need to make <code>m</code> bouquets. To make a bouquet, you need to use <code>k</code> <strong>adjacent flowers</strong> from the garden.</p>
-<p>The garden consists of <code>n</code> flowers, the <code>ith</code> flower will bloom in the <code>bloomDay[i]</code> and then can be used in <strong>exactly one</strong> bouquet.</p>
-<p>Return <em>the minimum number of days</em> you need to wait to be able to make <code>m</code> bouquets from the garden. If it is impossible to make <code>m</code> bouquets return <strong>-1</strong>.</p>
-<p><strong>Example 1:</strong></p>
-<div class="highlight"><pre><span></span><code>Input: bloomDay = [1,10,3,10,2], m = 3, k = 1
-Output: 3
-Explanation: Let&#39;s see what happened in the first three days. x means flower bloomed and _ means flower didn&#39;t bloom in the garden.
-We need 3 bouquets each should contain 1 flower.
-After day 1: [x, _, _, _, _]   // we can only make one bouquet.
-After day 2: [x, _, _, _, x]   // we can only make two bouquets.
-After day 3: [x, _, x, _, x]   // we can make 3 bouquets. The answer is 3.
-</code></pre></div>
+<p>You are given a tree with <code>n</code> nodes numbered from <code>0</code> to <code>n-1</code> in the form of a parent array where <code>parent[i]</code> is the parent of node <code>i</code>. The root of the tree is node <code>0</code>.</p>
+<p>Implement the function <code>getKthAncestor</code> <code>(int node, int k)</code> to return the <code>k</code>-th ancestor of the given <code>node</code>. If there is no such ancestor, return <code>-1</code>.</p>
+<p>The <em>k-th</em> <em>ancestor</em> of a tree node is the <code>k</code>-th node in the path from that node to the root.</p>
+<p><strong>Example:</strong></p>
+<p><strong><img alt="img" src="https://assets.leetcode.com/uploads/2019/08/28/1528_ex1.png" /></strong></p>
+<div class="highlight"><pre><span></span><code>Input:
+[&quot;TreeAncestor&quot;,&quot;getKthAncestor&quot;,&quot;getKthAncestor&quot;,&quot;getKthAncestor&quot;]
+[[7,[-1,0,0,1,1,2,2]],[3,1],[5,2],[6,3]]
 
-<p><strong>Example 2:</strong></p>
-<div class="highlight"><pre><span></span><code>Input: bloomDay = [1,10,3,10,2], m = 3, k = 2
-Output: -1
-Explanation: We need 3 bouquets each has 2 flowers, that means we need 6 flowers. We only have 5 flowers so it is impossible to get the needed bouquets and we return -1.
-</code></pre></div>
+Output:
+[null,1,0,-1]
 
-<p><strong>Example 3:</strong></p>
-<div class="highlight"><pre><span></span><code>Input: bloomDay = [7,7,7,7,12,7,7], m = 2, k = 3
-Output: 12
-Explanation: We need 2 bouquets each should have 3 flowers.
-Here&#39;s the garden after the 7 and 12 days:
-After day 7: [x, x, x, x, _, x, x]
-We can make one bouquet of the first three flowers that bloomed. We cannot make another bouquet from the last three flowers that bloomed because they are not adjacent.
-After day 12: [x, x, x, x, x, x, x]
-It is obvious that we can make two bouquets in different ways.
-</code></pre></div>
+Explanation:
+TreeAncestor treeAncestor = new TreeAncestor(7, [-1, 0, 0, 1, 1, 2, 2]);
 
-<p><strong>Example 4:</strong></p>
-<div class="highlight"><pre><span></span><code>Input: bloomDay = [1000000000,1000000000], m = 1, k = 1
-Output: 1000000000
-Explanation: You need to wait 1000000000 days to have a flower ready for a bouquet.
-</code></pre></div>
-
-<p><strong>Example 5:</strong></p>
-<div class="highlight"><pre><span></span><code>Input: bloomDay = [1,10,2,9,3,8,4,7,5,6], m = 4, k = 2
-Output: 9
+treeAncestor.getKthAncestor(3, 1);  // returns 1 which is the parent of 3
+treeAncestor.getKthAncestor(5, 2);  // returns 0 which is the grandparent of 5
+treeAncestor.getKthAncestor(6, 3);  // returns -1 because there is no such ancestor
 </code></pre></div>
 
 <p><strong>Constraints:</strong></p>
 <ul>
-<li><code>bloomDay.length == n</code></li>
-<li><code>1 &lt;= n &lt;= 10^5</code></li>
-<li><code>1 &lt;= bloomDay[i] &lt;= 10^9</code></li>
-<li><code>1 &lt;= m &lt;= 10^6</code></li>
-<li><code>1 &lt;= k &lt;= n</code></li>
+<li><code>1 &lt;= k &lt;= n &lt;= 5*10^4</code></li>
+<li><code>parent[0] == -1</code> indicating that <code>0</code> is the root node.</li>
+<li><code>0 &lt;= parent[i] &lt; n</code> for all <code>0 &lt; i &lt; n</code></li>
+<li><code>0 &lt;= node &lt; n</code></li>
+<li>There will be at most <code>5*10^4</code> queries.</li>
 </ul>
 <hr />
-<div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">Solution</span> <span class="p">{</span>
-    <span class="kt">int</span> <span class="n">n</span><span class="p">;</span>
+<div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">TreeAncestor</span> <span class="p">{</span>
+    <span class="n">vector</span><span class="o">&lt;</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&gt;</span> <span class="n">ancestor</span><span class="p">;</span>
 <span class="k">public</span><span class="o">:</span>
-    <span class="kt">int</span> <span class="n">minDays</span><span class="p">(</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&amp;</span> <span class="n">bloomDay</span><span class="p">,</span> <span class="kt">int</span> <span class="n">m</span><span class="p">,</span> <span class="kt">int</span> <span class="n">k</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">TreeAncestor</span><span class="p">(</span><span class="kt">int</span> <span class="n">n</span><span class="p">,</span> <span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&amp;</span> <span class="n">parent</span><span class="p">)</span> <span class="p">{</span>
         <span class="n">std</span><span class="o">::</span><span class="n">ios_base</span><span class="o">::</span><span class="n">sync_with_stdio</span><span class="p">(</span><span class="nb">false</span><span class="p">);</span>
         <span class="n">cin</span><span class="p">.</span><span class="n">tie</span><span class="p">(</span><span class="nb">NULL</span><span class="p">);</span>
         <span class="n">cout</span><span class="p">.</span><span class="n">tie</span><span class="p">(</span><span class="nb">NULL</span><span class="p">);</span>
 
-        <span class="k">if</span> <span class="p">((</span><span class="kt">long</span> <span class="kt">long</span><span class="p">)</span><span class="n">m</span> <span class="o">*</span> <span class="n">k</span> <span class="o">&gt;</span> <span class="p">(</span><span class="kt">long</span> <span class="kt">long</span><span class="p">)</span><span class="n">bloomDay</span><span class="p">.</span><span class="n">size</span><span class="p">())</span> <span class="k">return</span> <span class="o">-</span><span class="mi">1</span><span class="p">;</span>
-
-        <span class="n">n</span> <span class="o">=</span> <span class="n">bloomDay</span><span class="p">.</span><span class="n">size</span><span class="p">();</span>
-        <span class="kt">int</span> <span class="n">left</span> <span class="o">=</span> <span class="n">INT_MAX</span><span class="p">,</span> <span class="n">right</span> <span class="o">=</span> <span class="n">INT_MIN</span><span class="p">;</span>
-        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span> <span class="p">{</span>
-            <span class="n">left</span> <span class="o">=</span> <span class="n">min</span><span class="p">(</span><span class="n">left</span><span class="p">,</span> <span class="n">bloomDay</span><span class="p">[</span><span class="n">i</span><span class="p">]);</span>
-            <span class="n">right</span> <span class="o">=</span> <span class="n">max</span><span class="p">(</span><span class="n">right</span><span class="p">,</span> <span class="n">bloomDay</span><span class="p">[</span><span class="n">i</span><span class="p">]);</span>
+        <span class="n">ancestor</span><span class="p">.</span><span class="n">resize</span><span class="p">(</span><span class="mi">50005</span><span class="p">,</span> <span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span><span class="mi">21</span><span class="p">));</span>
+        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span> <span class="n">ancestor</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">parent</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
+        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="n">j</span> <span class="o">&lt;=</span> <span class="mi">20</span><span class="p">;</span> <span class="o">++</span><span class="n">j</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span> <span class="p">{</span>
+                <span class="n">ancestor</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="n">ancestor</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="mi">0</span><span class="p">)</span> <span class="o">?</span> <span class="n">ancestor</span><span class="p">[</span><span class="n">ancestor</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]][</span><span class="n">j</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]</span> <span class="o">:</span> <span class="o">-</span><span class="mi">1</span><span class="p">;</span>
+            <span class="p">}</span>
         <span class="p">}</span>
-
-        <span class="k">while</span> <span class="p">(</span><span class="n">left</span> <span class="o">&lt;</span> <span class="n">right</span><span class="p">)</span> <span class="p">{</span>
-            <span class="kt">int</span> <span class="n">mid</span> <span class="o">=</span> <span class="n">left</span> <span class="o">+</span> <span class="p">((</span><span class="n">right</span> <span class="o">-</span> <span class="n">left</span><span class="p">)</span> <span class="o">&gt;&gt;</span> <span class="mi">1</span><span class="p">);</span>
-
-            <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">check</span><span class="p">(</span><span class="n">bloomDay</span><span class="p">,</span> <span class="n">m</span><span class="p">,</span> <span class="n">k</span><span class="p">,</span> <span class="n">mid</span><span class="p">))</span> <span class="n">left</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span>
-            <span class="k">else</span> <span class="n">right</span> <span class="o">=</span> <span class="n">mid</span><span class="p">;</span>
-        <span class="p">}</span>
-
-        <span class="k">return</span> <span class="n">left</span><span class="p">;</span>
     <span class="p">}</span>
 
-    <span class="kt">bool</span> <span class="n">check</span><span class="p">(</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&amp;</span> <span class="n">bloomDay</span><span class="p">,</span> <span class="kt">int</span> <span class="n">m</span><span class="p">,</span> <span class="kt">int</span> <span class="n">k</span><span class="p">,</span> <span class="kt">int</span> <span class="n">target</span><span class="p">)</span>
-    <span class="p">{</span>
-        <span class="kt">int</span> <span class="n">cnt</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">len</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
-        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span> <span class="p">{</span>
-            <span class="k">if</span> <span class="p">(</span><span class="n">bloomDay</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;=</span> <span class="n">target</span><span class="p">)</span> <span class="p">{</span>
-                <span class="o">++</span><span class="n">len</span><span class="p">;</span>
-                <span class="k">if</span> <span class="p">(</span><span class="n">len</span> <span class="o">==</span> <span class="n">k</span><span class="p">)</span> <span class="p">{</span> <span class="o">++</span><span class="n">cnt</span><span class="p">;</span> <span class="n">len</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="p">}</span>
-            <span class="p">}</span>
-            <span class="k">else</span> <span class="n">len</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="kt">int</span> <span class="n">getKthAncestor</span><span class="p">(</span><span class="kt">int</span> <span class="n">node</span><span class="p">,</span> <span class="kt">int</span> <span class="n">k</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="mi">20</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">if</span> <span class="p">(</span><span class="n">k</span> <span class="o">&amp;</span> <span class="p">(</span><span class="mi">1</span> <span class="o">&lt;&lt;</span> <span class="n">i</span><span class="p">))</span> <span class="n">node</span> <span class="o">=</span> <span class="n">ancestor</span><span class="p">[</span><span class="n">node</span><span class="p">][</span><span class="n">i</span><span class="p">];</span>
+            <span class="k">if</span> <span class="p">(</span><span class="n">node</span> <span class="o">==</span> <span class="o">-</span><span class="mi">1</span><span class="p">)</span> <span class="k">return</span> <span class="o">-</span><span class="mi">1</span><span class="p">;</span>
         <span class="p">}</span>
 
-        <span class="k">return</span> <span class="n">cnt</span> <span class="o">&gt;=</span> <span class="n">m</span><span class="p">;</span>
+        <span class="k">return</span> <span class="n">node</span><span class="p">;</span>
     <span class="p">}</span>
 <span class="p">};</span>
+
+<span class="cm">/**</span>
+<span class="cm"> * Your TreeAncestor object will be instantiated and called as such:</span>
+<span class="cm"> * TreeAncestor* obj = new TreeAncestor(n, parent);</span>
+<span class="cm"> * int param_1 = obj-&gt;getKthAncestor(node,k);</span>
+<span class="cm"> */</span>
 </code></pre></div>
 
-<p>通过题目给出的第二个样例可知，我们首先应该检验如果所有的花都开了，是否可以满足要求。检验的时候注意到<span><span class="MathJax_Preview">m \leq 10^6, k \leq n \leq 10^5</span><script type="math/tex">m \leq 10^6, k \leq n \leq 10^5</script></span>，在计算<span><span class="MathJax_Preview">m \times k</span><script type="math/tex">m \times k</script></span>的时候是可能溢出的，所以选择用<code>long long</code>。</p>
-<p>如果所有花开的情况能够满足要求，那么结果的最大值就是序列<code>bloomDay</code>里的最大值，对应所有花开的情况；最好的情况是<code>m = 1, k = 1</code>，也就是只要有一朵花开就行，结果的最小值就是序列<code>bloomDay</code>里的最小值；其他情况肯定在这个范围内，分析到这里，基本上就是二分的板子了。</p>
-<p>本题里很关键的是<code>check</code>函数的写法，不出意外所二分<code>check</code>基本都是只需要遍历一遍数组就可以完成检验。本题要求的是连续的<code>k</code>朵花，那么用<code>len</code>记录连续开花的个数，用<code>target</code>表示到目前等待的时间，所以只有<code>bloomDay[i] &lt;= target</code>的才是花开的情况，当<code>len == k</code>的时候，计数器+1，<code>len</code>清零。如果<code>cnt &gt;= m</code>意味着需要等待的时间一定不大于当前值，如果<code>cnt &lt; m</code>，意味着需要等待的时间一定大于当前值，然后把思路转成二分代码即可。</p>
-<p>最坏情况，数组最小数字为1，最大数字为<span><span class="MathJax_Preview">10^9</span><script type="math/tex">10^9</script></span>，数组长度为<span><span class="MathJax_Preview">10^5</span><script type="math/tex">10^5</script></span>，那么也只需要计算<span><span class="MathJax_Preview">10^5 \times \log{10^9}</span><script type="math/tex">10^5 \times \log{10^9}</script></span>，也不会超时。</p>
+<p>倍增和二进制的思路。类似于ST表，我们用<code>ancestor[i][j]</code>表示节点<code>i</code>的第<span><span class="MathJax_Preview">2^j</span><script type="math/tex">2^j</script></span>个祖先，很显然当<code>j = 0</code>时，<code>ancestor[i][0]</code>就是<code>parent[i]</code>。</p>
+<p>当<code>j &gt;= 1</code>时，<code>ancestor</code>的状态转移方程：</p>
+<div class="highlight"><pre><span></span><code>ancestor[i][j] = (ancestor[i][j - 1] &gt;= 0) ? ancestor[ancestor[i][j - 1]][j - 1] : -1;
+</code></pre></div>
+
+<p>也就是节点<code>i</code>的 <span><span class="MathJax_Preview">2^j</span><script type="math/tex">2^j</script></span>个祖先， 就是节点<code>i</code>的第<span><span class="MathJax_Preview">2^{j-1}</span><script type="math/tex">2^{j-1}</script></span>个祖先节点的第<span><span class="MathJax_Preview">2^{j-1}</span><script type="math/tex">2^{j-1}</script></span>个祖先。</p>
+<p>因为数据范围节点数不会超过<code>50000</code>，所以第一个维度开<code>50005</code>的大小，第二个维度是21是因为数据范围到了<span><span class="MathJax_Preview">10^6</span><script type="math/tex">10^6</script></span>，一般用ST表求RMQ顶多到<span><span class="MathJax_Preview">10^6</span><script type="math/tex">10^6</script></span>的数据范围，<span><span class="MathJax_Preview">\log _2 10^6 \approx 19.93</span><script type="math/tex">\log _2 10^6 \approx 19.93</script></span>，开21或25的大小都可以。</p>
+<p>考虑<code>getKthAncestor</code>，比如我们想查询节点<code>i</code>的第13个祖先，离13最接近的是8，然后将5拆成4和1，这其实就是13的二进制表示，也就是如果想访问第13个祖先，那么先利用<code>ancestor</code>查找第8个祖先，将第8个祖先作为当前节点，然后查找当前节点的第4个祖先，依此类推。</p>
+<p>最坏的情况是单链表的情形，树的深度最大是<span><span class="MathJax_Preview">5 \times 10^4</span><script type="math/tex">5 \times 10^4</script></span>，查询次数是<span><span class="MathJax_Preview">5\times 10^4</span><script type="math/tex">5\times 10^4</script></span>，时间复杂度<span><span class="MathJax_Preview">O(n \log n)</span><script type="math/tex">O(n \log n)</script></span>。</p>
                 
               
               
@@ -9865,7 +9839,7 @@ Output: 9
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../5454.Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/" title="5454.Least Number of Unique Integers after K Removals" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../1482.Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/" title="1482.Minimum Number of Days to Make m Bouquets" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -9874,19 +9848,19 @@ Output: 9
                 <span class="md-footer-nav__direction">
                   上一页
                 </span>
-                5454.Least Number of Unique Integers after K Removals
+                1482.Minimum Number of Days to Make m Bouquets
               </div>
             </div>
           </a>
         
         
-          <a href="../5456.Kth%20Ancestor%20of%20a%20Tree%20Node/" title="5456.Kth Ancestor of a Tree Node" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../LintCode-1604%20%E4%B8%A4%E6%95%B0%E6%9C%80%E5%A4%A7%E5%92%8C/" title="LintCode-1604 两数最大和" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   下一页
                 </span>
-                5456.Kth Ancestor of a Tree Node
+                LintCode-1604 两数最大和
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
