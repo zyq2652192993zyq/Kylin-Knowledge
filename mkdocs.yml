@@ -59,6 +59,362 @@ nav:
             # - C++并发编程实战: Programming-Language/《C++并发编程实战》.md  
 
     - 数据结构和算法: 
+        - 简介: Algorithm/Algorithm-README.md
+        - LeetCode:
+            - 1.Two Sum: Algorithm/LeetCode/1.Two Sum.md
+            - 2.Add Two Numbers: Algorithm/LeetCode/2.Add Two Numbers.md
+            - 3.Longest Substring Without Repeating Characters: Algorithm/LeetCode/3.Longest Substring Without Repeating Characters.md
+            - 4.Median of Two Sorted Arrays: Algorithm/LeetCode/4.Median of Two Sorted Arrays.md
+            - 5.Longest Palindromic Substring: Algorithm/LeetCode/5.Longest Palindromic Substring.md
+            - 6.ZigZag Conversion: Algorithm/LeetCode/6.ZigZag Conversion.md
+            - 7.Reverse Integer: Algorithm/LeetCode/7.Reverse Integer.md
+            - 8.String to Integer (atoi): Algorithm/LeetCode/8.String to Integer (atoi).md
+            - 9.Palindrome Number: Algorithm/LeetCode/9.Palindrome Number.md
+            - 11.Container With Most Water: Algorithm/LeetCode/11.Container With Most Water.md
+            - 12.Integer to Roman: Algorithm/LeetCode/12.Integer to Roman.md
+            - 13.Roman to Integer: Algorithm/LeetCode/13.Roman to Integer.md
+            - 14.Longest Common Prefix: Algorithm/LeetCode/14.Longest Common Prefix.md
+            - 15.3Sum: Algorithm/LeetCode/15.3Sum.md
+            - 16.3Sum Closest: Algorithm/LeetCode/16.3Sum Closest.md
+            - 17.Letter Combinations of a Phone Number: Algorithm/LeetCode/17.Letter Combinations of a Phone Number.md
+            - 18.4Sum: Algorithm/LeetCode/18.4Sum.md
+            - 19.Remove Nth Node From End of List: Algorithm/LeetCode/19.Remove Nth Node From End of List.md
+            - 20.Valid Parentheses: Algorithm/LeetCode/20.Valid Parentheses.md
+            - 21.Merge Two Sorted Lists: Algorithm/LeetCode/21.Merge Two Sorted Lists.md
+            - 22.Generate Parentheses: Algorithm/LeetCode/22.Generate Parentheses.md
+            - 23.Merge k Sorted Lists: Algorithm/LeetCode/23.Merge k Sorted Lists.md
+            - 24.Swap Nodes in Pairs: Algorithm/LeetCode/24.Swap Nodes in Pairs.md
+            - 25.Reverse Nodes in k-Group: Algorithm/LeetCode/25.Reverse Nodes in k-Group.md
+            - 26.Remove Duplicates from Sorted Array: Algorithm/LeetCode/26.Remove Duplicates from Sorted Array.md
+            - 27. Remove Element: Algorithm/LeetCode/27. Remove Element.md
+            - 28.Implement strStr(): Algorithm/LeetCode/28.Implement strStr().md
+            - 29.Divide Two Integers: Algorithm/LeetCode/29.Divide Two Integers.md
+            - 30.Substring with Concatenation of All Words: Algorithm/LeetCode/30.Substring with Concatenation of All Words.md
+            - 31.Next Permutation: Algorithm/LeetCode/31.Next Permutation.md
+            - 33.Search in Rotated Sorted Array: Algorithm/LeetCode/33.Search in Rotated Sorted Array.md
+            - 34.Find First and Last Position of Element in Sorted Array: Algorithm/LeetCode/34.Find First and Last Position of Element in Sorted Array.md
+            - 35.Search Insert Position: Algorithm/LeetCode/35.Search Insert Position.md
+            - 36.Valid Sudoku: Algorithm/LeetCode/36.Valid Sudoku.md
+            - 38.Count and Say: Algorithm/LeetCode/38.Count and Say.md
+            - 39.Combination Sum: Algorithm/LeetCode/39.Combination Sum.md
+            - 40.Combination Sum II: Algorithm/LeetCode/40.Combination Sum II.md
+            - 41.First Missing Positive: Algorithm/LeetCode/41.First Missing Positive.md
+            - 42.Trapping Rain Water: Algorithm/LeetCode/42.Trapping Rain Water.md
+            - 43.Multiply Strings: Algorithm/LeetCode/43.Multiply Strings.md
+            - 44.Wildcard Matching: Algorithm/LeetCode/44.Wildcard Matching.md
+            - 45.Jump Game II: Algorithm/LeetCode/45.Jump Game II.md
+            - 46.Permutations: Algorithm/LeetCode/46.Permutations.md
+            - 47.Permutations II: Algorithm/LeetCode/47.Permutations II.md
+            - 48.Rotate Image: Algorithm/LeetCode/48.Rotate Image.md
+            - 49.Group Anagrams: Algorithm/LeetCode/49.Group Anagrams.md
+            - 50.Pow(x, n): Algorithm/LeetCode/50.Pow(x, n).md
+            - 51.N-Queens: Algorithm/LeetCode/51.N-Queens.md
+            - 54.Spiral Matrix: Algorithm/LeetCode/54.Spiral Matrix.md
+            - 55.Jump Game: Algorithm/LeetCode/55.Jump Game.md
+            - 56.Merge Intervals: Algorithm/LeetCode/56.Merge Intervals.md
+            - 57.Insert Interval: Algorithm/LeetCode/57.Insert Interval.md
+            - 58.Length of Last Word: Algorithm/LeetCode/58.Length of Last Word.md
+            - 59.Spiral Matrix II: Algorithm/LeetCode/59.Spiral Matrix II.md
+            - 60.Permutation Sequence: Algorithm/LeetCode/60.Permutation Sequence.md
+            - 61.Rotate List: Algorithm/LeetCode/61.Rotate List.md
+            - 66.Plus One: Algorithm/LeetCode/66.Plus One.md
+            - 69.Sqrt(x): Algorithm/LeetCode/69.Sqrt(x).md
+            - 71.Simplify Path: Algorithm/LeetCode/71.Simplify Path.md
+            - 73.Set Matrix Zeroes: Algorithm/LeetCode/73.Set Matrix Zeroes.md
+            - 74.Search a 2D Matrix: Algorithm/LeetCode/74.Search a 2D Matrix.md
+            - 75.Sort Colors: Algorithm/LeetCode/75.Sort Colors.md
+            - 76.Minimum Window Substring: Algorithm/LeetCode/76.Minimum Window Substring.md
+            - 79.Word Search: Algorithm/LeetCode/79.Word Search.md
+            - 80. Remove Duplicates from Sorted Array II: Algorithm/LeetCode/80. Remove Duplicates from Sorted Array II.md
+            - 81.Search in Rotated Sorted Array II: Algorithm/LeetCode/81.Search in Rotated Sorted Array II.md
+            - 82.Remove Duplicates from Sorted List II: Algorithm/LeetCode/82.Remove Duplicates from Sorted List II.md
+            - 83.Remove Duplicates from Sorted List: Algorithm/LeetCode/83.Remove Duplicates from Sorted List.md
+            - 84.Largest Rectangle in Histogram: Algorithm/LeetCode/84.Largest Rectangle in Histogram.md
+            - 85.Maximal Rectangle: Algorithm/LeetCode/85.Maximal Rectangle.md
+            - 86.Partition List: Algorithm/LeetCode/86.Partition List.md
+            - 88.Merge Sorted Array: Algorithm/LeetCode/88.Merge Sorted Array.md
+            - 89.Gray Code: Algorithm/LeetCode/89.Gray Code.md
+            - 92.Reverse Linked List II: Algorithm/LeetCode/92.Reverse Linked List II.md
+            - 93.Restore IP Addresses: Algorithm/LeetCode/93.Restore IP Addresses.md
+            - 94.Binary Tree Inorder Traversal: Algorithm/LeetCode/94.Binary Tree Inorder Traversal.md
+            - 95.Unique Binary Search Trees II: Algorithm/LeetCode/95.Unique Binary Search Trees II.md
+            - 96.Unique Binary Search Trees: Algorithm/LeetCode/96.Unique Binary Search Trees.md
+            - 98.Validate Binary Search Tree: Algorithm/LeetCode/98.Validate Binary Search Tree.md
+            - 99.Recover Binary Search Tree: Algorithm/LeetCode/99.Recover Binary Search Tree.md
+            - 100.Same Tree: Algorithm/LeetCode/100.Same Tree.md
+            - 101.Symmetric Tree: Algorithm/LeetCode/101.Symmetric Tree.md
+            - 102.Binary Tree Level Order Traversal: Algorithm/LeetCode/102.Binary Tree Level Order Traversal.md
+            - 103.Binary Tree Zigzag Level Order Traversal: Algorithm/LeetCode/103.Binary Tree Zigzag Level Order Traversal.md
+            - 104.Maximum Depth of Binary Tree: Algorithm/LeetCode/104.Maximum Depth of Binary Tree.md
+            - 105.Construct Binary Tree from Preorder and Inorder Traversal: Algorithm/LeetCode/105.Construct Binary Tree from Preorder and Inorder Traversal.md
+            - 106.Construct Binary Tree from Inorder and Postorder Traversal: Algorithm/LeetCode/106.Construct Binary Tree from Inorder and Postorder Traversal.md
+            - 107.Binary Tree Level Order Traversal II: Algorithm/LeetCode/107.Binary Tree Level Order Traversal II.md
+            - 108.Convert Sorted Array to Binary Search Tree: Algorithm/LeetCode/108.Convert Sorted Array to Binary Search Tree.md
+            - 109.Convert Sorted List to Binary Search Tree: Algorithm/LeetCode/109.Convert Sorted List to Binary Search Tree.md
+            - 110.Balanced Binary Tree: Algorithm/LeetCode/110.Balanced Binary Tree.md
+            - 111.Minimum Depth of Binary Tree: Algorithm/LeetCode/111.Minimum Depth of Binary Tree.md
+            - 112.Path Sum: Algorithm/LeetCode/112.Path Sum.md
+            - 113.Path Sum II: Algorithm/LeetCode/113.Path Sum II.md
+            - 114. Flatten Binary Tree to Linked List: Algorithm/LeetCode/114. Flatten Binary Tree to Linked List.md
+            - 116.Populating Next Right Pointers in Each Node: Algorithm/LeetCode/116.Populating Next Right Pointers in Each Node.md
+            - 117.Populating Next Right Pointers in Each Node II: Algorithm/LeetCode/117.Populating Next Right Pointers in Each Node II.md
+            - 118.Pascal's Triangle: Algorithm/LeetCode/118.Pascal's Triangle.md
+            - 119.Pascal's Triangle II: Algorithm/LeetCode/119.Pascal's Triangle II.md
+            - 122.Best Time to Buy and Sell Stock II: Algorithm/LeetCode/122.Best Time to Buy and Sell Stock II.md
+            - 124.Binary Tree Maximum Path Sum: Algorithm/LeetCode/124.Binary Tree Maximum Path Sum.md
+            - 126.Word Ladder II: Algorithm/LeetCode/126.Word Ladder II.md
+            - 127.Word Ladder: Algorithm/LeetCode/127.Word Ladder.md
+            - 128.Longest Consecutive Sequence: Algorithm/LeetCode/128.Longest Consecutive Sequence.md
+            - 129.Sum Root to Leaf Numbers: Algorithm/LeetCode/129.Sum Root to Leaf Numbers.md
+            - 130.Surrounded Regions: Algorithm/LeetCode/130.Surrounded Regions.md
+            - 134.Gas Station: Algorithm/LeetCode/134.Gas Station.md
+            - 135.Candy: Algorithm/LeetCode/135.Candy.md
+            - 136.Single Number: Algorithm/LeetCode/136.Single Number.md
+            - 137.Single Number II: Algorithm/LeetCode/137.Single Number II.md
+            - 138.Copy List with Random Pointer: Algorithm/LeetCode/138.Copy List with Random Pointer.md
+            - 140.Word Break II: Algorithm/LeetCode/140.Word Break II.md
+            - 141.Linked List Cycle: Algorithm/LeetCode/141.Linked List Cycle.md
+            - 142.Linked List Cycle II: Algorithm/LeetCode/142.Linked List Cycle II.md
+            - 143.Reorder List: Algorithm/LeetCode/143.Reorder List.md
+            - 144.Binary Tree Preorder Traversal: Algorithm/LeetCode/144.Binary Tree Preorder Traversal.md
+            - 145.Binary Tree Postorder Traversal: Algorithm/LeetCode/145.Binary Tree Postorder Traversal.md
+            - 146.LRU Cache: Algorithm/LeetCode/146.LRU Cache.md
+            - 148.Sort List: Algorithm/LeetCode/148.Sort List.md
+            - 150.Evaluate Reverse Polish Notation: Algorithm/LeetCode/150.Evaluate Reverse Polish Notation.md
+            - 151.Reverse Words in a String: Algorithm/LeetCode/151.Reverse Words in a String.md
+            - 153.Find Minimum in Rotated Sorted Array: Algorithm/LeetCode/153.Find Minimum in Rotated Sorted Array.md
+            - 154.Find Minimum in Rotated Sorted Array II: Algorithm/LeetCode/154.Find Minimum in Rotated Sorted Array II.md
+            - 155.Min Stack: Algorithm/LeetCode/155.Min Stack.md
+            - 156.Binary Tree Upside Down: Algorithm/LeetCode/156.Binary Tree Upside Down.md
+            - 160.Intersection of Two Linked Lists: Algorithm/LeetCode/160.Intersection of Two Linked Lists.md
+            - 169.Majority Element: Algorithm/LeetCode/169.Majority Element.md
+            - 170.Two Sum III - Data structure design: Algorithm/LeetCode/170.Two Sum III - Data structure design.md
+            - 190.Reverse Bits: Algorithm/LeetCode/190.Reverse Bits.md
+            - 191.Number of 1 Bits: Algorithm/LeetCode/191.Number of 1 Bits.md
+            - 199.Binary Tree Right Side View: Algorithm/LeetCode/199.Binary Tree Right Side View.md
+            - 200.Number of Islands: Algorithm/LeetCode/200.Number of Islands.md
+            - 201.Bitwise AND of Numbers Range: Algorithm/LeetCode/201.Bitwise AND of Numbers Range.md
+            - 202.Happy Number: Algorithm/LeetCode/202.Happy Number.md
+            - 206.Reverse Linked List: Algorithm/LeetCode/206.Reverse Linked List.md
+            - 208.Implement Trie (Prefix Tree): Algorithm/LeetCode/208.Implement Trie (Prefix Tree).md
+            - 209.Minimum Size Subarray Sum: Algorithm/LeetCode/209.Minimum Size Subarray Sum.md
+            - 215.Kth Largest Element in an Arra: Algorithm/LeetCode/215.Kth Largest Element in an Array.md
+            - 225.Implement Stack using Queue: Algorithm/LeetCode/225.Implement Stack using Queues.md
+            - 226.Invert Binary Tre: Algorithm/LeetCode/226.Invert Binary Tree.md
+            - 230.Kth Smallest Element in a BS: Algorithm/LeetCode/230.Kth Smallest Element in a BST.md
+            - 231.Power of Tw: Algorithm/LeetCode/231.Power of Two.md
+            - 232. Implement Queue using Stacks: Algorithm/LeetCode/232. Implement Queue using Stacks.md
+            - 234.Palindrome Linked List: Algorithm/LeetCode/234.Palindrome Linked List.md
+            - 235.Lowest Common Ancestor of a Binary Search Tree: Algorithm/LeetCode/235.Lowest Common Ancestor of a Binary Search Tree.md
+            - 236.Lowest Common Ancestor of a Binary Tree: Algorithm/LeetCode/236.Lowest Common Ancestor of a Binary Tree.md
+            - 237.Delete Node in a Linked List: Algorithm/LeetCode/237.Delete Node in a Linked List.md
+            - 238.Product of Array Except Self: Algorithm/LeetCode/238.Product of Array Except Self.md
+            - 239.Sliding Window Maximum: Algorithm/LeetCode/239.Sliding Window Maximum.md
+            - 240.Search a 2D Matrix II: Algorithm/LeetCode/240.Search a 2D Matrix II.md
+            - 241.Different Ways to Add Parentheses: Algorithm/LeetCode/241.Different Ways to Add Parentheses.md
+            - 246.Strobogrammatic Number: Algorithm/LeetCode/246.Strobogrammatic Number.md
+            - 247. Strobogrammatic Number II: Algorithm/LeetCode/247. Strobogrammatic Number II.md
+            - 248.Strobogrammatic Number III: Algorithm/LeetCode/248.Strobogrammatic Number III.md
+            - 249.Group Shifted Strings: Algorithm/LeetCode/249.Group Shifted Strings.md
+            - 250.Count Univalue Subtrees: Algorithm/LeetCode/250.Count Univalue Subtrees.md
+            - 253.Meeting Rooms II: Algorithm/LeetCode/253.Meeting Rooms II.md
+            - 258.Add Digits: Algorithm/LeetCode/258.Add Digits.md
+            - 260.Single Number III: Algorithm/LeetCode/260.Single Number III.md
+            - 263.Ugly Number: Algorithm/LeetCode/263.Ugly Number.md
+            - 264.Ugly Number II: Algorithm/LeetCode/264.Ugly Number II.md
+            - 268.Missing Number: Algorithm/LeetCode/268.Missing Number.md
+            - 273.Integer to English Words: Algorithm/LeetCode/273.Integer to English Words.md
+            - 274.H-Index: Algorithm/LeetCode/274.H-Index.md
+            - 275.H-Index II: Algorithm/LeetCode/275.H-Index II.md
+            - 278.First Bad Version: Algorithm/LeetCode/278.First Bad Version.md
+            - 279.Perfect Squares: Algorithm/LeetCode/279.Perfect Squares.md
+            - 283.Move Zeroes: Algorithm/LeetCode/283.Move Zeroes.md
+            - 287.Find the Duplicate Number: Algorithm/LeetCode/287.Find the Duplicate Number.md
+            - 289.Game of Life: Algorithm/LeetCode/289.Game of Life.md
+            - 295.Find Median from Data Stream: Algorithm/LeetCode/295.Find Median from Data Stream.md
+            - 297.Serialize and Deserialize Binary Tree: Algorithm/LeetCode/297.Serialize and Deserialize Binary Tree.md
+            - 315.Count of Smaller Numbers After Self: Algorithm/LeetCode/315.Count of Smaller Numbers After Self.md
+            - 316.Remove Duplicate Letters: Algorithm/LeetCode/316.Remove Duplicate Letters.md
+            - 325.Maximum Size Subarray Sum Equals k: Algorithm/LeetCode/325.Maximum Size Subarray Sum Equals k.md
+            - 328.Odd Even Linked List: Algorithm/LeetCode/328.Odd Even Linked List.md
+            - 337. House Robber III: Algorithm/LeetCode/337. House Robber III.md
+            - 338.Counting Bits: Algorithm/LeetCode/338.Counting Bits.md
+            - 344.Reverse String: Algorithm/LeetCode/344.Reverse String.md
+            - 349.Intersection of Two Arrays: Algorithm/LeetCode/349.Intersection of Two Arrays.md
+            - 350.Intersection of Two Arrays II: Algorithm/LeetCode/350.Intersection of Two Arrays II.md
+            - 355.Design Twitter: Algorithm/LeetCode/355.Design Twitter.md
+            - 363.Max Sum of Rectangle No Larger Than K: Algorithm/LeetCode/363.Max Sum of Rectangle No Larger Than K.md
+            - 365.Water and Jug Problem: Algorithm/LeetCode/365.Water and Jug Problem.md
+            - 367.Valid Perfect Square: Algorithm/LeetCode/367.Valid Perfect Square.md
+            - 371.Sum of Two Integers: Algorithm/LeetCode/371.Sum of Two Integers.md
+            - 374. Guess Number Higher or Lower: Algorithm/LeetCode/374. Guess Number Higher or Lower.md
+            - 375.Guess Number Higher or Lower II: Algorithm/LeetCode/375.Guess Number Higher or Lower II.md
+            - 378.Kth Smallest Element in a Sorted Matrix: Algorithm/LeetCode/378.Kth Smallest Element in a Sorted Matrix.md
+            - 380.Insert Delete GetRandom O(1): Algorithm/LeetCode/380.Insert Delete GetRandom O(1).md
+            - 392.Is Subsequence: Algorithm/LeetCode/392.Is Subsequence.md
+            - 394.Decode String: Algorithm/LeetCode/394.Decode String.md
+            - 402.Remove K Digits: Algorithm/LeetCode/402.Remove K Digits.md
+            - 409.Longest Palindrome: Algorithm/LeetCode/409.Longest Palindrome.md
+            - 410.Split Array Largest Sum: Algorithm/LeetCode/410.Split Array Largest Sum.md
+            - 429.N-ary Tree Level Order Traversal: Algorithm/LeetCode/429.N-ary Tree Level Order Traversal.md
+            - 437.Path Sum III: Algorithm/LeetCode/437.Path Sum III.md
+            - 438.Find All Anagrams in a String: Algorithm/LeetCode/438.Find All Anagrams in a String.md
+            - 441.Arranging Coins: Algorithm/LeetCode/441.Arranging Coins.md
+            - 445.Add Two Numbers II: Algorithm/LeetCode/445.Add Two Numbers II.md
+            - 451.Sort Characters By Frequency: Algorithm/LeetCode/451.Sort Characters By Frequency.md
+            - 475.Heaters: Algorithm/LeetCode/475.Heaters.md
+            - 476.Number Complement: Algorithm/LeetCode/476.Number Complement.md
+            - 477.Total Hamming Distance: Algorithm/LeetCode/477.Total Hamming Distance.md
+            - 498.Diagonal Traverse: Algorithm/LeetCode/498.Diagonal Traverse.md
+            - 509. Fibonacci Number: Algorithm/LeetCode/509. Fibonacci Number.md
+            - 525.Contiguous Array: Algorithm/LeetCode/525.Contiguous Array.md
+            - 541.Reverse String II: Algorithm/LeetCode/541.Reverse String II.md
+            - 542.01 Matrix: Algorithm/LeetCode/542.01 Matrix.md
+            - 543.Diameter of Binary Tree: Algorithm/LeetCode/543.Diameter of Binary Tree.md
+            - 544.Output Contest Matches: Algorithm/LeetCode/544.Output Contest Matches.md
+            - 559.Maximum Depth of N-ary Tree: Algorithm/LeetCode/559.Maximum Depth of N-ary Tree.md
+            - 560.Subarray Sum Equals K: Algorithm/LeetCode/560.Subarray Sum Equals K.md
+            - 567.Permutation in String: Algorithm/LeetCode/567.Permutation in String.md
+            - 572.Subtree of Another Tree: Algorithm/LeetCode/572.Subtree of Another Tree.md
+            - 589.N-ary Tree Preorder Traversal: Algorithm/LeetCode/589.N-ary Tree Preorder Traversal.md
+            - 590.N-ary Tree Postorder Traversal: Algorithm/LeetCode/590.N-ary Tree Postorder Traversal.md
+            - 611.Valid Triangle Number: Algorithm/LeetCode/611.Valid Triangle Number.md
+            - 625.Minimum Factorization: Algorithm/LeetCode/625.Minimum Factorization.md
+            - 641.Design Circular Deque: Algorithm/LeetCode/641.Design Circular Deque.md
+            - 650. 2 Keys Keyboard: Algorithm/LeetCode/650. 2 Keys Keyboard.md
+            - 658.Find K Closest Elements: Algorithm/LeetCode/658.Find K Closest Elements.md
+            - 668.Kth Smallest Number in Multiplication Table: Algorithm/LeetCode/668.Kth Smallest Number in Multiplication Table.md
+            - 674.Longest Continuous Increasing Subsequence: Algorithm/LeetCode/674.Longest Continuous Increasing Subsequence.md
+            - 678.Valid Parenthesis String: Algorithm/LeetCode/678.Valid Parenthesis String.md
+            - 680.Valid Palindrome II: Algorithm/LeetCode/680.Valid Palindrome II.md
+            - 687.Longest Univalue Path: Algorithm/LeetCode/687.Longest Univalue Path.md
+            - 695.Max Area of Island: Algorithm/LeetCode/695.Max Area of Island.md
+            - 700.Search in a Binary Search Tree: Algorithm/LeetCode/700.Search in a Binary Search Tree.md
+            - 703. Kth Largest Element in a Stream: Algorithm/LeetCode/703. Kth Largest Element in a Stream.md
+            - 712.Minimum ASCII Delete Sum for Two Strings: Algorithm/LeetCode/712.Minimum ASCII Delete Sum for Two Strings.md
+            - 716.Max Stack: Algorithm/LeetCode/716.Max Stack.md
+            - 718.Maximum Length of Repeated Subarray: Algorithm/LeetCode/718.Maximum Length of Repeated Subarray.md
+            - 719.Find K-th Smallest Pair Distance: Algorithm/LeetCode/719.Find K-th Smallest Pair Distance.md
+            - 749.Daily Temperatures: Algorithm/LeetCode/749.Daily Temperatures.md
+            - 771.Jewels and Stones: Algorithm/LeetCode/771.Jewels and Stones.md
+            - 784.Letter Case Permutation: Algorithm/LeetCode/784.Letter Case Permutation.md
+            - 796.Rotate String: Algorithm/LeetCode/796.Rotate String.md
+            - 820.Short Encoding of Words: Algorithm/LeetCode/820.Short Encoding of Words.md
+            - 832.Flipping an Image: Algorithm/LeetCode/832.Flipping an Image.md
+            - 836.Rectangle Overlap: Algorithm/LeetCode/836.Rectangle Overlap.md
+            - 844.Backspace String Compare: Algorithm/LeetCode/844.Backspace String Compare.md
+            - 848.Shifting Letters: Algorithm/LeetCode/848.Shifting Letters.md
+            - 862.Shortest Subarray with Sum at Least K: Algorithm/LeetCode/862.Shortest Subarray with Sum at Least K.md
+            - 876.Middle of the Linked List: Algorithm/LeetCode/876.Middle of the Linked List.md
+            - 881.Boats to Save People: Algorithm/LeetCode/881.Boats to Save People.md
+            - 886.Possible Bipartition: Algorithm/LeetCode/886.Possible Bipartition.md
+            - 889.Construct Binary Tree from Preorder and Postorder Traversal: Algorithm/LeetCode/889.Construct Binary Tree from Preorder and Postorder Traversal.md
+            - 892.Surface Area of 3D Shapes: Algorithm/LeetCode/892.Surface Area of 3D Shapes.md
+            - 901.Online Stock Span: Algorithm/LeetCode/901.Online Stock Span.md
+            - 905.Sort Array By Parity: Algorithm/LeetCode/905.Sort Array By Parity.md
+            - 914.X of a Kind in a Deck of Cards: Algorithm/LeetCode/914.X of a Kind in a Deck of Cards.md
+            - 921. Minimum Add to Make Parentheses Valid: Algorithm/LeetCode/921. Minimum Add to Make Parentheses Valid.md
+            - 945.Minimum Increment to Make Array Unique: Algorithm/LeetCode/945.Minimum Increment to Make Array Unique.md
+            - 946.Validate Stack Sequences: Algorithm/LeetCode/946.Validate Stack Sequences.md
+            - 957.Prison Cells After N Days: Algorithm/LeetCode/957.Prison Cells After N Days.md
+            - 974.Subarray Sums Divisible by K: Algorithm/LeetCode/974.Subarray Sums Divisible by K.md
+            - 976.Largest Perimeter Triangle: Algorithm/LeetCode/976.Largest Perimeter Triangle.md
+            - 986.Interval List Intersections: Algorithm/LeetCode/986.Interval List Intersections.md
+            - 987.Vertical Order Traversal of a Binary Tree: Algorithm/LeetCode/987.Vertical Order Traversal of a Binary Tree.md
+            - 993.Cousins in Binary Tree: Algorithm/LeetCode/993.Cousins in Binary Tree.md
+            - 994.Rotting Oranges: Algorithm/LeetCode/994.Rotting Oranges.md
+            - 999. Available Captures for Rook: Algorithm/LeetCode/999. Available Captures for Rook.md
+            - 1002.Find Common Characters: Algorithm/LeetCode/1002.Find Common Characters.md
+            - 1008.Construct Binary Search Tree from Preorder Traversal: Algorithm/LeetCode/1008.Construct Binary Search Tree from Preorder Traversal.md
+            - 1009.Complement of Base 10 Integer: Algorithm/LeetCode/1009.Complement of Base 10 Integer.md
+            - 1013.Partition Array Into Three Parts With Equal Sum: Algorithm/LeetCode/1013.Partition Array Into Three Parts With Equal Sum.md
+            - 1014.Best Sightseeing Pair: Algorithm/LeetCode/1014.Best Sightseeing Pair.md
+            - 1028.Recover a Tree From Preorder Traversal: Algorithm/LeetCode/1028.Recover a Tree From Preorder Traversal.md
+            - 1029.Two City Scheduling: Algorithm/LeetCode/1029.Two City Scheduling.md
+            - 1046.Last Stone Weight: Algorithm/LeetCode/1046.Last Stone Weight.md
+            - 1071.Greatest Common Divisor of Strings: Algorithm/LeetCode/1071.Greatest Common Divisor of Strings.md
+            - 1095.Find in Mountain Array: Algorithm/LeetCode/1095.Find in Mountain Array.md
+            - 1103.Distribute Candies to People.: Algorithm/LeetCode/1103.Distribute Candies to People.md
+            - 1111.Maximum Nesting Depth of Two Valid Parentheses Strings: Algorithm/LeetCode/1111.Maximum Nesting Depth of Two Valid Parentheses Strings.md
+            - 1162.As Far from Land as Possible: Algorithm/LeetCode/1162.As Far from Land as Possible.md
+            - 1170.Compare Strings by Frequency of the Smallest Character: Algorithm/LeetCode/1170.Compare Strings by Frequency of the Smallest Character.md
+            - 1172.Dinner Plate Stacks: Algorithm/LeetCode/1172.Dinner Plate Stacks.md
+            - 1201.Ugly Number III: Algorithm/LeetCode/1201.Ugly Number III.md
+            - 1248.Count Number of Nice Subarrays: Algorithm/LeetCode/1248.Count Number of Nice Subarrays.md
+            - 1260.Shift 2D Grid: Algorithm/LeetCode/1260.Shift 2D Grid.md
+            - 1377.Frog Position After T Seconds: Algorithm/LeetCode/1377.Frog Position After T Seconds.md
+            - 1381.Design a Stack With Increment Operation: Algorithm/LeetCode/1381.Design a Stack With Increment Operation.md
+            - 1408.String Matching in an Array: Algorithm/LeetCode/1408.String Matching in an Array.md
+            - 1409.Queries on a Permutation With Key: Algorithm/LeetCode/1409.Queries on a Permutation With Key.md
+            - 1410.HTML Entity Parser: Algorithm/LeetCode/1410.HTML Entity Parser.md
+            - 1419.Minimum Number of Frogs Croaking: Algorithm/LeetCode/1419.Minimum Number of Frogs Croaking.md
+            - 1423.Maximum Points You Can Obtain from Cards: Algorithm/LeetCode/1423.Maximum Points You Can Obtain from Cards.md
+            - 1424.Diagonal Traverse II: Algorithm/LeetCode/1424.Diagonal Traverse II.md
+            - 1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts: Algorithm/LeetCode/1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md
+            - 1427.Perform String Shifts: Algorithm/LeetCode/1427.Perform String Shifts.md
+            - 1428.Leftmost Column with at Least a One: Algorithm/LeetCode/1428.Leftmost Column with at Least a One.md
+            - 1429.First Unique Number: Algorithm/LeetCode/1429.First Unique Number.md
+            - 1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree: Algorithm/LeetCode/1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree.md
+            - 1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit: Algorithm/LeetCode/1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md
+            - 1443.Minimum Time to Collect All Apples in a Tree: Algorithm/LeetCode/1443.Minimum Time to Collect All Apples in a Tree.md
+            - 1451.Rearrange Words in a Sentence: Algorithm/LeetCode/1451.Rearrange Words in a Sentence.md
+            - 1452.People Whose List of Favorite Companies Is Not a Subset of Another List: Algorithm/LeetCode/1452.People Whose List of Favorite Companies Is Not a Subset of Another List.md
+            - 1456.Maximum Number of Vowels in a Substring of Given Length: Algorithm/LeetCode/1456.Maximum Number of Vowels in a Substring of Given Length.md
+            - 1457.Pseudo-Palindromic Paths in a Binary Tree: Algorithm/LeetCode/1457.Pseudo-Palindromic Paths in a Binary Tree.md
+            - 1466.Reorder Routes to Make All Paths Lead to the City Zero: Algorithm/LeetCode/1466.Reorder Routes to Make All Paths Lead to the City Zero.md
+            - 1467.Probability of a Two Boxes Having The Same Number of Distinct Balls: Algorithm/LeetCode/1467.Probability of a Two Boxes Having The Same Number of Distinct Balls.md
+            - 1474.Delete N Nodes After M Nodes of a Linked List: Algorithm/LeetCode/1474.Delete N Nodes After M Nodes of a Linked List.md
+            - 1475.Final Prices With a Special Discount in a Shop: Algorithm/LeetCode/1475.Final Prices With a Special Discount in a Shop.md
+            - 1476.Subrectangle Queries: Algorithm/LeetCode/1476.Subrectangle Queries.md
+            - 1477.Find Two Non-overlapping Sub-arrays Each With Target Sum: Algorithm/LeetCode/1477.Find Two Non-overlapping Sub-arrays Each With Target Sum.md
+            - 1478.Allocate Mailboxes: Algorithm/LeetCode/1478.Allocate Mailboxes.md
+            - 1480.Running Sum of 1d Array: Algorithm/LeetCode/1480.Running Sum of 1d Array.md
+            - 1481.Least Number of Unique Integers after K Removals: Algorithm/LeetCode/1481.Least Number of Unique Integers after K Removals.md
+            - 1482.Minimum Number of Days to Make m Bouquets: Algorithm/LeetCode/1482.Minimum Number of Days to Make m Bouquets.md
+            - 1483.Kth Ancestor of a Tree Node: Algorithm/LeetCode/1483.Kth Ancestor of a Tree Node.md
+            - 1484.Clone Binary Tree With Random Pointer: Algorithm/LeetCode/1484.Clone Binary Tree With Random Pointer.md
+            - 1487.Making File Names Unique: Algorithm/LeetCode/1487.Making File Names Unique.md
+            - 1490.Clone N-ary Tree: Algorithm/LeetCode/1490.Clone N-ary Tree.md
+            - 1496.Path Crossing: Algorithm/LeetCode/1496.Path Crossing.md
+            - 1497.Check If Array Pairs Are Divisible by k: Algorithm/LeetCode/1497.Check If Array Pairs Are Divisible by k.md
+            - 1498.Number of Subsequences That Satisfy the Given Sum Condition: Algorithm/LeetCode/1498.Number of Subsequences That Satisfy the Given Sum Condition.md
+            - 1499.Max Value of Equation: Algorithm/LeetCode/1499.Max Value of Equation.md
+            - 1502.Can Make Arithmetic Progression From Sequence: Algorithm/LeetCode/1502.Can Make Arithmetic Progression From Sequence.md
+            - 1503.Last Moment Before All Ants Fall Out of a Plank: Algorithm/LeetCode/1503.Last Moment Before All Ants Fall Out of a Plank.md
+            - 1504.Count Submatrices With All Ones: Algorithm/LeetCode/1504.Count Submatrices With All Ones.md
+            - LintCode-1604 两数最大和: Algorithm/LeetCode/LintCode-1604 两数最大和.md
+            - 面试题 10.01. 合并排序的数组: Algorithm/LeetCode/面试题 10.01. 合并排序的数组.md
+            - 面试题 16.03. 交点: Algorithm/LeetCode/面试题 16.03. 交点.md
+            - 面试题 16.11. 跳水板: Algorithm/LeetCode/面试题 16.11. 跳水板.md
+            - 面试题 17.26. 稀疏相似度: Algorithm/LeetCode/面试题 17.26. 稀疏相似度.md
+            - 面试题26. 树的子结构: Algorithm/LeetCode/面试题26. 树的子结构.md
+            - 面试题33. 二叉搜索树的后序遍历序列: Algorithm/LeetCode/面试题33. 二叉搜索树的后序遍历序列.md
+            - 面试题40. 最小的k个数: Algorithm/LeetCode/面试题40. 最小的k个数.md
+            - 面试题45. 把数组排成最小的数: Algorithm/LeetCode/面试题45. 把数组排成最小的数.md
+            - 面试题46. 把数字翻译成字符串: Algorithm/LeetCode/面试题46. 把数字翻译成字符串.md
+            - 面试题51. 数组中的逆序对: Algorithm/LeetCode/面试题51. 数组中的逆序对.md
+            - 面试题57 - II. 和为s的连续正数序列: Algorithm/LeetCode/面试题57 - II. 和为s的连续正数序列.md
+            - 面试题59 - II. 队列的最大值: Algorithm/LeetCode/面试题59 - II. 队列的最大值.md
+            - 面试题61. 扑克牌中的顺子: Algorithm/LeetCode/面试题61. 扑克牌中的顺子.md
+            - 面试题62.圆圈中最后剩下的数字: Algorithm/LeetCode/面试题62.圆圈中最后剩下的数字.md
+        - Project Euler: 
+            - Project Euler 1-Multiples of 3 and 5: Algorithm/Project-Euler/Project Euler 1-Multiples of 3 and 5.md
+            - Project Euler 2-Even Fibonacci numbers（斐波那契数计算+二分优化）: Algorithm/Project-Euler/Project Euler 2-Even Fibonacci numbers（斐波那契数计算+二分优化）.md
+            - Project Euler 3-Largest prime factor（质因数分解）: Algorithm/Project-Euler/Project Euler 3-Largest prime factor（质因数分解）.md
+            - Project Euler 4-Largest palindrome product（二分+回文数检验）: Algorithm/Project-Euler/Project Euler 4-Largest palindrome product（二分+回文数检验）.md
+            - Project Euler 5-Smallest multiple（哈希+快速幂+质数检验）: Algorithm/Project-Euler/Project Euler 5-Smallest multiple（哈希+快速幂+质数检验）.md
+            - Project Euler 6-Sum square difference（等差数列求和+平方和公式）: Algorithm/Project-Euler/Project Euler 6-Sum square difference（等差数列求和+平方和公式）.md
+            - Project Euler 7-10001st prime（6倍数素数筛选法）: Algorithm/Project-Euler/Project Euler 7-10001st prime（6倍数素数筛选法）.md
+            - Project Euler 8-Largest product in a series（滑动窗口）: Algorithm/Project-Euler/Project Euler 8-Largest product in a series（滑动窗口）.md
+            - Project Euler 9-Special Pythagorean triplet（GCD性质的应用）: Algorithm/Project-Euler/Project Euler 9-Special Pythagorean triplet（GCD性质的应用）.md
+            - Project Euler 10-Summation of primes（前缀和+二分）: Algorithm/Project-Euler/Project Euler 10-Summation of primes（前缀和+二分）.md
+            - Project Euler 11-Largest product in a grid（暴力搜索）: Algorithm/Project-Euler/Project Euler 11-Largest product in a grid（暴力搜索）.md
+            - Project Euler 13-Large sum（高精度或者模拟竖式加法）: Algorithm/Project-Euler/Project Euler 13-Large sum（高精度或者模拟竖式加法）.md
+            - Project Euler 14-Longest Collatz sequence（动态规划）: Algorithm/Project-Euler/Project Euler 14-Longest Collatz sequence（动态规划）.md
+            - Project Euler 15-Lattice paths（Pascal三角形，组合数计算）: Algorithm/Project-Euler/Project Euler 15-Lattice paths（Pascal三角形，组合数计算）.md
+            - Project Euler 16-Power digit sum（高精度和进制转换）: Algorithm/Project-Euler/Project Euler 16-Power digit sum（高精度和进制转换）.md
+            - Project Euler 17-Number to Words（贪心）: Algorithm/Project-Euler/Project Euler 17-Number to Words（贪心）.md
+            - Project Euler 18-Maximum path sum I（动态规划-数字三角形）: Algorithm/Project-Euler/Project Euler 18-Maximum path sum I（动态规划-数字三角形）.md 
         - 算法总结: 
             - 由数据范围反推算法复杂度以及算法内容: Algorithm/Algorithm-Analysis/1-由数据范围反推算法复杂度以及算法内容.md
             - 典型问题——各种优化: Algorithm/Algorithm-Analysis/典型问题——各种优化.md
@@ -127,7 +483,7 @@ nav:
             - 计算几何——固定半径圆能覆盖平面上的最大点数: Algorithm/Algorithm-Analysis/计算几何——固定半径圆能覆盖平面上的最大点数.md
             - 计算几何——平面分割问题: Algorithm/Algorithm-Analysis/计算几何——平面分割问题.md
             - 计算几何——平面最近点对: Algorithm/Algorithm-Analysis/计算几何——平面最近点对.md
-        - Problem-Solution:
+        - Problem Solution:
             - ALGOSPOT-ASYMILING（动态规划-非对称铺设）: Algorithm/Problem-Solution/ALGOSPOT-ASYMILING（动态规划-非对称铺设）.md
             - ALGOSPOT-PACKING(01背包，输出路径) : Algorithm/Problem-Solution/ALGOSPOT-PACKING(01背包，输出路径).md
             - ALGOSPOT-PICNIC(递归) : Algorithm/Problem-Solution/ALGOSPOT-PICNIC(递归).md
@@ -172,6 +528,7 @@ nav:
             - HDU-1503 Advanced Fruits(动态规划 最长公共子序列): Algorithm/Problem-Solution/HDU-1503 Advanced Fruits(动态规划 最长公共子序列).md
             - HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）: Algorithm/Problem-Solution/HDU-1506 Largest Rectangle in a Histogram（单调栈或笛卡尔树）.md
             - HDU-1517 A Multiplication Game（找规律，类似巴什博弈）: Algorithm/Problem-Solution/HDU-1517 A Multiplication Game（找规律，类似巴什博弈）.md
+            - HDU-1520 Anniversary party（树型DP经典入门题）: Algorithm/Problem-Solution/HDU-1520 Anniversary party（树型DP经典入门题）.md
             - HDU-1525 Euclid's Game（基础博弈）: Algorithm/Problem-Solution/HDU-1525 Euclid's Game（基础博弈）.md
             - HDU-1564 Play a game（找规律，基础博弈论）: Algorithm/Problem-Solution/HDU-1564 Play a game（找规律，基础博弈论）.md
             - HDU-1671 Phone List（单词查找树）: Algorithm/Problem-Solution/HDU-1671 Phone List（单词查找树）.md
@@ -182,9 +539,11 @@ nav:
             - HDU-2181 哈密顿绕行世界问题(哈密顿路径): Algorithm/Problem-Solution/HDU-2181 哈密顿绕行世界问题(哈密顿路径).md
             - HDU-2188 选拔志愿者（巴什博弈）: Algorithm/Problem-Solution/HDU-2188 选拔志愿者（巴什博弈）.md
             - HDU-2191 买大米（动态规划 多重背包）: Algorithm/Problem-Solution/HDU-2191 买大米（动态规划 多重背包）.md
+            - HDU-2196 Computer（树型DP，求树上最大距离）: Algorithm/Problem-Solution/HDU-2196 Computer（树型DP，求树上最大距离）.md
             - HDU-2222 Keywords Search (AC自动机): Algorithm/Problem-Solution/HDU-2222 Keywords Search (AC自动机).md
             - HDU-2399 GPA（格式化输出）: Algorithm/Problem-Solution/HDU-2399 GPA（格式化输出）.md
             - HDU-2602 Bone Collector（动态规划 01背包）: Algorithm/Problem-Solution/HDU-2602 Bone Collector（动态规划 01背包）.md
+            - HDU-2609 How many（字符串哈希 + 最小表示法）: Algorithm/Problem-Solution/HDU-2609 How many（字符串哈希 + 最小表示法）.md
             - HDU-2844 Coins（多重背包可过）: Algorithm/Problem-Solution/HDU-2844 Coins（多重背包可过）.md
             - HDU-2896 病毒侵袭（AC自动机）: Algorithm/Problem-Solution/HDU-2896 病毒侵袭（AC自动机）.md
             - HDU-3089 Josephus again（约瑟夫问题-优化）: Algorithm/Problem-Solution/HDU-3089 Josephus again（约瑟夫问题-优化）.md
@@ -221,6 +580,7 @@ nav:
             - POJ-1862 Stripies(优先级队列，Huffman编码思想): Algorithm/Problem-Solution/POJ-1862 Stripies(优先级队列，Huffman编码思想).md
             - POJ-1915 Knight Moves（迷宫型BFS）: Algorithm/Problem-Solution/POJ-1915 Knight Moves（迷宫型BFS）.md
             - POJ-1979 Red and Black(DFS 最大连通区域类问题): Algorithm/Problem-Solution/POJ-1979 Red and Black(DFS 最大连通区域类问题).md
+            - POJ-1995 Raising Modulo Numbers（快速幂）: Algorithm/Problem-Solution/POJ-1995 Raising Modulo Numbers（快速幂）.md
             - POJ-2010 Moo University - Financial Aid（优先级队列）: Algorithm/Problem-Solution/POJ-2010 Moo University - Financial Aid（优先级队列）.md
             - POJ-2049 Finding Nemo(BFS): Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS).md
             - POJ-2049 Finding Nemo(BFS最短路径): Algorithm/Problem-Solution/POJ-2049 Finding Nemo(BFS最短路径).md
@@ -235,6 +595,7 @@ nav:
             - POJ-2392 Space Elevator（多重背包存在性）: Algorithm/Problem-Solution/POJ-2392 Space Elevator（多重背包存在性）.md
             - POJ-2393 Yogurt factory（贪心）: Algorithm/Problem-Solution/POJ-2393 Yogurt factory（贪心）.md
             - POJ-2406 Power Strings(KMP算法): Algorithm/Problem-Solution/POJ-2406 Power Strings(KMP算法).md
+            - POJ-2411 Mondriaan's Dream（状态压缩DP）: Algorithm/Problem-Solution/POJ-2411 Mondriaan's Dream（状态压缩DP）.md
             - POJ-2431 Expedition（优先级队列）: Algorithm/Problem-Solution/POJ-2431 Expedition（优先级队列）.md
             - POJ-2453 An Easy Problem（位运算，集合的整数表示）: Algorithm/Problem-Solution/POJ-2453 An Easy Problem（位运算，集合的整数表示）.md
             - POJ-2456 Aggressive cows（二分，最大化最小值）: Algorithm/Problem-Solution/POJ-2456 Aggressive cows（二分，最大化最小值）.md
@@ -398,6 +759,7 @@ nav:
             - 一本通-1337：【例3-2】单词查找树: Algorithm/Problem-Solution/一本通-1337：【例3-2】单词查找树.md
             - 一本通-1339：【例3-4】求后序遍历: Algorithm/Problem-Solution/一本通-1339：【例3-4】求后序遍历.md
             - 一本通-1340：【例3-5】扩展二叉树: Algorithm/Problem-Solution/一本通-1340：【例3-5】扩展二叉树.md
+            - 一本通-1341：【例题】一笔画问题（欧拉路+路径输出）: Algorithm/Problem-Solution/一本通-1341：【例题】一笔画问题（欧拉路+路径输出）.md
             - 一本通-1359：围成面积（BFS + 加边法）: Algorithm/Problem-Solution/一本通-1359：围成面积（BFS + 加边法）.md
             - 一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）: Algorithm/Problem-Solution/一本通-1360：奇怪的电梯(lift)（BFS或dijkstra）.md
             - 一本通-1363：小球(drop)（满二叉树性质应用）: Algorithm/Problem-Solution/一本通-1363：小球(drop)（满二叉树性质应用）.md
@@ -428,6 +790,7 @@ nav:
             - 洛谷-P1259 黑白棋子的移动（基础分治）: Algorithm/Problem-Solution/洛谷-P1259 黑白棋子的移动（基础分治）.md
             - 洛谷-P1303 [模板] A乘B Problem: Algorithm/Problem-Solution/洛谷-P1303 [模板] A乘B Problem.md
             - 洛谷-P1323 删数问题（基础贪心）: Algorithm/Problem-Solution/洛谷-P1323 删数问题（基础贪心）.md
+            - 洛谷-P1352 没有上司的舞会（树型DP经典入门题）: Algorithm/Problem-Solution/洛谷-P1352 没有上司的舞会（树型DP经典入门题）.md
             - 洛谷-P1429 平面最近点对（加强版）: Algorithm/Problem-Solution/洛谷-P1429 平面最近点对（加强版）.md
             - 洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）: Algorithm/Problem-Solution/洛谷-P1439 [模板] 最长公共子序列（LCS优化版本）.md
             - 洛谷-P1480 [模板] A除以B Problem: Algorithm/Problem-Solution/洛谷-P1480 [模板] A除以B Problem.md
@@ -446,6 +809,7 @@ nav:
             - 洛谷-P2142 [模板] 高精度减法: Algorithm/Problem-Solution/洛谷-P2142 [模板] 高精度减法.md
             - 洛谷-P2827 蚯蚓（单调队列+延迟修改）: Algorithm/Problem-Solution/洛谷-P2827 蚯蚓（单调队列+延迟修改）.md
             - 洛谷-P3367 [模板] 并查集: Algorithm/Problem-Solution/洛谷-P3367 [模板] 并查集.md
+            - 洛谷-P3370 [模板] 字符串哈希: Algorithm/Problem-Solution/洛谷-P3370 [模板] 字符串哈希.md
             - 洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法) : Algorithm/Problem-Solution/洛谷-P3371 [模板] 单源最短路径（弱化版）(Bellman-Ford算法).md
             - 洛谷-P3372 [模板] 线段树1（区间修改+区间查询）: Algorithm/Problem-Solution/洛谷-P3372 [模板] 线段树1（区间修改+区间查询）.md
             - 洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）: Algorithm/Problem-Solution/洛谷-P3374 [模板] 树状数组1（单点修改，区间查询）.md
@@ -455,328 +819,12 @@ nav:
             - 洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）: Algorithm/Problem-Solution/洛谷-P5569 [SDOI2008]石子合并（区间DP-Garsia-Wachs算法）.md
             - 洛谷-P5788 [模板] 单调栈: Algorithm/Problem-Solution/洛谷-P5788 [模板] 单调栈.md
             - 洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）: Algorithm/Problem-Solution/洛谷-P6033 合并果子 加强版（输入输出外挂+基数排序+队列）.md
+            - 牛客-996A a^b(快速幂): Algorithm/Problem-Solution/牛客-996A a^b(快速幂).md
+            - 牛客-996C 64位整数乘法（快速幂）: Algorithm/Problem-Solution/牛客-996C 64位整数乘法（快速幂）.md
+            - 牛客-996D 最短Hamilton路径（状态压缩DP）: Algorithm/Problem-Solution/牛客-996D 最短Hamilton路径（状态压缩DP）.md
             - 牛客-998A 递归实现指数型枚举（递归）: Algorithm/Problem-Solution/牛客-998A 递归实现指数型枚举（递归）.md
             - 牛客-998B 递归实现组合型枚举(递归): Algorithm/Problem-Solution/牛客-998B 递归实现组合型枚举(递归).md
-        - LeetCode:
-            - 1.Two Sum: Algorithm/LeetCode/1.Two Sum.md
-            - 2.Add Two Numbers: Algorithm/LeetCode/2.Add Two Numbers.md
-            - 3.Longest Substring Without Repeating Characters: Algorithm/LeetCode/3.Longest Substring Without Repeating Characters.md
-            - 4.Median of Two Sorted Arrays: Algorithm/LeetCode/4.Median of Two Sorted Arrays.md
-            - 5.Longest Palindromic Substring: Algorithm/LeetCode/5.Longest Palindromic Substring.md
-            - 6.ZigZag Conversion: Algorithm/LeetCode/6.ZigZag Conversion.md
-            - 7.Reverse Integer: Algorithm/LeetCode/7.Reverse Integer.md
-            - 8.String to Integer (atoi): Algorithm/LeetCode/8.String to Integer (atoi).md
-            - 9.Palindrome Number: Algorithm/LeetCode/9.Palindrome Number.md
-            - 11.Container With Most Water: Algorithm/LeetCode/11.Container With Most Water.md
-            - 12.Integer to Roman: Algorithm/LeetCode/12.Integer to Roman.md
-            - 13.Roman to Integer: Algorithm/LeetCode/13.Roman to Integer.md
-            - 14.Longest Common Prefix: Algorithm/LeetCode/14.Longest Common Prefix.md
-            - 15.3Sum: Algorithm/LeetCode/15.3Sum.md
-            - 16.3Sum Closest: Algorithm/LeetCode/16.3Sum Closest.md
-            - 17.Letter Combinations of a Phone Number: Algorithm/LeetCode/17.Letter Combinations of a Phone Number.md
-            - 18.4Sum: Algorithm/LeetCode/18.4Sum.md
-            - 19.Remove Nth Node From End of List: Algorithm/LeetCode/19.Remove Nth Node From End of List.md
-            - 20.Valid Parentheses: Algorithm/LeetCode/20.Valid Parentheses.md
-            - 21.Merge Two Sorted Lists: Algorithm/LeetCode/21.Merge Two Sorted Lists.md
-            - 22.Generate Parentheses: Algorithm/LeetCode/22.Generate Parentheses.md
-            - 23.Merge k Sorted Lists: Algorithm/LeetCode/23.Merge k Sorted Lists.md
-            - 24.Swap Nodes in Pairs: Algorithm/LeetCode/24.Swap Nodes in Pairs.md
-            - 25.Reverse Nodes in k-Group: Algorithm/LeetCode/25.Reverse Nodes in k-Group.md
-            - 26.Remove Duplicates from Sorted Array: Algorithm/LeetCode/26.Remove Duplicates from Sorted Array.md
-            - 27. Remove Element: Algorithm/LeetCode/27. Remove Element.md
-            - 28.Implement strStr(): Algorithm/LeetCode/28.Implement strStr().md
-            - 29.Divide Two Integers: Algorithm/LeetCode/29.Divide Two Integers.md
-            - 30.Substring with Concatenation of All Words: Algorithm/LeetCode/30.Substring with Concatenation of All Words.md
-            - 31.Next Permutation: Algorithm/LeetCode/31.Next Permutation.md
-            - 33.Search in Rotated Sorted Array: Algorithm/LeetCode/33.Search in Rotated Sorted Array.md
-            - 34.Find First and Last Position of Element in Sorted Array: Algorithm/LeetCode/34.Find First and Last Position of Element in Sorted Array.md
-            - 35.Search Insert Position: Algorithm/LeetCode/35.Search Insert Position.md
-            - 36.Valid Sudoku: Algorithm/LeetCode/36.Valid Sudoku.md
-            - 38.Count and Say: Algorithm/LeetCode/38.Count and Say.md
-            - 39.Combination Sum: Algorithm/LeetCode/39.Combination Sum.md
-            - 40.Combination Sum II: Algorithm/LeetCode/40.Combination Sum II.md
-            - 41.First Missing Positive: Algorithm/LeetCode/41.First Missing Positive.md
-            - 42.Trapping Rain Water: Algorithm/LeetCode/42.Trapping Rain Water.md
-            - 43.Multiply Strings: Algorithm/LeetCode/43.Multiply Strings.md
-            - 44.Wildcard Matching: Algorithm/LeetCode/44.Wildcard Matching.md
-            - 45.Jump Game II: Algorithm/LeetCode/45.Jump Game II.md
-            - 46.Permutations: Algorithm/LeetCode/46.Permutations.md
-            - 47.Permutations II: Algorithm/LeetCode/47.Permutations II.md
-            - 48.Rotate Image: Algorithm/LeetCode/48.Rotate Image.md
-            - 49.Group Anagrams: Algorithm/LeetCode/49.Group Anagrams.md
-            - 50.Pow(x, n): Algorithm/LeetCode/50.Pow(x, n).md
-            - 51.N-Queens: Algorithm/LeetCode/51.N-Queens.md
-            - 54.Spiral Matrix: Algorithm/LeetCode/54.Spiral Matrix.md
-            - 55.Jump Game: Algorithm/LeetCode/55.Jump Game.md
-            - 56.Merge Intervals: Algorithm/LeetCode/56.Merge Intervals.md
-            - 57.Insert Interval: Algorithm/LeetCode/57.Insert Interval.md
-            - 58.Length of Last Word: Algorithm/LeetCode/58.Length of Last Word.md
-            - 59.Spiral Matrix II: Algorithm/LeetCode/59.Spiral Matrix II.md
-            - 60.Permutation Sequence: Algorithm/LeetCode/60.Permutation Sequence.md
-            - 61.Rotate List: Algorithm/LeetCode/61.Rotate List.md
-            - 66.Plus One: Algorithm/LeetCode/66.Plus One.md
-            - 69.Sqrt(x): Algorithm/LeetCode/69.Sqrt(x).md
-            - 71.Simplify Path: Algorithm/LeetCode/71.Simplify Path.md
-            - 73.Set Matrix Zeroes: Algorithm/LeetCode/73.Set Matrix Zeroes.md
-            - 74.Search a 2D Matrix: Algorithm/LeetCode/74.Search a 2D Matrix.md
-            - 75.Sort Colors: Algorithm/LeetCode/75.Sort Colors.md
-            - 76.Minimum Window Substring: Algorithm/LeetCode/76.Minimum Window Substring.md
-            - 79.Word Search: Algorithm/LeetCode/79.Word Search.md
-            - 80. Remove Duplicates from Sorted Array II: Algorithm/LeetCode/80. Remove Duplicates from Sorted Array II.md
-            - 81.Search in Rotated Sorted Array II: Algorithm/LeetCode/81.Search in Rotated Sorted Array II.md
-            - 82.Remove Duplicates from Sorted List II: Algorithm/LeetCode/82.Remove Duplicates from Sorted List II.md
-            - 83.Remove Duplicates from Sorted List: Algorithm/LeetCode/83.Remove Duplicates from Sorted List.md
-            - 84.Largest Rectangle in Histogram: Algorithm/LeetCode/84.Largest Rectangle in Histogram.md
-            - 85.Maximal Rectangle: Algorithm/LeetCode/85.Maximal Rectangle.md
-            - 86.Partition List: Algorithm/LeetCode/86.Partition List.md
-            - 88.Merge Sorted Array: Algorithm/LeetCode/88.Merge Sorted Array.md
-            - 89.Gray Code: Algorithm/LeetCode/89.Gray Code.md
-            - 92.Reverse Linked List II: Algorithm/LeetCode/92.Reverse Linked List II.md
-            - 93.Restore IP Addresses: Algorithm/LeetCode/93.Restore IP Addresses.md
-            - 94.Binary Tree Inorder Traversal: Algorithm/LeetCode/94.Binary Tree Inorder Traversal.md
-            - 95.Unique Binary Search Trees II: Algorithm/LeetCode/95.Unique Binary Search Trees II.md
-            - 96.Unique Binary Search Trees: Algorithm/LeetCode/96.Unique Binary Search Trees.md
-            - 98.Validate Binary Search Tree: Algorithm/LeetCode/98.Validate Binary Search Tree.md
-            - 99.Recover Binary Search Tree: Algorithm/LeetCode/99.Recover Binary Search Tree.md
-            - 100.Same Tree: Algorithm/LeetCode/100.Same Tree.md
-            - 101.Symmetric Tree: Algorithm/LeetCode/101.Symmetric Tree.md
-            - 102.Binary Tree Level Order Traversal: Algorithm/LeetCode/102.Binary Tree Level Order Traversal.md
-            - 103.Binary Tree Zigzag Level Order Traversal: Algorithm/LeetCode/103.Binary Tree Zigzag Level Order Traversal.md
-            - 104.Maximum Depth of Binary Tree: Algorithm/LeetCode/104.Maximum Depth of Binary Tree.md
-            - 105.Construct Binary Tree from Preorder and Inorder Traversal: Algorithm/LeetCode/105.Construct Binary Tree from Preorder and Inorder Traversal.md
-            - 106.Construct Binary Tree from Inorder and Postorder Traversal: Algorithm/LeetCode/106.Construct Binary Tree from Inorder and Postorder Traversal.md
-            - 107.Binary Tree Level Order Traversal II: Algorithm/LeetCode/107.Binary Tree Level Order Traversal II.md
-            - 108.Convert Sorted Array to Binary Search Tree: Algorithm/LeetCode/108.Convert Sorted Array to Binary Search Tree.md
-            - 109.Convert Sorted List to Binary Search Tree: Algorithm/LeetCode/109.Convert Sorted List to Binary Search Tree.md
-            - 110.Balanced Binary Tree: Algorithm/LeetCode/110.Balanced Binary Tree.md
-            - 111.Minimum Depth of Binary Tree: Algorithm/LeetCode/111.Minimum Depth of Binary Tree.md
-            - 112.Path Sum: Algorithm/LeetCode/112.Path Sum.md
-            - 113.Path Sum II: Algorithm/LeetCode/113.Path Sum II.md
-            - 114. Flatten Binary Tree to Linked List: Algorithm/LeetCode/114. Flatten Binary Tree to Linked List.md
-            - 116.Populating Next Right Pointers in Each Node: Algorithm/LeetCode/116.Populating Next Right Pointers in Each Node.md
-            - 117.Populating Next Right Pointers in Each Node II: Algorithm/LeetCode/117.Populating Next Right Pointers in Each Node II.md
-            - 118.Pascal's Triangle: Algorithm/LeetCode/118.Pascal's Triangle.md
-            - 119.Pascal's Triangle II: Algorithm/LeetCode/119.Pascal's Triangle II.md
-            - 122.Best Time to Buy and Sell Stock II: Algorithm/LeetCode/122.Best Time to Buy and Sell Stock II.md
-            - 124.Binary Tree Maximum Path Sum: Algorithm/LeetCode/124.Binary Tree Maximum Path Sum.md
-            - 126.Word Ladder II: Algorithm/LeetCode/126.Word Ladder II.md
-            - 127.Word Ladder: Algorithm/LeetCode/127.Word Ladder.md
-            - 128.Longest Consecutive Sequence: Algorithm/LeetCode/128.Longest Consecutive Sequence.md
-            - 129.Sum Root to Leaf Numbers: Algorithm/LeetCode/129.Sum Root to Leaf Numbers.md
-            - 134.Gas Station: Algorithm/LeetCode/134.Gas Station.md
-            - 135.Candy: Algorithm/LeetCode/135.Candy.md
-            - 136.Single Number: Algorithm/LeetCode/136.Single Number.md
-            - 137.Single Number II: Algorithm/LeetCode/137.Single Number II.md
-            - 138.Copy List with Random Pointer: Algorithm/LeetCode/138.Copy List with Random Pointer.md
-            - 140.Word Break II: Algorithm/LeetCode/140.Word Break II.md
-            - 141.Linked List Cycle: Algorithm/LeetCode/141.Linked List Cycle.md
-            - 142.Linked List Cycle II: Algorithm/LeetCode/142.Linked List Cycle II.md
-            - 143.Reorder List: Algorithm/LeetCode/143.Reorder List.md
-            - 144.Binary Tree Preorder Traversal: Algorithm/LeetCode/144.Binary Tree Preorder Traversal.md
-            - 145.Binary Tree Postorder Traversal: Algorithm/LeetCode/145.Binary Tree Postorder Traversal.md
-            - 146.LRU Cache: Algorithm/LeetCode/146.LRU Cache.md
-            - 148.Sort List: Algorithm/LeetCode/148.Sort List.md
-            - 150.Evaluate Reverse Polish Notation: Algorithm/LeetCode/150.Evaluate Reverse Polish Notation.md
-            - 151.Reverse Words in a String: Algorithm/LeetCode/151.Reverse Words in a String.md
-            - 153.Find Minimum in Rotated Sorted Array: Algorithm/LeetCode/153.Find Minimum in Rotated Sorted Array.md
-            - 154.Find Minimum in Rotated Sorted Array II: Algorithm/LeetCode/154.Find Minimum in Rotated Sorted Array II.md
-            - 155.Min Stack: Algorithm/LeetCode/155.Min Stack.md
-            - 156.Binary Tree Upside Down: Algorithm/LeetCode/156.Binary Tree Upside Down.md
-            - 160.Intersection of Two Linked Lists: Algorithm/LeetCode/160.Intersection of Two Linked Lists.md
-            - 169.Majority Element: Algorithm/LeetCode/169.Majority Element.md
-            - 170.Two Sum III - Data structure design: Algorithm/LeetCode/170.Two Sum III - Data structure design.md
-            - 190.Reverse Bits: Algorithm/LeetCode/190.Reverse Bits.md
-            - 191.Number of 1 Bits: Algorithm/LeetCode/191.Number of 1 Bits.md
-            - 199.Binary Tree Right Side View: Algorithm/LeetCode/199.Binary Tree Right Side View.md
-            - 200.Number of Islands: Algorithm/LeetCode/200.Number of Islands.md
-            - 201.Bitwise AND of Numbers Range: Algorithm/LeetCode/201.Bitwise AND of Numbers Range.md
-            - 202.Happy Number: Algorithm/LeetCode/202.Happy Number.md
-            - 206.Reverse Linked List: Algorithm/LeetCode/206.Reverse Linked List.md
-            - 208.Implement Trie (Prefix Tree): Algorithm/LeetCode/208.Implement Trie (Prefix Tree).md
-            - 209.Minimum Size Subarray Sum: Algorithm/LeetCode/209.Minimum Size Subarray Sum.md
-            - 215.Kth Largest Element in an Arra: Algorithm/LeetCode/215.Kth Largest Element in an Array.md
-            - 225.Implement Stack using Queue: Algorithm/LeetCode/225.Implement Stack using Queues.md
-            - 226.Invert Binary Tre: Algorithm/LeetCode/226.Invert Binary Tree.md
-            - 230.Kth Smallest Element in a BS: Algorithm/LeetCode/230.Kth Smallest Element in a BST.md
-            - 231.Power of Tw: Algorithm/LeetCode/231.Power of Two.md
-            - 232. Implement Queue using Stacks: Algorithm/LeetCode/232. Implement Queue using Stacks.md
-            - 234.Palindrome Linked List: Algorithm/LeetCode/234.Palindrome Linked List.md
-            - 235.Lowest Common Ancestor of a Binary Search Tree: Algorithm/LeetCode/235.Lowest Common Ancestor of a Binary Search Tree.md
-            - 236.Lowest Common Ancestor of a Binary Tree: Algorithm/LeetCode/236.Lowest Common Ancestor of a Binary Tree.md
-            - 237.Delete Node in a Linked List: Algorithm/LeetCode/237.Delete Node in a Linked List.md
-            - 238.Product of Array Except Self: Algorithm/LeetCode/238.Product of Array Except Self.md
-            - 239.Sliding Window Maximum: Algorithm/LeetCode/239.Sliding Window Maximum.md
-            - 240.Search a 2D Matrix II: Algorithm/LeetCode/240.Search a 2D Matrix II.md
-            - 241.Different Ways to Add Parentheses: Algorithm/LeetCode/241.Different Ways to Add Parentheses.md
-            - 246.Strobogrammatic Number: Algorithm/LeetCode/246.Strobogrammatic Number.md
-            - 247. Strobogrammatic Number II: Algorithm/LeetCode/247. Strobogrammatic Number II.md
-            - 248.Strobogrammatic Number III: Algorithm/LeetCode/248.Strobogrammatic Number III.md
-            - 249.Group Shifted Strings: Algorithm/LeetCode/249.Group Shifted Strings.md
-            - 250.Count Univalue Subtrees: Algorithm/LeetCode/250.Count Univalue Subtrees.md
-            - 253.Meeting Rooms II: Algorithm/LeetCode/253.Meeting Rooms II.md
-            - 258.Add Digits: Algorithm/LeetCode/258.Add Digits.md
-            - 260.Single Number III: Algorithm/LeetCode/260.Single Number III.md
-            - 268.Missing Number: Algorithm/LeetCode/268.Missing Number.md
-            - 273.Integer to English Words: Algorithm/LeetCode/273.Integer to English Words.md
-            - 278.First Bad Version: Algorithm/LeetCode/278.First Bad Version.md
-            - 279.Perfect Squares: Algorithm/LeetCode/279.Perfect Squares.md
-            - 283.Move Zeroes: Algorithm/LeetCode/283.Move Zeroes.md
-            - 287.Find the Duplicate Number: Algorithm/LeetCode/287.Find the Duplicate Number.md
-            - 289.Game of Life: Algorithm/LeetCode/289.Game of Life.md
-            - 295.Find Median from Data Stream: Algorithm/LeetCode/295.Find Median from Data Stream.md
-            - 315.Count of Smaller Numbers After Self: Algorithm/LeetCode/315.Count of Smaller Numbers After Self.md
-            - 316.Remove Duplicate Letters: Algorithm/LeetCode/316.Remove Duplicate Letters.md
-            - 325.Maximum Size Subarray Sum Equals k: Algorithm/LeetCode/325.Maximum Size Subarray Sum Equals k.md
-            - 328.Odd Even Linked List: Algorithm/LeetCode/328.Odd Even Linked List.md
-            - 337. House Robber III: Algorithm/LeetCode/337. House Robber III.md
-            - 338.Counting Bits: Algorithm/LeetCode/338.Counting Bits.md
-            - 344.Reverse String: Algorithm/LeetCode/344.Reverse String.md
-            - 349.Intersection of Two Arrays: Algorithm/LeetCode/349.Intersection of Two Arrays.md
-            - 350.Intersection of Two Arrays II: Algorithm/LeetCode/350.Intersection of Two Arrays II.md
-            - 355.Design Twitter: Algorithm/LeetCode/355.Design Twitter.md
-            - 363.Max Sum of Rectangle No Larger Than K: Algorithm/LeetCode/363.Max Sum of Rectangle No Larger Than K.md
-            - 365.Water and Jug Problem: Algorithm/LeetCode/365.Water and Jug Problem.md
-            - 367.Valid Perfect Square: Algorithm/LeetCode/367.Valid Perfect Square.md
-            - 371.Sum of Two Integers: Algorithm/LeetCode/371.Sum of Two Integers.md
-            - 374. Guess Number Higher or Lower: Algorithm/LeetCode/374. Guess Number Higher or Lower.md
-            - 375.Guess Number Higher or Lower II: Algorithm/LeetCode/375.Guess Number Higher or Lower II.md
-            - 378.Kth Smallest Element in a Sorted Matrix: Algorithm/LeetCode/378.Kth Smallest Element in a Sorted Matrix.md
-            - 380.Insert Delete GetRandom O(1): Algorithm/LeetCode/380.Insert Delete GetRandom O(1).md
-            - 392.Is Subsequence: Algorithm/LeetCode/392.Is Subsequence.md
-            - 394.Decode String: Algorithm/LeetCode/394.Decode String.md
-            - 402.Remove K Digits: Algorithm/LeetCode/402.Remove K Digits.md
-            - 409.Longest Palindrome: Algorithm/LeetCode/409.Longest Palindrome.md
-            - 410.Split Array Largest Sum: Algorithm/LeetCode/410.Split Array Largest Sum.md
-            - 429.N-ary Tree Level Order Traversal: Algorithm/LeetCode/429.N-ary Tree Level Order Traversal.md
-            - 437.Path Sum III: Algorithm/LeetCode/437.Path Sum III.md
-            - 438.Find All Anagrams in a String: Algorithm/LeetCode/438.Find All Anagrams in a String.md
-            - 441.Arranging Coins: Algorithm/LeetCode/441.Arranging Coins.md
-            - 445.Add Two Numbers II: Algorithm/LeetCode/445.Add Two Numbers II.md
-            - 451.Sort Characters By Frequency: Algorithm/LeetCode/451.Sort Characters By Frequency.md
-            - 475.Heaters: Algorithm/LeetCode/475.Heaters.md
-            - 476.Number Complement: Algorithm/LeetCode/476.Number Complement.md
-            - 477.Total Hamming Distance: Algorithm/LeetCode/477.Total Hamming Distance.md
-            - 498.Diagonal Traverse: Algorithm/LeetCode/498.Diagonal Traverse.md
-            - 509. Fibonacci Number: Algorithm/LeetCode/509. Fibonacci Number.md
-            - 525.Contiguous Array: Algorithm/LeetCode/525.Contiguous Array.md
-            - 541.Reverse String II: Algorithm/LeetCode/541.Reverse String II.md
-            - 542.01 Matrix: Algorithm/LeetCode/542.01 Matrix.md
-            - 543.Diameter of Binary Tree: Algorithm/LeetCode/543.Diameter of Binary Tree.md
-            - 544.Output Contest Matches: Algorithm/LeetCode/544.Output Contest Matches.md
-            - 559.Maximum Depth of N-ary Tree: Algorithm/LeetCode/559.Maximum Depth of N-ary Tree.md
-            - 560.Subarray Sum Equals K: Algorithm/LeetCode/560.Subarray Sum Equals K.md
-            - 567.Permutation in String: Algorithm/LeetCode/567.Permutation in String.md
-            - 572.Subtree of Another Tree: Algorithm/LeetCode/572.Subtree of Another Tree.md
-            - 589.N-ary Tree Preorder Traversal: Algorithm/LeetCode/589.N-ary Tree Preorder Traversal.md
-            - 590.N-ary Tree Postorder Traversal: Algorithm/LeetCode/590.N-ary Tree Postorder Traversal.md
-            - 611.Valid Triangle Number: Algorithm/LeetCode/611.Valid Triangle Number.md
-            - 625.Minimum Factorization: Algorithm/LeetCode/625.Minimum Factorization.md
-            - 641.Design Circular Deque: Algorithm/LeetCode/641.Design Circular Deque.md
-            - 650. 2 Keys Keyboard: Algorithm/LeetCode/650. 2 Keys Keyboard.md
-            - 658.Find K Closest Elements: Algorithm/LeetCode/658.Find K Closest Elements.md
-            - 668.Kth Smallest Number in Multiplication Table: Algorithm/LeetCode/668.Kth Smallest Number in Multiplication Table.md
-            - 674.Longest Continuous Increasing Subsequence: Algorithm/LeetCode/674.Longest Continuous Increasing Subsequence.md
-            - 678.Valid Parenthesis String: Algorithm/LeetCode/678.Valid Parenthesis String.md
-            - 680.Valid Palindrome II: Algorithm/LeetCode/680.Valid Palindrome II.md
-            - 687.Longest Univalue Path: Algorithm/LeetCode/687.Longest Univalue Path.md
-            - 695.Max Area of Island: Algorithm/LeetCode/695.Max Area of Island.md
-            - 703. Kth Largest Element in a Stream: Algorithm/LeetCode/703. Kth Largest Element in a Stream.md
-            - 716.Max Stack: Algorithm/LeetCode/716.Max Stack.md
-            - 719.Find K-th Smallest Pair Distance: Algorithm/LeetCode/719.Find K-th Smallest Pair Distance.md
-            - 749.Daily Temperatures: Algorithm/LeetCode/749.Daily Temperatures.md
-            - 771.Jewels and Stones: Algorithm/LeetCode/771.Jewels and Stones.md
-            - 784.Letter Case Permutation: Algorithm/LeetCode/784.Letter Case Permutation.md
-            - 796.Rotate String: Algorithm/LeetCode/796.Rotate String.md
-            - 820.Short Encoding of Words: Algorithm/LeetCode/820.Short Encoding of Words.md
-            - 832.Flipping an Image: Algorithm/LeetCode/832.Flipping an Image.md
-            - 836.Rectangle Overlap: Algorithm/LeetCode/836.Rectangle Overlap.md
-            - 844.Backspace String Compare: Algorithm/LeetCode/844.Backspace String Compare.md
-            - 848.Shifting Letters: Algorithm/LeetCode/848.Shifting Letters.md
-            - 862.Shortest Subarray with Sum at Least K: Algorithm/LeetCode/862.Shortest Subarray with Sum at Least K.md
-            - 876.Middle of the Linked List: Algorithm/LeetCode/876.Middle of the Linked List.md
-            - 881.Boats to Save People: Algorithm/LeetCode/881.Boats to Save People.md
-            - 886.Possible Bipartition: Algorithm/LeetCode/886.Possible Bipartition.md
-            - 889.Construct Binary Tree from Preorder and Postorder Traversal: Algorithm/LeetCode/889.Construct Binary Tree from Preorder and Postorder Traversal.md
-            - 892.Surface Area of 3D Shapes: Algorithm/LeetCode/892.Surface Area of 3D Shapes.md
-            - 901.Online Stock Span: Algorithm/LeetCode/901.Online Stock Span.md
-            - 905.Sort Array By Parity: Algorithm/LeetCode/905.Sort Array By Parity.md
-            - 914.X of a Kind in a Deck of Cards: Algorithm/LeetCode/914.X of a Kind in a Deck of Cards.md
-            - 921. Minimum Add to Make Parentheses Valid: Algorithm/LeetCode/921. Minimum Add to Make Parentheses Valid.md
-            - 945.Minimum Increment to Make Array Unique: Algorithm/LeetCode/945.Minimum Increment to Make Array Unique.md
-            - 946.Validate Stack Sequences: Algorithm/LeetCode/946.Validate Stack Sequences.md
-            - 974.Subarray Sums Divisible by K: Algorithm/LeetCode/974.Subarray Sums Divisible by K.md
-            - 976.Largest Perimeter Triangle: Algorithm/LeetCode/976.Largest Perimeter Triangle.md
-            - 986.Interval List Intersections: Algorithm/LeetCode/986.Interval List Intersections.md
-            - 987.Vertical Order Traversal of a Binary Tree: Algorithm/LeetCode/987.Vertical Order Traversal of a Binary Tree.md
-            - 993.Cousins in Binary Tree: Algorithm/LeetCode/993.Cousins in Binary Tree.md
-            - 994.Rotting Oranges: Algorithm/LeetCode/994.Rotting Oranges.md
-            - 999. Available Captures for Rook: Algorithm/LeetCode/999. Available Captures for Rook.md
-            - 1002.Find Common Characters: Algorithm/LeetCode/1002.Find Common Characters.md
-            - 1008.Construct Binary Search Tree from Preorder Traversal: Algorithm/LeetCode/1008.Construct Binary Search Tree from Preorder Traversal.md
-            - 1009.Complement of Base 10 Integer: Algorithm/LeetCode/1009.Complement of Base 10 Integer.md
-            - 1013.Partition Array Into Three Parts With Equal Sum: Algorithm/LeetCode/1013.Partition Array Into Three Parts With Equal Sum.md
-            - 1029.Two City Scheduling: Algorithm/LeetCode/1029.Two City Scheduling.md
-            - 1046.Last Stone Weight: Algorithm/LeetCode/1046.Last Stone Weight.md
-            - 1071.Greatest Common Divisor of Strings: Algorithm/LeetCode/1071.Greatest Common Divisor of Strings.md
-            - 1095.Find in Mountain Array: Algorithm/LeetCode/1095.Find in Mountain Array.md
-            - 1103.Distribute Candies to People.: Algorithm/LeetCode/1103.Distribute Candies to People.md
-            - 1111.Maximum Nesting Depth of Two Valid Parentheses Strings: Algorithm/LeetCode/1111.Maximum Nesting Depth of Two Valid Parentheses Strings.md
-            - 1162.As Far from Land as Possible: Algorithm/LeetCode/1162.As Far from Land as Possible.md
-            - 1170.Compare Strings by Frequency of the Smallest Character: Algorithm/LeetCode/1170.Compare Strings by Frequency of the Smallest Character.md
-            - 1172.Dinner Plate Stacks: Algorithm/LeetCode/1172.Dinner Plate Stacks.md
-            - 1248.Count Number of Nice Subarrays: Algorithm/LeetCode/1248.Count Number of Nice Subarrays.md
-            - 1260.Shift 2D Grid: Algorithm/LeetCode/1260.Shift 2D Grid.md
-            - 1377.Frog Position After T Seconds: Algorithm/LeetCode/1377.Frog Position After T Seconds.md
-            - 1381.Design a Stack With Increment Operation: Algorithm/LeetCode/1381.Design a Stack With Increment Operation.md
-            - 1408.String Matching in an Array: Algorithm/LeetCode/1408.String Matching in an Array.md
-            - 1409.Queries on a Permutation With Key: Algorithm/LeetCode/1409.Queries on a Permutation With Key.md
-            - 1410.HTML Entity Parser: Algorithm/LeetCode/1410.HTML Entity Parser.md
-            - 1419.Minimum Number of Frogs Croaking: Algorithm/LeetCode/1419.Minimum Number of Frogs Croaking.md
-            - 1423.Maximum Points You Can Obtain from Cards: Algorithm/LeetCode/1423.Maximum Points You Can Obtain from Cards.md
-            - 1424.Diagonal Traverse II: Algorithm/LeetCode/1424.Diagonal Traverse II.md
-            - 1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts: Algorithm/LeetCode/1425.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md
-            - 1427.Perform String Shifts: Algorithm/LeetCode/1427.Perform String Shifts.md
-            - 1428.Leftmost Column with at Least a One: Algorithm/LeetCode/1428.Leftmost Column with at Least a One.md
-            - 1429.First Unique Number: Algorithm/LeetCode/1429.First Unique Number.md
-            - 1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree: Algorithm/LeetCode/1430.Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree.md
-            - 1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit: Algorithm/LeetCode/1437.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md
-            - 1443.Minimum Time to Collect All Apples in a Tree: Algorithm/LeetCode/1443.Minimum Time to Collect All Apples in a Tree.md
-            - 1451.Rearrange Words in a Sentence: Algorithm/LeetCode/1451.Rearrange Words in a Sentence.md
-            - 1452.People Whose List of Favorite Companies Is Not a Subset of Another List: Algorithm/LeetCode/1452.People Whose List of Favorite Companies Is Not a Subset of Another List.md
-            - 1456.Maximum Number of Vowels in a Substring of Given Length: Algorithm/LeetCode/1456.Maximum Number of Vowels in a Substring of Given Length.md
-            - 1457.Pseudo-Palindromic Paths in a Binary Tree: Algorithm/LeetCode/1457.Pseudo-Palindromic Paths in a Binary Tree.md
-            - 1466.Reorder Routes to Make All Paths Lead to the City Zero: Algorithm/LeetCode/1466.Reorder Routes to Make All Paths Lead to the City Zero.md
-            - 1467.Probability of a Two Boxes Having The Same Number of Distinct Balls: Algorithm/LeetCode/1467.Probability of a Two Boxes Having The Same Number of Distinct Balls.md
-            - LintCode-1604 两数最大和: Algorithm/LeetCode/LintCode-1604 两数最大和.md
-            - 面试题 10.01. 合并排序的数组: Algorithm/LeetCode/面试题 10.01. 合并排序的数组.md
-            - 面试题 16.03. 交点: Algorithm/LeetCode/面试题 16.03. 交点.md
-            - 面试题 16.11. 跳水板: Algorithm/LeetCode/面试题 16.11. 跳水板.md
-            - 面试题 17.26. 稀疏相似度: Algorithm/LeetCode/面试题 17.26. 稀疏相似度.md
-            - 面试题26. 树的子结构: Algorithm/LeetCode/面试题26. 树的子结构.md
-            - 面试题33. 二叉搜索树的后序遍历序列: Algorithm/LeetCode/面试题33. 二叉搜索树的后序遍历序列.md
-            - 面试题40. 最小的k个数: Algorithm/LeetCode/面试题40. 最小的k个数.md
-            - 面试题45. 把数组排成最小的数: Algorithm/LeetCode/面试题45. 把数组排成最小的数.md
-            - 面试题46. 把数字翻译成字符串: Algorithm/LeetCode/面试题46. 把数字翻译成字符串.md
-            - 面试题51. 数组中的逆序对: Algorithm/LeetCode/面试题51. 数组中的逆序对.md
-            - 面试题57 - II. 和为s的连续正数序列: Algorithm/LeetCode/面试题57 - II. 和为s的连续正数序列.md
-            - 面试题59 - II. 队列的最大值: Algorithm/LeetCode/面试题59 - II. 队列的最大值.md
-            - 面试题61. 扑克牌中的顺子: Algorithm/LeetCode/面试题61. 扑克牌中的顺子.md
-            - 面试题62.圆圈中最后剩下的数字: Algorithm/LeetCode/面试题62.圆圈中最后剩下的数字.md
-        - Project Euler: 
-            - Project Euler 1-Multiples of 3 and 5: Algorithm/Project-Euler/Project Euler 1-Multiples of 3 and 5.md
-            - Project Euler 2-Even Fibonacci numbers（斐波那契数计算+二分优化）: Algorithm/Project-Euler/Project Euler 2-Even Fibonacci numbers（斐波那契数计算+二分优化）.md
-            - Project Euler 3-Largest prime factor（质因数分解）: Algorithm/Project-Euler/Project Euler 3-Largest prime factor（质因数分解）.md
-            - Project Euler 4-Largest palindrome product（二分+回文数检验）: Algorithm/Project-Euler/Project Euler 4-Largest palindrome product（二分+回文数检验）.md
-            - Project Euler 5-Smallest multiple（哈希+快速幂+质数检验）: Algorithm/Project-Euler/Project Euler 5-Smallest multiple（哈希+快速幂+质数检验）.md
-            - Project Euler 6-Sum square difference（等差数列求和+平方和公式）: Algorithm/Project-Euler/Project Euler 6-Sum square difference（等差数列求和+平方和公式）.md
-            - Project Euler 7-10001st prime（6倍数素数筛选法）: Algorithm/Project-Euler/Project Euler 7-10001st prime（6倍数素数筛选法）.md
-            - Project Euler 8-Largest product in a series（滑动窗口）: Algorithm/Project-Euler/Project Euler 8-Largest product in a series（滑动窗口）.md
-            - Project Euler 9-Special Pythagorean triplet（GCD性质的应用）: Algorithm/Project-Euler/Project Euler 9-Special Pythagorean triplet（GCD性质的应用）.md
-            - Project Euler 10-Summation of primes（前缀和+二分）: Algorithm/Project-Euler/Project Euler 10-Summation of primes（前缀和+二分）.md
-            - Project Euler 11-Largest product in a grid（暴力搜索）: Algorithm/Project-Euler/Project Euler 11-Largest product in a grid（暴力搜索）.md
-            - Project Euler 13-Large sum（高精度或者模拟竖式加法）: Algorithm/Project-Euler/Project Euler 13-Large sum（高精度或者模拟竖式加法）.md
-            - Project Euler 14-Longest Collatz sequence（动态规划）: Algorithm/Project-Euler/Project Euler 14-Longest Collatz sequence（动态规划）.md
-
+        
     - 操作系统: 
         - CSAPP: Operating-System/《CSAPP》.md
         - APUE: Operating-System/《APUE》.md

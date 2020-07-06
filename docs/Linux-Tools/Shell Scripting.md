@@ -2,7 +2,7 @@
 
 又名《Linux命令行与shell脚本编程大全》，可以配合Hackerrank的shell习题来巩固提高。
 
-[TOC]
+
 
 # 第3章 基本的bash shell命令
 
