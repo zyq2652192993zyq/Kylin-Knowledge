@@ -257,6 +257,7 @@ nav:
             - 409.Longest Palindrome: Algorithm/LeetCode/409.Longest Palindrome.md
             - 410.Split Array Largest Sum: Algorithm/LeetCode/410.Split Array Largest Sum.md
             - 429.N-ary Tree Level Order Traversal: Algorithm/LeetCode/429.N-ary Tree Level Order Traversal.md
+            - 430.Flatten a Multilevel Doubly Linked List: Algorithm/LeetCode/430.Flatten a Multilevel Doubly Linked List.md
             - 437.Path Sum III: Algorithm/LeetCode/437.Path Sum III.md
             - 438.Find All Anagrams in a String: Algorithm/LeetCode/438.Find All Anagrams in a String.md
             - 441.Arranging Coins: Algorithm/LeetCode/441.Arranging Coins.md
@@ -382,6 +383,14 @@ nav:
             - 1502.Can Make Arithmetic Progression From Sequence: Algorithm/LeetCode/1502.Can Make Arithmetic Progression From Sequence.md
             - 1503.Last Moment Before All Ants Fall Out of a Plank: Algorithm/LeetCode/1503.Last Moment Before All Ants Fall Out of a Plank.md
             - 1504.Count Submatrices With All Ones: Algorithm/LeetCode/1504.Count Submatrices With All Ones.md
+            - 1507.Reformat Date: Algorithm/LeetCode/1507.Reformat Date.md
+            - 1508.Range Sum of Sorted Subarray Sums: Algorithm/LeetCode/1508.Range Sum of Sorted Subarray Sums.md
+            - 1509.Minimum Difference Between Largest and Smallest Value in Three Moves: Algorithm/LeetCode/1509.Minimum Difference Between Largest and Smallest Value in Three Moves.md
+            - 1510.Stone Game IV: Algorithm/LeetCode/1510.Stone Game IV.md
+            - 1512.Number of Good Pairs: Algorithm/LeetCode/1512.Number of Good Pairs.md
+            - 1513.Number of Substrings With Only 1s: Algorithm/LeetCode/1513.Number of Substrings With Only 1s.md 
+            - 1514.Path with Maximum Probability: Algorithm/LeetCode/1514.Path with Maximum Probability.md
+            - 1515.Best Position for a Service Centre: Algorithm/LeetCode/1515.Best Position for a Service Centre.md
             - LintCode-1604 两数最大和: Algorithm/LeetCode/LintCode-1604 两数最大和.md
             - 面试题 10.01. 合并排序的数组: Algorithm/LeetCode/面试题 10.01. 合并排序的数组.md
             - 面试题 16.03. 交点: Algorithm/LeetCode/面试题 16.03. 交点.md
