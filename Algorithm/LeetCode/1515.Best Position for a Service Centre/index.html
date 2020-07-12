@@ -10366,11 +10366,17 @@ Explanation: You can use [4.3460852395, 4.9813795505] as the position of the cen
 </ul>
 <hr />
 <p><code>Weber</code>问题：求平面上的供给点到需求点的最小欧几里得距离和。</p>
-<p><code>Weiszfeld</code>算法：通过以下迭代式进行迭代更新，自定义求解精度。其中<code>x, y</code>代表上一轮的供给点的横纵坐标，<code>x', y'</code>代表新一轮的供给点横纵坐标。
-$$
-x^{'} = \left(\sum^{n}<em>{i = 1} \frac{x_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum</em>{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \
-y^{'} = \left(\sum^{n}<em>{i = 1} \frac{y_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum</em>{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \
-$$</p>
+<p><code>Weiszfeld</code>算法：通过以下迭代式进行迭代更新，自定义求解精度。其中<code>x, y</code>代表上一轮的供给点的横纵坐标，<code>x', y'</code>代表新一轮的供给点横纵坐标。</p>
+<div>
+<div class="MathJax_Preview">
+x^{'} = \left(\sum^{n}_{i = 1} \frac{x_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
+y^{'} = \left(\sum^{n}_{i = 1} \frac{y_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
+</div>
+<script type="math/tex; mode=display">
+x^{'} = \left(\sum^{n}_{i = 1} \frac{x_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
+y^{'} = \left(\sum^{n}_{i = 1} \frac{y_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
+</script>
+</div>
 <p>初始化时，我们用横纵坐标的平均值作为初始点，然后不断迭代更新。注意可能存在分母为0的情况。</p>
 <div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">Solution</span> <span class="p">{</span>
 <span class="k">public</span><span class="o">:</span>
