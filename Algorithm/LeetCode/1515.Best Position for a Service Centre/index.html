@@ -10369,11 +10369,17 @@ Explanation: You can use [4.3460852395, 4.9813795505] as the position of the cen
 <p><code>Weiszfeld</code>算法：通过以下迭代式进行迭代更新，自定义求解精度。其中<code>x, y</code>代表上一轮的供给点的横纵坐标，<code>x', y'</code>代表新一轮的供给点横纵坐标。</p>
 <div>
 <div class="MathJax_Preview">
-x^{'} = \left(\sum^{n}_{i = 1} \frac{x_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
+x^{'} = \left(\sum^{n}_{i = 1} \frac{x_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) 
+</div>
+<script type="math/tex; mode=display">
+x^{'} = \left(\sum^{n}_{i = 1} \frac{x_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) 
+</script>
+</div>
+<div>
+<div class="MathJax_Preview">
 y^{'} = \left(\sum^{n}_{i = 1} \frac{y_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
 </div>
 <script type="math/tex; mode=display">
-x^{'} = \left(\sum^{n}_{i = 1} \frac{x_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
 y^{'} = \left(\sum^{n}_{i = 1} \frac{y_i}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}} / \sum_{i = 1}^n \frac{1}{\sqrt{(x_i - x) ^2  + (y_i - y) ^ 2}}\right) \\
 </script>
 </div>
