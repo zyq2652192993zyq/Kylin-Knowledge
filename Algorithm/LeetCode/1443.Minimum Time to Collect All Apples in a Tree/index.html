@@ -2052,6 +2052,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../186.Reverse%20Words%20in%20a%20String%20II/" title="186.Reverse Words in a String II" class="md-nav__link">
+      186.Reverse Words in a String II
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
     <a href="../190.Reverse%20Bits/" title="190.Reverse Bits" class="md-nav__link">
       190.Reverse Bits
     </a>
@@ -2124,6 +2136,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../203.Remove%20Linked%20List%20Elements/" title="203.Remove Linked List Elements" class="md-nav__link">
+      203.Remove Linked List Elements
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
     <a href="../206.Reverse%20Linked%20List/" title="206.Reverse Linked List" class="md-nav__link">
       206.Reverse Linked List
     </a>
@@ -2150,6 +2174,18 @@
   <li class="md-nav__item">
     <a href="../209.Minimum%20Size%20Subarray%20Sum/" title="209.Minimum Size Subarray Sum" class="md-nav__link">
       209.Minimum Size Subarray Sum
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../210.Course%20Schedule%20II/" title="210.Course Schedule II" class="md-nav__link">
+      210.Course Schedule II
     </a>
   </li>
 
@@ -3374,6 +3410,18 @@
   <li class="md-nav__item">
     <a href="../784.Letter%20Case%20Permutation/" title="784.Letter Case Permutation" class="md-nav__link">
       784.Letter Case Permutation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../785.Is%20Graph%20Bipartite/" title="785.Is Graph Bipartite" class="md-nav__link">
+      785.Is Graph Bipartite
     </a>
   </li>
 
@@ -10427,34 +10475,36 @@ Output: 0
 <p>每个节点遍历一次，时间复杂度<span><span class="MathJax_Preview">O(n)</span><script type="math/tex">O(n)</script></span>。</p>
 <div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">Solution</span> <span class="p">{</span>
     <span class="n">unordered_map</span><span class="o">&lt;</span><span class="kt">int</span><span class="p">,</span> <span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&gt;</span> <span class="n">um</span><span class="p">;</span>
-
+    <span class="n">vector</span><span class="o">&lt;</span><span class="kt">bool</span><span class="o">&gt;</span> <span class="n">used</span><span class="p">;</span>
 <span class="k">public</span><span class="o">:</span>
     <span class="kt">int</span> <span class="n">minTime</span><span class="p">(</span><span class="kt">int</span> <span class="n">n</span><span class="p">,</span> <span class="n">vector</span><span class="o">&lt;</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&gt;&amp;</span> <span class="n">edges</span><span class="p">,</span> <span class="n">vector</span><span class="o">&lt;</span><span class="kt">bool</span><span class="o">&gt;&amp;</span> <span class="n">hasApple</span><span class="p">)</span> <span class="p">{</span>
         <span class="n">std</span><span class="o">::</span><span class="n">ios_base</span><span class="o">::</span><span class="n">sync_with_stdio</span><span class="p">(</span><span class="nb">false</span><span class="p">);</span>
         <span class="n">cin</span><span class="p">.</span><span class="n">tie</span><span class="p">(</span><span class="nb">NULL</span><span class="p">);</span>
         <span class="n">cout</span><span class="p">.</span><span class="n">tie</span><span class="p">(</span><span class="nb">NULL</span><span class="p">);</span>
 
-        <span class="k">for</span> <span class="p">(</span><span class="k">auto</span> <span class="o">&amp;</span><span class="nl">e</span> <span class="p">:</span> <span class="n">edges</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">used</span><span class="p">.</span><span class="n">resize</span><span class="p">(</span><span class="n">n</span><span class="p">,</span> <span class="nb">false</span><span class="p">);</span>
+        <span class="k">for</span> <span class="p">(</span><span class="k">auto</span> <span class="o">&amp;</span> <span class="nl">e</span> <span class="p">:</span> <span class="n">edges</span><span class="p">)</span> <span class="p">{</span>
             <span class="kt">int</span> <span class="n">from</span> <span class="o">=</span> <span class="n">e</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">to</span> <span class="o">=</span> <span class="n">e</span><span class="p">[</span><span class="mi">1</span><span class="p">];</span>
             <span class="n">um</span><span class="p">[</span><span class="n">from</span><span class="p">].</span><span class="n">push_back</span><span class="p">(</span><span class="n">to</span><span class="p">);</span>
+            <span class="n">um</span><span class="p">[</span><span class="n">to</span><span class="p">].</span><span class="n">push_back</span><span class="p">(</span><span class="n">from</span><span class="p">);</span>
         <span class="p">}</span>
 
-        <span class="k">return</span> <span class="n">solve</span><span class="p">(</span><span class="n">hasApple</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+        <span class="k">return</span> <span class="n">DFS</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">hasApple</span><span class="p">);</span>
     <span class="p">}</span>
 
-    <span class="kt">int</span> <span class="n">solve</span><span class="p">(</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">bool</span><span class="o">&gt;</span> <span class="o">&amp;</span> <span class="n">hasApple</span><span class="p">,</span> <span class="kt">int</span> <span class="n">startPoint</span><span class="p">)</span>
+    <span class="kt">int</span> <span class="n">DFS</span><span class="p">(</span><span class="kt">int</span> <span class="n">startPoint</span><span class="p">,</span> <span class="n">vector</span><span class="o">&lt;</span><span class="kt">bool</span><span class="o">&gt;&amp;</span> <span class="n">hasApple</span><span class="p">)</span>
     <span class="p">{</span>
-        <span class="k">if</span> <span class="p">(</span><span class="n">um</span><span class="p">[</span><span class="n">startPoint</span><span class="p">].</span><span class="n">size</span><span class="p">()</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+        <span class="kt">int</span> <span class="n">res</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+        <span class="n">used</span><span class="p">[</span><span class="n">startPoint</span><span class="p">]</span> <span class="o">=</span> <span class="nb">true</span><span class="p">;</span>
 
-        <span class="kt">int</span> <span class="n">sum</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
-        <span class="k">auto</span> <span class="o">&amp;</span> <span class="n">v</span> <span class="o">=</span> <span class="n">um</span><span class="p">[</span><span class="n">startPoint</span><span class="p">];</span>
-        <span class="kt">int</span> <span class="n">len</span> <span class="o">=</span> <span class="n">v</span><span class="p">.</span><span class="n">size</span><span class="p">();</span>
-        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">len</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">)</span> <span class="p">{</span>
-            <span class="kt">int</span> <span class="n">tmp</span> <span class="o">=</span> <span class="n">solve</span><span class="p">(</span><span class="n">hasApple</span><span class="p">,</span> <span class="n">v</span><span class="p">[</span><span class="n">i</span><span class="p">]);</span>
-            <span class="k">if</span> <span class="p">(</span><span class="n">tmp</span> <span class="o">||</span> <span class="p">(</span><span class="n">tmp</span> <span class="o">==</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="n">hasApple</span><span class="p">[</span><span class="n">v</span><span class="p">[</span><span class="n">i</span><span class="p">]]))</span> <span class="n">sum</span> <span class="o">+=</span> <span class="mi">2</span> <span class="o">+</span> <span class="n">tmp</span><span class="p">;</span>
+        <span class="k">for</span> <span class="p">(</span><span class="k">auto</span> <span class="o">&amp;</span> <span class="nl">e</span> <span class="p">:</span> <span class="n">um</span><span class="p">[</span><span class="n">startPoint</span><span class="p">])</span> <span class="p">{</span>
+            <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">used</span><span class="p">[</span><span class="n">e</span><span class="p">])</span> <span class="p">{</span>
+                <span class="kt">int</span> <span class="n">tmp</span> <span class="o">=</span> <span class="n">DFS</span><span class="p">(</span><span class="n">e</span><span class="p">,</span> <span class="n">hasApple</span><span class="p">);</span>
+                <span class="k">if</span> <span class="p">(</span><span class="n">tmp</span> <span class="o">||</span> <span class="p">(</span><span class="n">tmp</span> <span class="o">==</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="n">hasApple</span><span class="p">[</span><span class="n">e</span><span class="p">]))</span> <span class="n">res</span> <span class="o">+=</span> <span class="mi">2</span> <span class="o">+</span> <span class="n">tmp</span><span class="p">;</span>
+            <span class="p">}</span>
         <span class="p">}</span>
 
-        <span class="k">return</span> <span class="n">sum</span><span class="p">;</span>
+        <span class="k">return</span> <span class="n">res</span><span class="p">;</span>
     <span class="p">}</span>
 <span class="p">};</span>
 </code></pre></div>
